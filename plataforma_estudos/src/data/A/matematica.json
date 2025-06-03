@@ -1,0 +1,118 @@
+[
+  {
+    "disciplina": "Matemática",
+    "trimestre": "2º Trimestre A",
+    "bncc": [
+      {
+        "codigo": "EF05MA01",
+        "descricao": "Ler, escrever e ordenar números naturais até a ordem das centenas de milhar com compreensão das principais características do sistema de numeração decimal."
+      },
+      {
+        "codigo": "EF05MA02",
+        "descricao": "Ler, escrever e ordenar números racionais na forma decimal com compreensão das principais características do sistema de numeração decimal, utilizando, como recursos, a composição e decomposição e a reta numérica."
+      },
+      {
+        "codigo": "EF05MA07",
+        "descricao": "Resolver e elaborar problemas de adição e subtração com números naturais e com números racionais, cuja representação decimal seja finita, utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos."
+      }
+    ],
+    "atividades": [
+      {
+        "id": 1,
+        "titulo": "Decomposição de Números Naturais",
+        "tipo": "quiz",
+        "descricao": "Decomponha os seguintes números em unidades, dezenas, centenas, etc.",
+        "questoes": [
+          {
+            "pergunta": "Como podemos decompor o número 45.678?",
+            "opcoes": [
+              "4 dezenas de milhar + 5 milhares + 6 centenas + 7 dezenas + 8 unidades",
+              "4 milhares + 5 centenas + 6 dezenas + 7 unidades + 8 décimos",
+              "40.000 + 5.000 + 600 + 70 + 8",
+              "4 × 10.000 + 5 × 1.000 + 6 × 10 + 7 × 1 + 8 × 0,1"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "O número 45.678 pode ser decomposto como 40.000 + 5.000 + 600 + 70 + 8, que corresponde a 4 dezenas de milhar, 5 milhares, 6 centenas, 7 dezenas e 8 unidades."
+          },
+          {
+            "pergunta": "Qual é a decomposição correta do número 123.456?",
+            "opcoes": [
+              "1 centena de milhar + 2 dezenas de milhar + 3 milhares + 4 centenas + 5 dezenas + 6 unidades",
+              "100.000 + 20.000 + 3.000 + 400 + 50 + 6",
+              "1 × 100.000 + 2 × 10.000 + 3 × 1.000 + 4 × 100 + 5 × 10 + 6 × 1",
+              "Todas as alternativas anteriores estão corretas"
+            ],
+            "resposta_correta": 3,
+            "explicacao": "Todas as alternativas apresentam formas corretas de decompor o número 123.456, seja por extenso, por adição ou por multiplicação."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "Operações com Números Decimais",
+        "tipo": "quiz",
+        "descricao": "Resolva os problemas envolvendo adição e subtração de números decimais.",
+        "questoes": [
+          {
+            "pergunta": "Maria foi ao mercado e comprou 1,5 kg de maçãs, 0,75 kg de uvas e 2,25 kg de laranjas. Qual o peso total das frutas que Maria comprou?",
+            "opcoes": [
+              "3,5 kg",
+              "4,0 kg",
+              "4,5 kg",
+              "5,0 kg"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "Para encontrar o peso total, somamos os pesos de cada fruta: 1,5 + 0,75 + 2,25 = 4,5 kg."
+          },
+          {
+            "pergunta": "Pedro tinha R$ 25,75 e gastou R$ 12,80 na compra de um livro. Quanto dinheiro Pedro ainda tem?",
+            "opcoes": [
+              "R$ 12,95",
+              "R$ 12,05",
+              "R$ 13,05",
+              "R$ 13,95"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Para encontrar quanto dinheiro Pedro ainda tem, subtraímos o valor gasto do valor inicial: R$ 25,75 - R$ 12,80 = R$ 12,95."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Números na Reta Numérica",
+        "tipo": "interativo",
+        "descricao": "Posicione os números decimais na reta numérica.",
+        "instrucoes": "Arraste cada número para sua posição correta na reta numérica.",
+        "numeros": [
+          0.25,
+          0.5,
+          0.75,
+          1.0,
+          1.25,
+          1.5,
+          1.75,
+          2.0
+        ],
+        "dica": "Observe que entre cada número inteiro, podemos dividir em 4 partes iguais (0,25, 0,50, 0,75)."
+      },
+      {
+        "id": 4,
+        "titulo": "Problemas de Matemática do Cotidiano",
+        "tipo": "desafio",
+        "descricao": "Resolva problemas matemáticos relacionados a situações do dia a dia.",
+        "questoes": [
+          {
+            "pergunta": "Uma receita de bolo leva 2,5 xícaras de farinha. Se quisermos fazer metade da receita, quantas xícaras de farinha precisaremos?",
+            "resposta": "1,25 xícaras",
+            "dica": "Para encontrar metade de um valor, dividimos por 2."
+          },
+          {
+            "pergunta": "João tem 3 caixas com 24 lápis em cada uma. Ele quer distribuir igualmente esses lápis entre seus 6 amigos. Quantos lápis cada amigo receberá?",
+            "resposta": "12 lápis",
+            "dica": "Primeiro, calcule o total de lápis nas 3 caixas, depois divida pelo número de amigos."
+          }
+        ]
+      }
+    ]
+  }
+]

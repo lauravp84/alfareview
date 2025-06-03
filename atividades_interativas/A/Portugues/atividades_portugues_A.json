@@ -1,0 +1,125 @@
+{
+  "disciplina": "Português",
+  "trimestre": "2º Trimestre A",
+  "bncc": [
+    {
+      "codigo": "EF05LP01",
+      "descricao": "Grafar palavras utilizando regras de correspondência fonema-grafema regulares, contextuais e morfológicas e palavras de uso frequente com correspondências irregulares."
+    },
+    {
+      "codigo": "EF05LP09",
+      "descricao": "Ler e compreender, com autonomia, textos instrucional de regras de jogo, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções do gênero e considerando a situação comunicativa e a finalidade do texto."
+    },
+    {
+      "codigo": "EF05LP15",
+      "descricao": "Identificar e interpretar o efeito de sentido de recursos expressivos sonoros (rima, aliteração etc), semânticos (figuras de linguagem), gráfico espacial (distribuição da mancha gráfica no papel), imagens e sua relação com o texto verbal."
+    }
+  ],
+  "atividades": [
+    {
+      "id": 1,
+      "titulo": "Interpretação de Texto",
+      "tipo": "quiz",
+      "descricao": "Leia o texto e responda às questões de interpretação.",
+      "texto": "O Sabiá e a Girafa\n\nCerto dia, um sabiá pousou no pescoço de uma girafa e começou a cantar. A girafa, incomodada, perguntou:\n— Por que você não vai cantar em outro lugar?\n— Porque aqui de cima posso ver toda a floresta — respondeu o sabiá.\n— E por que você quer ver toda a floresta? — questionou a girafa.\n— Para avisar a todos quando o perigo se aproximar — explicou o pássaro.\nA girafa ficou pensativa e então disse:\n— Nesse caso, pode ficar. Sua presença será útil para todos nós.\nE assim, o sabiá e a girafa tornaram-se amigos, cada um contribuindo com o que tinha de melhor para a segurança da floresta.",
+      "questoes": [
+        {
+          "pergunta": "Por que o sabiá queria ficar no pescoço da girafa?",
+          "opcoes": [
+            "Porque estava cansado de voar",
+            "Porque queria incomodar a girafa",
+            "Porque de lá podia ver toda a floresta",
+            "Porque queria fazer amizade com a girafa"
+          ],
+          "resposta_correta": 2,
+          "explicacao": "No texto, o sabiá explica que escolheu o pescoço da girafa porque de lá podia ver toda a floresta."
+        },
+        {
+          "pergunta": "Qual foi a razão que convenceu a girafa a deixar o sabiá ficar?",
+          "opcoes": [
+            "A girafa sentiu pena do sabiá",
+            "O sabiá poderia ajudar a avisar sobre perigos",
+            "A girafa gostava de música",
+            "O sabiá prometeu não cantar mais"
+          ],
+          "resposta_correta": 1,
+          "explicacao": "A girafa aceitou que o sabiá ficasse quando entendeu que ele poderia avisar a todos quando o perigo se aproximasse, sendo útil para a segurança da floresta."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Gramática: Substantivos e Adjetivos",
+      "tipo": "quiz",
+      "descricao": "Identifique substantivos e adjetivos nas frases.",
+      "questoes": [
+        {
+          "pergunta": "Na frase 'O sabiá esperto pousou no longo pescoço da girafa alta', quais são os adjetivos?",
+          "opcoes": [
+            "sabiá, pescoço, girafa",
+            "esperto, longo, alta",
+            "o, no, da",
+            "pousou, longo, alta"
+          ],
+          "resposta_correta": 1,
+          "explicacao": "Os adjetivos são palavras que caracterizam os substantivos. Na frase, 'esperto' caracteriza o sabiá, 'longo' caracteriza o pescoço e 'alta' caracteriza a girafa."
+        },
+        {
+          "pergunta": "Quais são os substantivos na frase 'A amizade entre os animais trouxe segurança para a floresta'?",
+          "opcoes": [
+            "amizade, animais, segurança, floresta",
+            "a, entre, os, para",
+            "trouxe, segurança, floresta",
+            "amizade, entre, trouxe, segurança"
+          ],
+          "resposta_correta": 0,
+          "explicacao": "Os substantivos são palavras que nomeiam seres, lugares, sentimentos, etc. Na frase, 'amizade', 'animais', 'segurança' e 'floresta' são substantivos."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Produção de Texto",
+      "tipo": "interativo",
+      "descricao": "Crie uma fábula com uma moral ao final.",
+      "instrucoes": "Escreva uma pequena fábula (história com animais como personagens) que transmita uma lição importante. Sua fábula deve ter: início, meio, fim e uma moral (lição).",
+      "dicas": [
+        "Escolha animais com características marcantes (ex: leão corajoso, tartaruga persistente)",
+        "Crie um problema que os personagens precisam resolver",
+        "Termine com uma frase que resuma a lição aprendida",
+        "Use diálogos entre os personagens"
+      ],
+      "exemplo_inicio": "Certo dia, uma formiga trabalhadora encontrou uma cigarra que cantava alegremente sem se preocupar com o inverno que se aproximava..."
+    },
+    {
+      "id": 4,
+      "titulo": "Figuras de Linguagem",
+      "tipo": "desafio",
+      "descricao": "Identifique as figuras de linguagem nos textos.",
+      "questoes": [
+        {
+          "pergunta": "Que figura de linguagem está presente em: 'O vento sussurrava entre as árvores'?",
+          "opcoes": [
+            "Metáfora",
+            "Personificação",
+            "Comparação",
+            "Hipérbole"
+          ],
+          "resposta_correta": 1,
+          "explicacao": "Temos uma personificação, pois atribui-se ao vento (elemento da natureza) a capacidade humana de sussurrar."
+        },
+        {
+          "pergunta": "Identifique a figura de linguagem em: 'Aquele menino é um foguete, corre muito rápido!'",
+          "opcoes": [
+            "Metáfora",
+            "Personificação",
+            "Comparação",
+            "Aliteração"
+          ],
+          "resposta_correta": 0,
+          "explicacao": "Temos uma metáfora, pois há uma comparação implícita entre o menino e um foguete, sem usar palavras comparativas como 'como' ou 'tal qual'."
+        }
+      ]
+    }
+  ]
+}

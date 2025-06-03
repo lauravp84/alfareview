@@ -1,0 +1,112 @@
+{
+  "disciplina": "Ciências",
+  "trimestre": "2º Trimestre A",
+  "bncc": [
+    {
+      "codigo": "EF05CI01",
+      "descricao": "Explorar fenômenos da vida cotidiana que evidenciem propriedades físicas dos materiais – como densidade, condutibilidade térmica e elétrica, respostas a forças magnéticas, solubilidade, respostas a forças mecânicas (dureza, elasticidade etc.), entre outras."
+    },
+    {
+      "codigo": "EF05CI02",
+      "descricao": "Aplicar os conhecimentos sobre as mudanças de estado físico da água para explicar o ciclo hidrológico e analisar suas implicações na agricultura, no clima, na geração de energia elétrica, no provimento de água potável e no equilíbrio dos ecossistemas regionais (ou locais)."
+    },
+    {
+      "codigo": "EF05CI05",
+      "descricao": "Construir propostas coletivas para um consumo mais consciente e criar soluções tecnológicas para o descarte adequado e a reutilização ou reciclagem de materiais consumidos na escola e/ou na vida cotidiana."
+    }
+  ],
+  "atividades": [
+    {
+      "id": 1,
+      "titulo": "Propriedades dos Materiais",
+      "tipo": "quiz",
+      "descricao": "Teste seus conhecimentos sobre as propriedades físicas dos materiais.",
+      "questoes": [
+        {
+          "pergunta": "O que é densidade?",
+          "opcoes": [
+            "É a quantidade de massa de um objeto",
+            "É a relação entre a massa de um objeto e o volume que ele ocupa",
+            "É o espaço que um objeto ocupa",
+            "É a força que um objeto exerce sobre uma superfície"
+          ],
+          "resposta_correta": 1,
+          "explicacao": "A densidade é a relação entre a massa de um objeto e o volume que ele ocupa. Ela explica por que alguns objetos afundam na água enquanto outros flutuam."
+        },
+        {
+          "pergunta": "Por que uma colher de metal parece mais fria ao toque do que uma colher de madeira, mesmo estando ambas à temperatura ambiente?",
+          "opcoes": [
+            "Porque o metal é naturalmente mais frio que a madeira",
+            "Porque o metal tem maior condutividade térmica e transfere calor da nossa mão mais rapidamente",
+            "Porque a madeira produz calor naturalmente",
+            "Porque a colher de metal está sempre em temperatura mais baixa que a ambiente"
+          ],
+          "resposta_correta": 1,
+          "explicacao": "O metal tem maior condutividade térmica que a madeira, ou seja, transfere calor mais rapidamente. Quando tocamos uma colher de metal, ela conduz o calor da nossa mão mais rapidamente, dando a sensação de estar mais fria, mesmo estando à mesma temperatura ambiente que a colher de madeira."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Ciclo da Água",
+      "tipo": "quiz",
+      "descricao": "Responda às questões sobre o ciclo hidrológico e suas implicações.",
+      "questoes": [
+        {
+          "pergunta": "Quais são os estados físicos da água encontrados na natureza durante o ciclo hidrológico?",
+          "opcoes": [
+            "Apenas líquido e gasoso",
+            "Apenas sólido e líquido",
+            "Líquido, sólido e gasoso",
+            "Apenas líquido"
+          ],
+          "resposta_correta": 2,
+          "explicacao": "Durante o ciclo hidrológico, a água pode ser encontrada nos três estados físicos: líquido (rios, lagos, oceanos), sólido (neve, geleiras) e gasoso (vapor d'água na atmosfera)."
+        },
+        {
+          "pergunta": "Qual processo do ciclo da água é responsável pela formação das nuvens?",
+          "opcoes": [
+            "Evaporação",
+            "Condensação",
+            "Precipitação",
+            "Transpiração"
+          ],
+          "resposta_correta": 1,
+          "explicacao": "A condensação é o processo responsável pela formação das nuvens. Ocorre quando o vapor d'água na atmosfera esfria e se transforma em pequenas gotículas de água líquida, que se agrupam formando as nuvens."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Experimento: Estados Físicos da Água",
+      "tipo": "interativo",
+      "descricao": "Realize um experimento para observar as mudanças de estado físico da água.",
+      "instrucoes": "Neste experimento virtual, você poderá observar as mudanças de estado físico da água ao controlar a temperatura.",
+      "passos": [
+        "Use o controle deslizante para aumentar ou diminuir a temperatura",
+        "Observe o que acontece com a água em cada temperatura",
+        "Identifique os processos de fusão, vaporização, condensação e solidificação",
+        "Anote suas observações no caderno de ciências"
+      ],
+      "dica": "Lembre-se que a água congela a 0°C e ferve a 100°C ao nível do mar."
+    },
+    {
+      "id": 4,
+      "titulo": "Consumo Consciente e Reciclagem",
+      "tipo": "desafio",
+      "descricao": "Crie soluções para um consumo mais consciente e descarte adequado de materiais.",
+      "questoes": [
+        {
+          "pergunta": "Quais são as cores das lixeiras para coleta seletiva e o que deve ser descartado em cada uma?",
+          "resposta": "Azul: papel e papelão; Vermelho: plástico; Verde: vidro; Amarelo: metal; Marrom: resíduos orgânicos; Preto: madeira; Laranja: resíduos perigosos; Cinza: resíduos não recicláveis ou misturados; Roxo: resíduos radioativos; Branco: resíduos ambulatoriais e de serviços de saúde.",
+          "dica": "Lembre-se que cada cor está associada a um tipo específico de material."
+        },
+        {
+          "pergunta": "Proponha três ações para reduzir o consumo de plásticos descartáveis na escola.",
+          "resposta": "1. Substituir copos plásticos por canecas reutilizáveis; 2. Incentivar o uso de garrafas de água reutilizáveis; 3. Substituir embalagens plásticas da cantina por materiais biodegradáveis.",
+          "dica": "Pense em alternativas reutilizáveis e em como conscientizar a comunidade escolar."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+[
+  {
+    "disciplina": "Matemática",
+    "trimestre": "2º Trimestre B",
+    "bncc": [
+      {
+        "codigo": "EF05MA08",
+        "descricao": "Resolver e elaborar problemas de multiplicação e divisão com números naturais e com números racionais cuja representação decimal é finita, utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos."
+      },
+      {
+        "codigo": "EF05MA10",
+        "descricao": "Concluir, por meio de investigações, que a relação de igualdade existente entre dois membros permanece ao adicionar, subtrair, multiplicar ou dividir cada um desses membros por um mesmo número, para construir a noção de equivalência."
+      },
+      {
+        "codigo": "EF05MA17",
+        "descricao": "Reconhecer, nomear e comparar polígonos, considerando lados, vértices e ângulos, e desenhá-los, utilizando material de desenho ou tecnologias digitais."
+      }
+    ],
+    "atividades": [
+      {
+        "id": 1,
+        "titulo": "Multiplicação e Divisão",
+        "tipo": "quiz",
+        "descricao": "Resolva os problemas envolvendo multiplicação e divisão.",
+        "questoes": [
+          {
+            "pergunta": "Uma escola tem 6 turmas com 28 alunos em cada uma. Quantos alunos há no total?",
+            "opcoes": [
+              "148 alunos",
+              "158 alunos",
+              "168 alunos",
+              "178 alunos"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "Para resolver este problema, multiplicamos o número de turmas pelo número de alunos em cada turma: 6 × 28 = 168 alunos."
+          },
+          {
+            "pergunta": "Um pacote com 144 lápis de cor será distribuído igualmente entre 12 crianças. Quantos lápis cada criança receberá?",
+            "opcoes": [
+              "10 lápis",
+              "12 lápis",
+              "14 lápis",
+              "16 lápis"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Para resolver este problema, dividimos o número total de lápis pelo número de crianças: 144 ÷ 12 = 12 lápis para cada criança."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "Equivalência e Igualdade",
+        "tipo": "quiz",
+        "descricao": "Explore a noção de equivalência em expressões matemáticas.",
+        "questoes": [
+          {
+            "pergunta": "Se 3 × 4 = 12, qual das seguintes expressões também é verdadeira?",
+            "opcoes": [
+              "3 × 5 = 12",
+              "3 × 4 + 2 = 12 + 2",
+              "3 × 4 - 1 = 12 + 1",
+              "3 × 4 ÷ 2 = 12 × 2"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "A expressão 3 × 4 + 2 = 12 + 2 é verdadeira porque adicionamos o mesmo valor (2) aos dois lados da igualdade. Assim, 3 × 4 + 2 = 12 + 2, que resulta em 14 = 14."
+          },
+          {
+            "pergunta": "Se x + 5 = 10, o que acontece se multiplicarmos os dois lados por 2?",
+            "opcoes": [
+              "x + 5 = 20",
+              "x + 10 = 20",
+              "2x + 5 = 20",
+              "2x + 10 = 20"
+            ],
+            "resposta_correta": 3,
+            "explicacao": "Ao multiplicar os dois lados da equação x + 5 = 10 por 2, obtemos 2(x + 5) = 2 × 10, que resulta em 2x + 10 = 20."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Polígonos e suas Propriedades",
+        "tipo": "interativo",
+        "descricao": "Identifique e desenhe diferentes tipos de polígonos.",
+        "instrucoes": "Use as ferramentas de desenho para criar os polígonos solicitados.",
+        "desafios": [
+          "Desenhe um triângulo equilátero (todos os lados iguais)",
+          "Desenhe um quadrado e identifique seus vértices",
+          "Desenhe um pentágono regular (5 lados iguais)",
+          "Desenhe um hexágono regular (6 lados iguais)"
+        ],
+        "dica": "Lembre-se que um polígono regular tem todos os lados e ângulos iguais."
+      },
+      {
+        "id": 4,
+        "titulo": "Problemas de Raciocínio Lógico",
+        "tipo": "desafio",
+        "descricao": "Resolva problemas que exigem raciocínio lógico e estratégias diversas.",
+        "questoes": [
+          {
+            "pergunta": "Ana, Beatriz e Carlos estão em uma fila. Ana não é a primeira e Beatriz não é a última. Quem está no meio da fila?",
+            "opcoes": [
+              "Ana",
+              "Beatriz",
+              "Carlos",
+              "Não é possível determinar"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Se Ana não é a primeira e Beatriz não é a última, temos duas possibilidades: (Carlos, Beatriz, Ana) ou (Carlos, Ana, Beatriz). Mas como Ana não é a primeira, a ordem só pode ser (Carlos, Beatriz, Ana), portanto Beatriz está no meio."
+          },
+          {
+            "pergunta": "Um número somado com ele mesmo e depois multiplicado por 3 resulta em 30. Qual é esse número?",
+            "resposta": "5",
+            "dica": "Chame o número de x. A expressão matemática seria: 3(x + x) = 30 ou 3 × 2x = 30."
+          }
+        ]
+      }
+    ]
+  }
+]

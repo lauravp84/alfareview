@@ -1,0 +1,3008 @@
+{
+  "A": {
+    "Ciencias": [
+      {
+        "disciplina": "Ciências",
+        "trimestre": "2º Trimestre A",
+        "bncc": [
+          {
+            "codigo": "EF05CI01",
+            "descricao": "Explorar fenômenos da vida cotidiana que evidenciem propriedades físicas dos materiais – como densidade, condutibilidade térmica e elétrica, respostas a forças magnéticas, solubilidade, respostas a forças mecânicas (dureza, elasticidade etc.), entre outras."
+          },
+          {
+            "codigo": "EF05CI02",
+            "descricao": "Aplicar os conhecimentos sobre as mudanças de estado físico da água para explicar o ciclo hidrológico e analisar suas implicações na agricultura, no clima, na geração de energia elétrica, no provimento de água potável e no equilíbrio dos ecossistemas regionais (ou locais)."
+          },
+          {
+            "codigo": "EF05CI05",
+            "descricao": "Construir propostas coletivas para um consumo mais consciente e criar soluções tecnológicas para o descarte adequado e a reutilização ou reciclagem de materiais consumidos na escola e/ou na vida cotidiana."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Propriedades dos Materiais",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre as propriedades físicas dos materiais.",
+            "questoes": [
+              {
+                "pergunta": "O que é densidade?",
+                "opcoes": [
+                  "É a quantidade de massa de um objeto",
+                  "É a relação entre a massa de um objeto e o volume que ele ocupa",
+                  "É o espaço que um objeto ocupa",
+                  "É a força que um objeto exerce sobre uma superfície"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "A densidade é a relação entre a massa de um objeto e o volume que ele ocupa. Ela explica por que alguns objetos afundam na água enquanto outros flutuam."
+              },
+              {
+                "pergunta": "Por que uma colher de metal parece mais fria ao toque do que uma colher de madeira, mesmo estando ambas à temperatura ambiente?",
+                "opcoes": [
+                  "Porque o metal é naturalmente mais frio que a madeira",
+                  "Porque o metal tem maior condutividade térmica e transfere calor da nossa mão mais rapidamente",
+                  "Porque a madeira produz calor naturalmente",
+                  "Porque a colher de metal está sempre em temperatura mais baixa que a ambiente"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O metal tem maior condutividade térmica que a madeira, ou seja, transfere calor mais rapidamente. Quando tocamos uma colher de metal, ela conduz o calor da nossa mão mais rapidamente, dando a sensação de estar mais fria, mesmo estando à mesma temperatura ambiente que a colher de madeira."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Ciclo da Água",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre o ciclo hidrológico e suas implicações.",
+            "questoes": [
+              {
+                "pergunta": "Quais são os estados físicos da água encontrados na natureza durante o ciclo hidrológico?",
+                "opcoes": [
+                  "Apenas líquido e gasoso",
+                  "Apenas sólido e líquido",
+                  "Líquido, sólido e gasoso",
+                  "Apenas líquido"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Durante o ciclo hidrológico, a água pode ser encontrada nos três estados físicos: líquido (rios, lagos, oceanos), sólido (neve, geleiras) e gasoso (vapor d'água na atmosfera)."
+              },
+              {
+                "pergunta": "Qual processo do ciclo da água é responsável pela formação das nuvens?",
+                "opcoes": [
+                  "Evaporação",
+                  "Condensação",
+                  "Precipitação",
+                  "Transpiração"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "A condensação é o processo responsável pela formação das nuvens. Ocorre quando o vapor d'água na atmosfera esfria e se transforma em pequenas gotículas de água líquida, que se agrupam formando as nuvens."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Experimento: Estados Físicos da Água",
+            "tipo": "interativo",
+            "descricao": "Realize um experimento para observar as mudanças de estado físico da água.",
+            "instrucoes": "Neste experimento virtual, você poderá observar as mudanças de estado físico da água ao controlar a temperatura.",
+            "passos": [
+              "Use o controle deslizante para aumentar ou diminuir a temperatura",
+              "Observe o que acontece com a água em cada temperatura",
+              "Identifique os processos de fusão, vaporização, condensação e solidificação",
+              "Anote suas observações no caderno de ciências"
+            ],
+            "dica": "Lembre-se que a água congela a 0°C e ferve a 100°C ao nível do mar."
+          },
+          {
+            "id": 4,
+            "titulo": "Consumo Consciente e Reciclagem",
+            "tipo": "desafio",
+            "descricao": "Crie soluções para um consumo mais consciente e descarte adequado de materiais.",
+            "questoes": [
+              {
+                "pergunta": "Quais são as cores das lixeiras para coleta seletiva e o que deve ser descartado em cada uma?",
+                "resposta": "Azul: papel e papelão; Vermelho: plástico; Verde: vidro; Amarelo: metal; Marrom: resíduos orgânicos; Preto: madeira; Laranja: resíduos perigosos; Cinza: resíduos não recicláveis ou misturados; Roxo: resíduos radioativos; Branco: resíduos ambulatoriais e de serviços de saúde.",
+                "dica": "Lembre-se que cada cor está associada a um tipo específico de material."
+              },
+              {
+                "pergunta": "Proponha três ações para reduzir o consumo de plásticos descartáveis na escola.",
+                "resposta": "1. Substituir copos plásticos por canecas reutilizáveis; 2. Incentivar o uso de garrafas de água reutilizáveis; 3. Substituir embalagens plásticas da cantina por materiais biodegradáveis.",
+                "dica": "Pense em alternativas reutilizáveis e em como conscientizar a comunidade escolar."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Matematica": [
+      {
+        "disciplina": "Matemática",
+        "trimestre": "2º Trimestre A",
+        "bncc": [
+          {
+            "codigo": "EF05MA01",
+            "descricao": "Ler, escrever e ordenar números naturais até a ordem das centenas de milhar com compreensão das principais características do sistema de numeração decimal."
+          },
+          {
+            "codigo": "EF05MA02",
+            "descricao": "Ler, escrever e ordenar números racionais na forma decimal com compreensão das principais características do sistema de numeração decimal, utilizando, como recursos, a composição e decomposição e a reta numérica."
+          },
+          {
+            "codigo": "EF05MA07",
+            "descricao": "Resolver e elaborar problemas de adição e subtração com números naturais e com números racionais, cuja representação decimal seja finita, utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Decomposição de Números Naturais",
+            "tipo": "quiz",
+            "descricao": "Decomponha os seguintes números em unidades, dezenas, centenas, etc.",
+            "questoes": [
+              {
+                "pergunta": "Como podemos decompor o número 45.678?",
+                "opcoes": [
+                  "4 dezenas de milhar + 5 milhares + 6 centenas + 7 dezenas + 8 unidades",
+                  "4 milhares + 5 centenas + 6 dezenas + 7 unidades + 8 décimos",
+                  "40.000 + 5.000 + 600 + 70 + 8",
+                  "4 × 10.000 + 5 × 1.000 + 6 × 10 + 7 × 1 + 8 × 0,1"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "O número 45.678 pode ser decomposto como 40.000 + 5.000 + 600 + 70 + 8, que corresponde a 4 dezenas de milhar, 5 milhares, 6 centenas, 7 dezenas e 8 unidades."
+              },
+              {
+                "pergunta": "Qual é a decomposição correta do número 123.456?",
+                "opcoes": [
+                  "1 centena de milhar + 2 dezenas de milhar + 3 milhares + 4 centenas + 5 dezenas + 6 unidades",
+                  "100.000 + 20.000 + 3.000 + 400 + 50 + 6",
+                  "1 × 100.000 + 2 × 10.000 + 3 × 1.000 + 4 × 100 + 5 × 10 + 6 × 1",
+                  "Todas as alternativas anteriores estão corretas"
+                ],
+                "resposta_correta": 3,
+                "explicacao": "Todas as alternativas apresentam formas corretas de decompor o número 123.456, seja por extenso, por adição ou por multiplicação."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Operações com Números Decimais",
+            "tipo": "quiz",
+            "descricao": "Resolva os problemas envolvendo adição e subtração de números decimais.",
+            "questoes": [
+              {
+                "pergunta": "Maria foi ao mercado e comprou 1,5 kg de maçãs, 0,75 kg de uvas e 2,25 kg de laranjas. Qual o peso total das frutas que Maria comprou?",
+                "opcoes": [
+                  "3,5 kg",
+                  "4,0 kg",
+                  "4,5 kg",
+                  "5,0 kg"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Para encontrar o peso total, somamos os pesos de cada fruta: 1,5 + 0,75 + 2,25 = 4,5 kg."
+              },
+              {
+                "pergunta": "Pedro tinha R$ 25,75 e gastou R$ 12,80 na compra de um livro. Quanto dinheiro Pedro ainda tem?",
+                "opcoes": [
+                  "R$ 12,95",
+                  "R$ 12,05",
+                  "R$ 13,05",
+                  "R$ 13,95"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Para encontrar quanto dinheiro Pedro ainda tem, subtraímos o valor gasto do valor inicial: R$ 25,75 - R$ 12,80 = R$ 12,95."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Números na Reta Numérica",
+            "tipo": "interativo",
+            "descricao": "Posicione os números decimais na reta numérica.",
+            "instrucoes": "Arraste cada número para sua posição correta na reta numérica.",
+            "numeros": [
+              0.25,
+              0.5,
+              0.75,
+              1.0,
+              1.25,
+              1.5,
+              1.75,
+              2.0
+            ],
+            "dica": "Observe que entre cada número inteiro, podemos dividir em 4 partes iguais (0,25, 0,50, 0,75)."
+          },
+          {
+            "id": 4,
+            "titulo": "Problemas de Matemática do Cotidiano",
+            "tipo": "desafio",
+            "descricao": "Resolva problemas matemáticos relacionados a situações do dia a dia.",
+            "questoes": [
+              {
+                "pergunta": "Uma receita de bolo leva 2,5 xícaras de farinha. Se quisermos fazer metade da receita, quantas xícaras de farinha precisaremos?",
+                "resposta": "1,25 xícaras",
+                "dica": "Para encontrar metade de um valor, dividimos por 2."
+              },
+              {
+                "pergunta": "João tem 3 caixas com 24 lápis em cada uma. Ele quer distribuir igualmente esses lápis entre seus 6 amigos. Quantos lápis cada amigo receberá?",
+                "resposta": "12 lápis",
+                "dica": "Primeiro, calcule o total de lápis nas 3 caixas, depois divida pelo número de amigos."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Historia": [
+      {
+        "disciplina": "História",
+        "trimestre": "2º Trimestre A",
+        "bncc": [
+          {
+            "codigo": "EF05HI01",
+            "descricao": "Identificar os processos de formação das culturas e dos povos, relacionando-os com o espaço geográfico ocupado."
+          },
+          {
+            "codigo": "EF05HI03",
+            "descricao": "Analisar o papel das culturas e das religiões na composição identitária dos povos antigos."
+          },
+          {
+            "codigo": "EF05HI04",
+            "descricao": "Associar a noção de cidadania com os princípios de respeito à diversidade, à pluralidade e aos direitos humanos."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Povos Indígenas do Brasil",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre os povos indígenas brasileiros.",
+            "questoes": [
+              {
+                "pergunta": "Qual das seguintes características NÃO está relacionada aos povos indígenas brasileiros antes da chegada dos portugueses?",
+                "opcoes": [
+                  "Viviam da caça, pesca e agricultura",
+                  "Possuíam diferentes línguas e costumes",
+                  "Utilizavam a escrita para registrar sua história",
+                  "Tinham forte relação com a natureza"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Os povos indígenas brasileiros, antes da chegada dos portugueses, não utilizavam a escrita como a conhecemos hoje. Eles transmitiam seus conhecimentos, histórias e tradições oralmente, de geração para geração, além de utilizarem pinturas rupestres e corporais como formas de expressão."
+              },
+              {
+                "pergunta": "Qual o nome do sistema agrícola tradicional indígena que consiste em derrubar e queimar pequenas áreas da floresta para o plantio?",
+                "opcoes": [
+                  "Monocultura",
+                  "Coivara",
+                  "Plantation",
+                  "Jardinagem"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O sistema de coivara é uma técnica agrícola tradicional indígena que consiste em derrubar e queimar pequenas áreas da floresta para o plantio. Após alguns anos de cultivo, a área é abandonada para recuperação do solo e uma nova área é preparada."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Brasil Colonial",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre o período colonial brasileiro.",
+            "questoes": [
+              {
+                "pergunta": "Qual foi o primeiro produto de grande exploração econômica no Brasil colonial?",
+                "opcoes": [
+                  "Café",
+                  "Cana-de-açúcar",
+                  "Ouro",
+                  "Pau-brasil"
+                ],
+                "resposta_correta": 3,
+                "explicacao": "O pau-brasil foi o primeiro produto de grande exploração econômica no Brasil colonial. A madeira era muito valorizada na Europa por fornecer um corante vermelho usado na indústria têxtil. Sua extração intensa levou à quase extinção da espécie."
+              },
+              {
+                "pergunta": "Qual sistema de trabalho foi predominante nas grandes fazendas de cana-de-açúcar durante o período colonial?",
+                "opcoes": [
+                  "Trabalho assalariado",
+                  "Servidão",
+                  "Escravidão",
+                  "Parceria agrícola"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "A escravidão foi o sistema de trabalho predominante nas grandes fazendas de cana-de-açúcar durante o período colonial brasileiro. Inicialmente, tentou-se escravizar os indígenas, mas posteriormente os portugueses passaram a trazer africanos escravizados para trabalhar nas plantações."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Linha do Tempo Histórica",
+            "tipo": "interativo",
+            "descricao": "Organize os eventos históricos na linha do tempo correta.",
+            "instrucoes": "Arraste cada evento para sua posição correta na linha do tempo.",
+            "eventos": [
+              {
+                "texto": "Chegada dos portugueses ao Brasil",
+                "ano": 1500
+              },
+              {
+                "texto": "Início da exploração do pau-brasil",
+                "ano": 1501
+              },
+              {
+                "texto": "Início da colonização efetiva com as capitanias hereditárias",
+                "ano": 1534
+              },
+              {
+                "texto": "Estabelecimento do Governo-Geral",
+                "ano": 1549
+              },
+              {
+                "texto": "Início do ciclo da cana-de-açúcar",
+                "ano": 1550
+              },
+              {
+                "texto": "Invasões holandesas no Nordeste",
+                "ano": 1630
+              },
+              {
+                "texto": "Descoberta de ouro em Minas Gerais",
+                "ano": 1693
+              },
+              {
+                "texto": "Chegada da Família Real portuguesa ao Brasil",
+                "ano": 1808
+              }
+            ],
+            "dica": "Observe a sequência cronológica dos ciclos econômicos: pau-brasil, cana-de-açúcar, ouro."
+          },
+          {
+            "id": 4,
+            "titulo": "Resistência à Escravidão",
+            "tipo": "desafio",
+            "descricao": "Aprenda sobre as formas de resistência dos escravizados no Brasil colonial.",
+            "questoes": [
+              {
+                "pergunta": "O que eram os quilombos no contexto da escravidão no Brasil?",
+                "opcoes": [
+                  "Locais onde os escravizados trabalhavam nas minas de ouro",
+                  "Comunidades formadas por escravizados fugitivos",
+                  "Mercados onde se comercializavam escravizados",
+                  "Navios que transportavam escravizados da África para o Brasil"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Os quilombos eram comunidades formadas por escravizados fugitivos que buscavam viver em liberdade. O mais famoso foi o Quilombo dos Palmares, liderado por Zumbi, que resistiu por quase um século no atual estado de Alagoas."
+              },
+              {
+                "pergunta": "Além da formação de quilombos, quais outras formas de resistência eram praticadas pelos escravizados?",
+                "resposta": "Os escravizados resistiam de diversas formas: trabalho lento ou mal feito de propósito, quebra de ferramentas, fugas individuais, suicídio, preservação de suas culturas e religiões africanas, revoltas e rebeliões organizadas.",
+                "dica": "Pense em formas cotidianas de resistência e também em ações mais diretas contra o sistema escravista."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Geografia": [
+      {
+        "disciplina": "Geografia",
+        "trimestre": "2º Trimestre A",
+        "bncc": [
+          {
+            "codigo": "EF05GE01",
+            "descricao": "Descrever e analisar dinâmicas populacionais na Unidade da Federação em que vive, estabelecendo relações entre migrações e condições de infraestrutura."
+          },
+          {
+            "codigo": "EF05GE03",
+            "descricao": "Identificar as formas e funções das cidades e analisar as mudanças sociais, econômicas e ambientais provocadas pelo seu crescimento."
+          },
+          {
+            "codigo": "EF05GE08",
+            "descricao": "Analisar transformações de paisagens nas cidades, comparando sequência de fotografias, fotografias aéreas e imagens de satélite de épocas diferentes."
+          },
+          {
+            "codigo": "EF05GE02",
+            "descricao": "Identificar diferenças étnico-raciais e étnico-culturais e desigualdades sociais entre grupos em diferentes territórios."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Regiões do Brasil",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre as regiões brasileiras.",
+            "questoes": [
+              {
+                "pergunta": "Quais estados compõem a região Sudeste do Brasil?",
+                "opcoes": [
+                  "Rio de Janeiro, São Paulo, Minas Gerais e Espírito Santo",
+                  "Rio de Janeiro, São Paulo, Paraná e Santa Catarina",
+                  "Minas Gerais, Bahia, Espírito Santo e Rio de Janeiro",
+                  "São Paulo, Minas Gerais, Goiás e Mato Grosso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "A região Sudeste é composta pelos estados de Rio de Janeiro, São Paulo, Minas Gerais e Espírito Santo. É a região mais populosa e economicamente desenvolvida do Brasil."
+              },
+              {
+                "pergunta": "Qual região brasileira possui a maior área territorial?",
+                "opcoes": [
+                  "Sudeste",
+                  "Nordeste",
+                  "Sul",
+                  "Norte"
+                ],
+                "resposta_correta": 3,
+                "explicacao": "A região Norte é a maior em área territorial, ocupando aproximadamente 45% do território brasileiro. Ela abrange sete estados: Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Urbanização e Cidades",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre urbanização e crescimento das cidades.",
+            "questoes": [
+              {
+                "pergunta": "O que é êxodo rural?",
+                "opcoes": [
+                  "Movimento de pessoas das cidades para o campo",
+                  "Movimento de pessoas do campo para as cidades",
+                  "Movimento de pessoas entre diferentes cidades",
+                  "Movimento de pessoas entre diferentes países"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Êxodo rural é o movimento migratório de pessoas que saem do campo (áreas rurais) em direção às cidades (áreas urbanas). No Brasil, esse fenômeno intensificou-se a partir da década de 1950, com a industrialização."
+              },
+              {
+                "pergunta": "Quais são os principais problemas enfrentados pelas grandes cidades brasileiras devido ao crescimento desordenado?",
+                "opcoes": [
+                  "Apenas falta de escolas e hospitais",
+                  "Apenas poluição do ar e sonora",
+                  "Apenas violência e desemprego",
+                  "Falta de moradia adequada, saneamento básico precário, congestionamentos, poluição e violência"
+                ],
+                "resposta_correta": 3,
+                "explicacao": "O crescimento desordenado das cidades brasileiras gerou diversos problemas urbanos, como falta de moradia adequada, saneamento básico precário, congestionamentos, poluição (do ar, sonora, visual e dos recursos hídricos) e aumento da violência."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Mapa Interativo do Brasil",
+            "tipo": "interativo",
+            "descricao": "Localize estados e capitais no mapa do Brasil.",
+            "instrucoes": "Arraste o nome de cada estado ou capital para sua localização correta no mapa.",
+            "itens": [
+              {
+                "nome": "São Paulo",
+                "tipo": "estado"
+              },
+              {
+                "nome": "Rio de Janeiro",
+                "tipo": "estado"
+              },
+              {
+                "nome": "Minas Gerais",
+                "tipo": "estado"
+              },
+              {
+                "nome": "Bahia",
+                "tipo": "estado"
+              },
+              {
+                "nome": "Brasília",
+                "tipo": "capital"
+              },
+              {
+                "nome": "São Paulo",
+                "tipo": "capital"
+              },
+              {
+                "nome": "Rio de Janeiro",
+                "tipo": "capital"
+              },
+              {
+                "nome": "Salvador",
+                "tipo": "capital"
+              }
+            ],
+            "dica": "Observe a posição relativa dos estados: São Paulo fica ao sul de Minas Gerais e a leste do Paraná."
+          },
+          {
+            "id": 4,
+            "titulo": "Transformações na Paisagem",
+            "tipo": "desafio",
+            "descricao": "Analise as transformações nas paisagens urbanas e rurais ao longo do tempo.",
+            "questoes": [
+              {
+                "pergunta": "Compare as imagens de uma área urbana em 1980 e em 2020. Quais as principais transformações que você observa?",
+                "resposta": "As principais transformações observadas são: aumento no número de edifícios altos, redução de áreas verdes, expansão da área urbana, aumento da malha viária, surgimento de shopping centers e condomínios fechados.",
+                "dica": "Observe mudanças na verticalização, áreas verdes e infraestrutura."
+              },
+              {
+                "pergunta": "Quais são os impactos ambientais causados pela expansão urbana desordenada?",
+                "opcoes": [
+                  "Apenas desmatamento",
+                  "Apenas poluição dos rios",
+                  "Apenas aumento da temperatura",
+                  "Desmatamento, impermeabilização do solo, poluição dos rios, formação de ilhas de calor e aumento de enchentes"
+                ],
+                "resposta_correta": 3,
+                "explicacao": "A expansão urbana desordenada causa diversos impactos ambientais, como desmatamento, impermeabilização do solo (que dificulta a absorção da água da chuva), poluição dos rios e córregos, formação de ilhas de calor (aumento da temperatura nas áreas urbanas) e aumento da ocorrência de enchentes."
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "titulo": "População Brasileira",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre a distribuição da população brasileira.",
+            "questoes": [
+              {
+                "pergunta": "Algumas áreas do país são muito ocupadas, mas também existem áreas de ocupação muito densa. Indique motivos que expliquem essas áreas mais vazias e as áreas mais cheias.",
+                "resposta": "Áreas cheias têm melhor infraestrutura, clima favorável, oportunidades de trabalho; áreas vazias têm difícil acesso, clima hostil, menos oportunidades.",
+                "dica": "Pense em fatores como clima, infraestrutura, oportunidades econômicas e acesso a recursos."
+              },
+              {
+                "pergunta": "Diferencie população absoluta e população relativa.",
+                "opcoes": [
+                  "População absoluta é o número de pessoas nascidas em um país; população relativa é o número de imigrantes",
+                  "População absoluta é o número total de pessoas em um lugar; população relativa é a quantidade de pessoas dividida pela área (densidade demográfica)",
+                  "População absoluta é o número de adultos; população relativa é o número de crianças",
+                  "População absoluta é o número de pessoas nas cidades; população relativa é o número de pessoas no campo"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "População absoluta é o número total de habitantes de um lugar, enquanto população relativa (ou densidade demográfica) é a relação entre o número de habitantes e a área ocupada."
+              },
+              {
+                "pergunta": "O que é densidade demográfica e como ela é calculada?",
+                "opcoes": [
+                  "É o número total de habitantes de um país, calculado pelo censo",
+                  "É a relação entre o número de habitantes e a área ocupada, calculada dividindo a população absoluta pela área territorial",
+                  "É o crescimento populacional anual, calculado pela diferença entre nascimentos e mortes",
+                  "É a distribuição da população por faixa etária, calculada pela porcentagem de cada grupo"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Densidade demográfica é a relação entre o número de habitantes e a área ocupada. Calcula-se dividindo a população absoluta (número total de habitantes) pela área territorial (em km²)."
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "titulo": "Crescimento Populacional",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre o crescimento da população mundial e brasileira.",
+            "questoes": [
+              {
+                "pergunta": "Nos séculos XX e XXI a população do planeta aumentou significativamente, e agora estamos na marca dos 8 bilhões de habitantes na Terra. Quais motivos explicam esse crescimento?",
+                "opcoes": [
+                  "Apenas o aumento da taxa de natalidade",
+                  "Apenas a diminuição das guerras mundiais",
+                  "Avanços tecnológicos, melhorias na saúde, aumento da expectativa de vida, melhores condições de vida",
+                  "Apenas a melhoria na produção de alimentos"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "O crescimento populacional significativo nos séculos XX e XXI deve-se a uma combinação de fatores: avanços tecnológicos, melhorias na saúde pública e medicina (vacinas, antibióticos), aumento da expectativa de vida, melhores condições de saneamento e acesso a água potável, além de melhores condições de vida em geral."
+              },
+              {
+                "pergunta": "O crescimento vegetativo pode ser analisado por meio de alguns indicadores, como a taxa de natalidade e a taxa de mortalidade. Explique o que são esses indicadores.",
+                "opcoes": [
+                  "Taxa de natalidade é o número de nascimentos em um período; taxa de mortalidade é o número de óbitos",
+                  "Taxa de natalidade é o número de crianças; taxa de mortalidade é o número de idosos",
+                  "Taxa de natalidade é o número de mulheres; taxa de mortalidade é o número de homens",
+                  "Taxa de natalidade é o número de casamentos; taxa de mortalidade é o número de divórcios"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Taxa de natalidade é o número de nascimentos em determinado período (geralmente um ano) para cada mil habitantes. Taxa de mortalidade é o número de óbitos no mesmo período para cada mil habitantes."
+              },
+              {
+                "pergunta": "O que o crescimento natural leva em consideração?",
+                "opcoes": [
+                  "Apenas imigração e emigração",
+                  "Apenas nascimentos e mortes (taxa de natalidade e mortalidade)",
+                  "Apenas casamentos e divórcios",
+                  "Apenas o número de jovens e idosos"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O crescimento natural ou vegetativo leva em consideração apenas nascimentos e mortes, ou seja, a diferença entre a taxa de natalidade e a taxa de mortalidade, sem considerar migrações."
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "titulo": "IBGE e Censo Demográfico",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre o IBGE e o Censo Demográfico brasileiro.",
+            "questoes": [
+              {
+                "pergunta": "O que significa a sigla IBGE?",
+                "opcoes": [
+                  "Instituto Brasileiro de Geografia e Estatística",
+                  "Instituto Brasileiro de Gestão Econômica",
+                  "Índice Brasileiro de Gestão Empresarial",
+                  "Instituto Brasileiro de Governança Estatal"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "IBGE significa Instituto Brasileiro de Geografia e Estatística. É o órgão responsável pela coleta e análise de dados estatísticos sobre a população, economia, geografia e outros aspectos do Brasil."
+              },
+              {
+                "pergunta": "Qual a importância do IBGE?",
+                "opcoes": [
+                  "Apenas para registrar nascimentos e mortes",
+                  "Apenas para controlar a imigração",
+                  "Fornece informações estatísticas do Brasil, como número de habitantes, ajudando no planejamento do país",
+                  "Apenas para cobrar impostos"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "O IBGE é fundamental pois fornece informações estatísticas oficiais sobre o Brasil, incluindo dados demográficos, econômicos, sociais e geográficos. Essas informações são essenciais para o planejamento de políticas públicas, distribuição de recursos, pesquisas acadêmicas e decisões empresariais."
+              },
+              {
+                "pergunta": "Sobre o Censo Demográfico, marque a alternativa CORRETA:",
+                "opcoes": [
+                  "Censo Demográfico é a taxa de natalidade",
+                  "O Censo Demográfico ocorre de 10 em 10 anos",
+                  "Por conta do alto custo de vida temos crescimento de habitantes",
+                  "O Censo conta apenas a população urbana"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O Censo Demográfico é a contagem oficial da população de um país, realizada periodicamente. No Brasil, ele ocorre a cada 10 anos, sendo conduzido pelo IBGE. O Censo coleta informações detalhadas sobre toda a população, tanto urbana quanto rural."
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "titulo": "Migrações",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre movimentos migratórios.",
+            "questoes": [
+              {
+                "pergunta": "Diferencie emigração e imigração.",
+                "opcoes": [
+                  "Emigração é sair de um lugar; imigração é chegar a um lugar",
+                  "Emigração é ir para outro país; imigração é mudar de cidade",
+                  "Emigração é movimento temporário; imigração é movimento definitivo",
+                  "Emigração é movimento forçado; imigração é movimento voluntário"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Emigração é o ato de sair, de deixar um lugar (país, região, cidade) para viver em outro. Imigração é o ato de entrar, de chegar a um lugar para nele viver. A mesma pessoa é emigrante em relação ao lugar que deixa e imigrante em relação ao lugar onde chega."
+              },
+              {
+                "pergunta": "Classifique os seguintes fatores como Repulsivos (R) ou Atrativos (A):",
+                "opcoes": [
+                  "Violência urbana (R), Escassez de água (R), Governos democráticos (A)",
+                  "Violência urbana (A), Escassez de água (A), Governos democráticos (R)",
+                  "Violência urbana (R), Escassez de água (A), Governos democráticos (R)",
+                  "Violência urbana (A), Escassez de água (R), Governos democráticos (A)"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Fatores repulsivos são aqueles que motivam as pessoas a saírem de um lugar, como violência urbana e escassez de água. Fatores atrativos são aqueles que atraem as pessoas para um lugar, como governos democráticos, empregos disponíveis e escolas de qualidade."
+              },
+              {
+                "pergunta": "Qual a diferença entre movimento migratório interno e internacional?",
+                "opcoes": [
+                  "Interno ocorre dentro de um mesmo país; internacional ocorre entre países diferentes",
+                  "Interno ocorre entre cidades; internacional ocorre entre estados",
+                  "Interno é temporário; internacional é definitivo",
+                  "Interno é voluntário; internacional é forçado"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Movimento migratório interno é aquele que ocorre dentro dos limites de um mesmo país, como a migração do Nordeste para o Sudeste do Brasil. Movimento migratório internacional é aquele que ocorre entre países diferentes, como brasileiros que vão morar em Portugal."
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "titulo": "Diversidade Étnico-racial Brasileira",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre a diversidade étnico-racial da população brasileira.",
+            "questoes": [
+              {
+                "pergunta": "Qual é uma das características mais importantes da população brasileira?",
+                "opcoes": [
+                  "Homogeneidade étnica",
+                  "Miscigenação (mistura de etnias)",
+                  "Isolamento cultural",
+                  "Uniformidade linguística"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "A miscigenação, ou seja, a mistura de diferentes etnias e raças, é uma das características mais importantes da população brasileira. O Brasil é um país formado pela contribuição de diversos povos: indígenas, europeus (principalmente portugueses), africanos e, posteriormente, asiáticos e outros imigrantes."
+              },
+              {
+                "pergunta": "Explique o que é o processo de miscigenação étnico-racial.",
+                "opcoes": [
+                  "É a separação de diferentes grupos étnicos",
+                  "É a mistura de diferentes etnias e raças",
+                  "É a classificação das pessoas por cor de pele",
+                  "É a migração entre diferentes regiões"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O processo de miscigenação étnico-racial refere-se à mistura biológica e cultural entre diferentes grupos étnicos e raciais. No Brasil, esse processo ocorreu principalmente entre indígenas, europeus e africanos, resultando na diversidade étnico-racial que caracteriza a população brasileira atual."
+              },
+              {
+                "pergunta": "Como é definida a etnia do cidadão brasileiro segundo o IBGE?",
+                "opcoes": [
+                  "Pelo exame de DNA",
+                  "Pela cor da pele determinada por um funcionário do IBGE",
+                  "Pelo Princípio da Autoafirmação, onde o próprio cidadão determina qual sua etnia",
+                  "Pelo local de nascimento"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "No Brasil, a etnia do cidadão é definida pelo Princípio da Autoafirmação, o que significa que o próprio cidadão determina a qual grupo étnico-racial pertence, sem necessidade de comprovação ou validação externa."
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "titulo": "Formação da População Brasileira",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre a formação histórica da população brasileira.",
+            "questoes": [
+              {
+                "pergunta": "Quais foram as consequências para os indígenas do contato com a população branca europeia?",
+                "opcoes": [
+                  "Apenas benefícios tecnológicos",
+                  "Mudança de cultura, diminuição da população, perda de terras, doenças",
+                  "Apenas enriquecimento cultural",
+                  "Não houve consequências significativas"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O contato dos indígenas com os europeus resultou em consequências devastadoras: mudanças forçadas em sua cultura e modo de vida, drástica diminuição populacional devido a doenças para as quais não tinham imunidade, perda de terras tradicionais, escravização e, em muitos casos, genocídio."
+              },
+              {
+                "pergunta": "Podemos afirmar que houve uma diáspora africana tendo o Brasil como destino? Justifique sua resposta.",
+                "opcoes": [
+                  "Não, pois os africanos vieram voluntariamente",
+                  "Não, pois foram poucos africanos que vieram ao Brasil",
+                  "Sim, pois milhões de africanos foram trazidos à força para o Brasil como escravizados",
+                  "Sim, mas apenas no século XX"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Sim, houve uma diáspora africana tendo o Brasil como destino, pois milhões de africanos foram trazidos à força para o Brasil como escravizados durante o período colonial e imperial. O Brasil foi o país que mais recebeu africanos escravizados nas Américas, o que teve profundo impacto na formação étnica, cultural e social do país."
+              },
+              {
+                "pergunta": "O que os portugueses buscavam quando chegaram ao Brasil? Esse interesse português ajudou o Brasil a se desenvolver?",
+                "resposta": "Os portugueses buscavam riquezas, especialmente metais preciosos e produtos comercializáveis na Europa. O interesse português trouxe certo desenvolvimento em termos de infraestrutura e urbanização, mas também resultou em séculos de exploração predatória dos recursos naturais e humanos, escravidão e desigualdades sociais que persistem até hoje.",
+                "dica": "Pense nos objetivos econômicos da colonização e nas consequências de longo prazo para o desenvolvimento do país."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "disciplina": "Geografia",
+        "trimestre": "2º Trimestre A",
+        "bncc": [
+          {
+            "codigo": "EF05GE01",
+            "descricao": "Descrever e analisar dinâmicas populacionais na Unidade da Federação em que vive, estabelecendo relações entre migrações e condições de infraestrutura."
+          },
+          {
+            "codigo": "EF05GE03",
+            "descricao": "Identificar as formas e funções das cidades e analisar as mudanças sociais, econômicas e ambientais provocadas pelo seu crescimento."
+          },
+          {
+            "codigo": "EF05GE08",
+            "descricao": "Analisar transformações de paisagens nas cidades, comparando sequência de fotografias, fotografias aéreas e imagens de satélite de épocas diferentes."
+          },
+          {
+            "codigo": "EF05GE02",
+            "descricao": "Identificar diferenças étnico-raciais e étnico-culturais e desigualdades sociais entre grupos em diferentes territórios."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Regiões do Brasil",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre as regiões brasileiras.",
+            "questoes": [
+              {
+                "pergunta": "Quais estados compõem a região Sudeste do Brasil?",
+                "opcoes": [
+                  "Rio de Janeiro, São Paulo, Minas Gerais e Espírito Santo",
+                  "Rio de Janeiro, São Paulo, Paraná e Santa Catarina",
+                  "Minas Gerais, Bahia, Espírito Santo e Rio de Janeiro",
+                  "São Paulo, Minas Gerais, Goiás e Mato Grosso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "A região Sudeste é composta pelos estados de Rio de Janeiro, São Paulo, Minas Gerais e Espírito Santo. É a região mais populosa e economicamente desenvolvida do Brasil."
+              },
+              {
+                "pergunta": "Qual região brasileira possui a maior área territorial?",
+                "opcoes": [
+                  "Sudeste",
+                  "Nordeste",
+                  "Sul",
+                  "Norte"
+                ],
+                "resposta_correta": 3,
+                "explicacao": "A região Norte é a maior em área territorial, ocupando aproximadamente 45% do território brasileiro. Ela abrange sete estados: Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Urbanização e Cidades",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre urbanização e crescimento das cidades.",
+            "questoes": [
+              {
+                "pergunta": "O que é êxodo rural?",
+                "opcoes": [
+                  "Movimento de pessoas das cidades para o campo",
+                  "Movimento de pessoas do campo para as cidades",
+                  "Movimento de pessoas entre diferentes cidades",
+                  "Movimento de pessoas entre diferentes países"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Êxodo rural é o movimento migratório de pessoas que saem do campo (áreas rurais) em direção às cidades (áreas urbanas). No Brasil, esse fenômeno intensificou-se a partir da década de 1950, com a industrialização."
+              },
+              {
+                "pergunta": "Quais são os principais problemas enfrentados pelas grandes cidades brasileiras devido ao crescimento desordenado?",
+                "opcoes": [
+                  "Apenas falta de escolas e hospitais",
+                  "Apenas poluição do ar e sonora",
+                  "Apenas violência e desemprego",
+                  "Falta de moradia adequada, saneamento básico precário, congestionamentos, poluição e violência"
+                ],
+                "resposta_correta": 3,
+                "explicacao": "O crescimento desordenado das cidades brasileiras gerou diversos problemas urbanos, como falta de moradia adequada, saneamento básico precário, congestionamentos, poluição (do ar, sonora, visual e dos recursos hídricos) e aumento da violência."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Mapa Interativo do Brasil",
+            "tipo": "interativo",
+            "descricao": "Localize estados e capitais no mapa do Brasil.",
+            "instrucoes": "Arraste o nome de cada estado ou capital para sua localização correta no mapa.",
+            "itens": [
+              {
+                "nome": "São Paulo",
+                "tipo": "estado"
+              },
+              {
+                "nome": "Rio de Janeiro",
+                "tipo": "estado"
+              },
+              {
+                "nome": "Minas Gerais",
+                "tipo": "estado"
+              },
+              {
+                "nome": "Bahia",
+                "tipo": "estado"
+              },
+              {
+                "nome": "Brasília",
+                "tipo": "capital"
+              },
+              {
+                "nome": "São Paulo",
+                "tipo": "capital"
+              },
+              {
+                "nome": "Rio de Janeiro",
+                "tipo": "capital"
+              },
+              {
+                "nome": "Salvador",
+                "tipo": "capital"
+              }
+            ],
+            "dica": "Observe a posição relativa dos estados: São Paulo fica ao sul de Minas Gerais e a leste do Paraná."
+          },
+          {
+            "id": 4,
+            "titulo": "Transformações na Paisagem",
+            "tipo": "desafio",
+            "descricao": "Analise as transformações nas paisagens urbanas e rurais ao longo do tempo.",
+            "questoes": [
+              {
+                "pergunta": "Compare as imagens de uma área urbana em 1980 e em 2020. Quais as principais transformações que você observa?",
+                "resposta": "As principais transformações observadas são: aumento no número de edifícios altos, redução de áreas verdes, expansão da área urbana, aumento da malha viária, surgimento de shopping centers e condomínios fechados.",
+                "dica": "Observe mudanças na verticalização, áreas verdes e infraestrutura."
+              },
+              {
+                "pergunta": "Quais são os impactos ambientais causados pela expansão urbana desordenada?",
+                "opcoes": [
+                  "Apenas desmatamento",
+                  "Apenas poluição dos rios",
+                  "Apenas aumento da temperatura",
+                  "Desmatamento, impermeabilização do solo, poluição dos rios, formação de ilhas de calor e aumento de enchentes"
+                ],
+                "resposta_correta": 3,
+                "explicacao": "A expansão urbana desordenada causa diversos impactos ambientais, como desmatamento, impermeabilização do solo (que dificulta a absorção da água da chuva), poluição dos rios e córregos, formação de ilhas de calor (aumento da temperatura nas áreas urbanas) e aumento da ocorrência de enchentes."
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "titulo": "População Brasileira",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre a distribuição da população brasileira.",
+            "questoes": [
+              {
+                "pergunta": "Algumas áreas do país são muito ocupadas, mas também existem áreas de ocupação muito densa. Indique motivos que expliquem essas áreas mais vazias e as áreas mais cheias.",
+                "resposta": "Áreas cheias têm melhor infraestrutura, clima favorável, oportunidades de trabalho; áreas vazias têm difícil acesso, clima hostil, menos oportunidades.",
+                "dica": "Pense em fatores como clima, infraestrutura, oportunidades econômicas e acesso a recursos."
+              },
+              {
+                "pergunta": "Diferencie população absoluta e população relativa.",
+                "opcoes": [
+                  "População absoluta é o número de pessoas nascidas em um país; população relativa é o número de imigrantes",
+                  "População absoluta é o número total de pessoas em um lugar; população relativa é a quantidade de pessoas dividida pela área (densidade demográfica)",
+                  "População absoluta é o número de adultos; população relativa é o número de crianças",
+                  "População absoluta é o número de pessoas nas cidades; população relativa é o número de pessoas no campo"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "População absoluta é o número total de habitantes de um lugar, enquanto população relativa (ou densidade demográfica) é a relação entre o número de habitantes e a área ocupada."
+              },
+              {
+                "pergunta": "O que é densidade demográfica e como ela é calculada?",
+                "opcoes": [
+                  "É o número total de habitantes de um país, calculado pelo censo",
+                  "É a relação entre o número de habitantes e a área ocupada, calculada dividindo a população absoluta pela área territorial",
+                  "É o crescimento populacional anual, calculado pela diferença entre nascimentos e mortes",
+                  "É a distribuição da população por faixa etária, calculada pela porcentagem de cada grupo"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Densidade demográfica é a relação entre o número de habitantes e a área ocupada. Calcula-se dividindo a população absoluta (número total de habitantes) pela área territorial (em km²)."
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "titulo": "Crescimento Populacional",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre o crescimento da população mundial e brasileira.",
+            "questoes": [
+              {
+                "pergunta": "Nos séculos XX e XXI a população do planeta aumentou significativamente, e agora estamos na marca dos 8 bilhões de habitantes na Terra. Quais motivos explicam esse crescimento?",
+                "opcoes": [
+                  "Apenas o aumento da taxa de natalidade",
+                  "Apenas a diminuição das guerras mundiais",
+                  "Avanços tecnológicos, melhorias na saúde, aumento da expectativa de vida, melhores condições de vida",
+                  "Apenas a melhoria na produção de alimentos"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "O crescimento populacional significativo nos séculos XX e XXI deve-se a uma combinação de fatores: avanços tecnológicos, melhorias na saúde pública e medicina (vacinas, antibióticos), aumento da expectativa de vida, melhores condições de saneamento e acesso a água potável, além de melhores condições de vida em geral."
+              },
+              {
+                "pergunta": "O crescimento vegetativo pode ser analisado por meio de alguns indicadores, como a taxa de natalidade e a taxa de mortalidade. Explique o que são esses indicadores.",
+                "opcoes": [
+                  "Taxa de natalidade é o número de nascimentos em um período; taxa de mortalidade é o número de óbitos",
+                  "Taxa de natalidade é o número de crianças; taxa de mortalidade é o número de idosos",
+                  "Taxa de natalidade é o número de mulheres; taxa de mortalidade é o número de homens",
+                  "Taxa de natalidade é o número de casamentos; taxa de mortalidade é o número de divórcios"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Taxa de natalidade é o número de nascimentos em determinado período (geralmente um ano) para cada mil habitantes. Taxa de mortalidade é o número de óbitos no mesmo período para cada mil habitantes."
+              },
+              {
+                "pergunta": "O que o crescimento natural leva em consideração?",
+                "opcoes": [
+                  "Apenas imigração e emigração",
+                  "Apenas nascimentos e mortes (taxa de natalidade e mortalidade)",
+                  "Apenas casamentos e divórcios",
+                  "Apenas o número de jovens e idosos"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O crescimento natural ou vegetativo leva em consideração apenas nascimentos e mortes, ou seja, a diferença entre a taxa de natalidade e a taxa de mortalidade, sem considerar migrações."
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "titulo": "IBGE e Censo Demográfico",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre o IBGE e o Censo Demográfico brasileiro.",
+            "questoes": [
+              {
+                "pergunta": "O que significa a sigla IBGE?",
+                "opcoes": [
+                  "Instituto Brasileiro de Geografia e Estatística",
+                  "Instituto Brasileiro de Gestão Econômica",
+                  "Índice Brasileiro de Gestão Empresarial",
+                  "Instituto Brasileiro de Governança Estatal"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "IBGE significa Instituto Brasileiro de Geografia e Estatística. É o órgão responsável pela coleta e análise de dados estatísticos sobre a população, economia, geografia e outros aspectos do Brasil."
+              },
+              {
+                "pergunta": "Qual a importância do IBGE?",
+                "opcoes": [
+                  "Apenas para registrar nascimentos e mortes",
+                  "Apenas para controlar a imigração",
+                  "Fornece informações estatísticas do Brasil, como número de habitantes, ajudando no planejamento do país",
+                  "Apenas para cobrar impostos"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "O IBGE é fundamental pois fornece informações estatísticas oficiais sobre o Brasil, incluindo dados demográficos, econômicos, sociais e geográficos. Essas informações são essenciais para o planejamento de políticas públicas, distribuição de recursos, pesquisas acadêmicas e decisões empresariais."
+              },
+              {
+                "pergunta": "Sobre o Censo Demográfico, marque a alternativa CORRETA:",
+                "opcoes": [
+                  "Censo Demográfico é a taxa de natalidade",
+                  "O Censo Demográfico ocorre de 10 em 10 anos",
+                  "Por conta do alto custo de vida temos crescimento de habitantes",
+                  "O Censo conta apenas a população urbana"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O Censo Demográfico é a contagem oficial da população de um país, realizada periodicamente. No Brasil, ele ocorre a cada 10 anos, sendo conduzido pelo IBGE. O Censo coleta informações detalhadas sobre toda a população, tanto urbana quanto rural."
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "titulo": "Migrações",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre movimentos migratórios.",
+            "questoes": [
+              {
+                "pergunta": "Diferencie emigração e imigração.",
+                "opcoes": [
+                  "Emigração é sair de um lugar; imigração é chegar a um lugar",
+                  "Emigração é ir para outro país; imigração é mudar de cidade",
+                  "Emigração é movimento temporário; imigração é movimento definitivo",
+                  "Emigração é movimento forçado; imigração é movimento voluntário"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Emigração é o ato de sair, de deixar um lugar (país, região, cidade) para viver em outro. Imigração é o ato de entrar, de chegar a um lugar para nele viver. A mesma pessoa é emigrante em relação ao lugar que deixa e imigrante em relação ao lugar onde chega."
+              },
+              {
+                "pergunta": "Classifique os seguintes fatores como Repulsivos (R) ou Atrativos (A):",
+                "opcoes": [
+                  "Violência urbana (R), Escassez de água (R), Governos democráticos (A)",
+                  "Violência urbana (A), Escassez de água (A), Governos democráticos (R)",
+                  "Violência urbana (R), Escassez de água (A), Governos democráticos (R)",
+                  "Violência urbana (A), Escassez de água (R), Governos democráticos (A)"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Fatores repulsivos são aqueles que motivam as pessoas a saírem de um lugar, como violência urbana e escassez de água. Fatores atrativos são aqueles que atraem as pessoas para um lugar, como governos democráticos, empregos disponíveis e escolas de qualidade."
+              },
+              {
+                "pergunta": "Qual a diferença entre movimento migratório interno e internacional?",
+                "opcoes": [
+                  "Interno ocorre dentro de um mesmo país; internacional ocorre entre países diferentes",
+                  "Interno ocorre entre cidades; internacional ocorre entre estados",
+                  "Interno é temporário; internacional é definitivo",
+                  "Interno é voluntário; internacional é forçado"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Movimento migratório interno é aquele que ocorre dentro dos limites de um mesmo país, como a migração do Nordeste para o Sudeste do Brasil. Movimento migratório internacional é aquele que ocorre entre países diferentes, como brasileiros que vão morar em Portugal."
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "titulo": "Diversidade Étnico-racial Brasileira",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre a diversidade étnico-racial da população brasileira.",
+            "questoes": [
+              {
+                "pergunta": "Qual é uma das características mais importantes da população brasileira?",
+                "opcoes": [
+                  "Homogeneidade étnica",
+                  "Miscigenação (mistura de etnias)",
+                  "Isolamento cultural",
+                  "Uniformidade linguística"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "A miscigenação, ou seja, a mistura de diferentes etnias e raças, é uma das características mais importantes da população brasileira. O Brasil é um país formado pela contribuição de diversos povos: indígenas, europeus (principalmente portugueses), africanos e, posteriormente, asiáticos e outros imigrantes."
+              },
+              {
+                "pergunta": "Explique o que é o processo de miscigenação étnico-racial.",
+                "opcoes": [
+                  "É a separação de diferentes grupos étnicos",
+                  "É a mistura de diferentes etnias e raças",
+                  "É a classificação das pessoas por cor de pele",
+                  "É a migração entre diferentes regiões"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O processo de miscigenação étnico-racial refere-se à mistura biológica e cultural entre diferentes grupos étnicos e raciais. No Brasil, esse processo ocorreu principalmente entre indígenas, europeus e africanos, resultando na diversidade étnico-racial que caracteriza a população brasileira atual."
+              },
+              {
+                "pergunta": "Como é definida a etnia do cidadão brasileiro segundo o IBGE?",
+                "opcoes": [
+                  "Pelo exame de DNA",
+                  "Pela cor da pele determinada por um funcionário do IBGE",
+                  "Pelo Princípio da Autoafirmação, onde o próprio cidadão determina qual sua etnia",
+                  "Pelo local de nascimento"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "No Brasil, a etnia do cidadão é definida pelo Princípio da Autoafirmação, o que significa que o próprio cidadão determina a qual grupo étnico-racial pertence, sem necessidade de comprovação ou validação externa."
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "titulo": "Formação da População Brasileira",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre a formação histórica da população brasileira.",
+            "questoes": [
+              {
+                "pergunta": "Quais foram as consequências para os indígenas do contato com a população branca europeia?",
+                "opcoes": [
+                  "Apenas benefícios tecnológicos",
+                  "Mudança de cultura, diminuição da população, perda de terras, doenças",
+                  "Apenas enriquecimento cultural",
+                  "Não houve consequências significativas"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O contato dos indígenas com os europeus resultou em consequências devastadoras: mudanças forçadas em sua cultura e modo de vida, drástica diminuição populacional devido a doenças para as quais não tinham imunidade, perda de terras tradicionais, escravização e, em muitos casos, genocídio."
+              },
+              {
+                "pergunta": "Podemos afirmar que houve uma diáspora africana tendo o Brasil como destino? Justifique sua resposta.",
+                "opcoes": [
+                  "Não, pois os africanos vieram voluntariamente",
+                  "Não, pois foram poucos africanos que vieram ao Brasil",
+                  "Sim, pois milhões de africanos foram trazidos à força para o Brasil como escravizados",
+                  "Sim, mas apenas no século XX"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Sim, houve uma diáspora africana tendo o Brasil como destino, pois milhões de africanos foram trazidos à força para o Brasil como escravizados durante o período colonial e imperial. O Brasil foi o país que mais recebeu africanos escravizados nas Américas, o que teve profundo impacto na formação étnica, cultural e social do país."
+              },
+              {
+                "pergunta": "O que os portugueses buscavam quando chegaram ao Brasil? Esse interesse português ajudou o Brasil a se desenvolver?",
+                "resposta": "Os portugueses buscavam riquezas, especialmente metais preciosos e produtos comercializáveis na Europa. O interesse português trouxe certo desenvolvimento em termos de infraestrutura e urbanização, mas também resultou em séculos de exploração predatória dos recursos naturais e humanos, escravidão e desigualdades sociais que persistem até hoje.",
+                "dica": "Pense nos objetivos econômicos da colonização e nas consequências de longo prazo para o desenvolvimento do país."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Portugues": [
+      {
+        "disciplina": "Português",
+        "trimestre": "2º Trimestre A",
+        "bncc": [
+          {
+            "codigo": "EF05LP01",
+            "descricao": "Grafar palavras utilizando regras de correspondência fonema-grafema regulares, contextuais e morfológicas e palavras de uso frequente com correspondências irregulares."
+          },
+          {
+            "codigo": "EF05LP09",
+            "descricao": "Ler e compreender, com autonomia, textos instrucional de regras de jogo, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções do gênero e considerando a situação comunicativa e a finalidade do texto."
+          },
+          {
+            "codigo": "EF05LP15",
+            "descricao": "Identificar e interpretar o efeito de sentido de recursos expressivos sonoros (rima, aliteração etc), semânticos (figuras de linguagem), gráfico espacial (distribuição da mancha gráfica no papel), imagens e sua relação com o texto verbal."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Interpretação de Texto",
+            "tipo": "quiz",
+            "descricao": "Leia o texto e responda às questões de interpretação.",
+            "texto": "O Sabiá e a Girafa\n\nCerto dia, um sabiá pousou no pescoço de uma girafa e começou a cantar. A girafa, incomodada, perguntou:\n— Por que você não vai cantar em outro lugar?\n— Porque aqui de cima posso ver toda a floresta — respondeu o sabiá.\n— E por que você quer ver toda a floresta? — questionou a girafa.\n— Para avisar a todos quando o perigo se aproximar — explicou o pássaro.\nA girafa ficou pensativa e então disse:\n— Nesse caso, pode ficar. Sua presença será útil para todos nós.\nE assim, o sabiá e a girafa tornaram-se amigos, cada um contribuindo com o que tinha de melhor para a segurança da floresta.",
+            "questoes": [
+              {
+                "pergunta": "Por que o sabiá queria ficar no pescoço da girafa?",
+                "opcoes": [
+                  "Porque estava cansado de voar",
+                  "Porque queria incomodar a girafa",
+                  "Porque de lá podia ver toda a floresta",
+                  "Porque queria fazer amizade com a girafa"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "No texto, o sabiá explica que escolheu o pescoço da girafa porque de lá podia ver toda a floresta."
+              },
+              {
+                "pergunta": "Qual foi a razão que convenceu a girafa a deixar o sabiá ficar?",
+                "opcoes": [
+                  "A girafa sentiu pena do sabiá",
+                  "O sabiá poderia ajudar a avisar sobre perigos",
+                  "A girafa gostava de música",
+                  "O sabiá prometeu não cantar mais"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "A girafa aceitou que o sabiá ficasse quando entendeu que ele poderia avisar a todos quando o perigo se aproximasse, sendo útil para a segurança da floresta."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Gramática: Substantivos e Adjetivos",
+            "tipo": "quiz",
+            "descricao": "Identifique substantivos e adjetivos nas frases.",
+            "questoes": [
+              {
+                "pergunta": "Na frase 'O sabiá esperto pousou no longo pescoço da girafa alta', quais são os adjetivos?",
+                "opcoes": [
+                  "sabiá, pescoço, girafa",
+                  "esperto, longo, alta",
+                  "o, no, da",
+                  "pousou, longo, alta"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Os adjetivos são palavras que caracterizam os substantivos. Na frase, 'esperto' caracteriza o sabiá, 'longo' caracteriza o pescoço e 'alta' caracteriza a girafa."
+              },
+              {
+                "pergunta": "Quais são os substantivos na frase 'A amizade entre os animais trouxe segurança para a floresta'?",
+                "opcoes": [
+                  "amizade, animais, segurança, floresta",
+                  "a, entre, os, para",
+                  "trouxe, segurança, floresta",
+                  "amizade, entre, trouxe, segurança"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Os substantivos são palavras que nomeiam seres, lugares, sentimentos, etc. Na frase, 'amizade', 'animais', 'segurança' e 'floresta' são substantivos."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Produção de Texto",
+            "tipo": "interativo",
+            "descricao": "Crie uma fábula com uma moral ao final.",
+            "instrucoes": "Escreva uma pequena fábula (história com animais como personagens) que transmita uma lição importante. Sua fábula deve ter: início, meio, fim e uma moral (lição).",
+            "dicas": [
+              "Escolha animais com características marcantes (ex: leão corajoso, tartaruga persistente)",
+              "Crie um problema que os personagens precisam resolver",
+              "Termine com uma frase que resuma a lição aprendida",
+              "Use diálogos entre os personagens"
+            ],
+            "exemplo_inicio": "Certo dia, uma formiga trabalhadora encontrou uma cigarra que cantava alegremente sem se preocupar com o inverno que se aproximava..."
+          },
+          {
+            "id": 4,
+            "titulo": "Figuras de Linguagem",
+            "tipo": "desafio",
+            "descricao": "Identifique as figuras de linguagem nos textos.",
+            "questoes": [
+              {
+                "pergunta": "Que figura de linguagem está presente em: 'O vento sussurrava entre as árvores'?",
+                "opcoes": [
+                  "Metáfora",
+                  "Personificação",
+                  "Comparação",
+                  "Hipérbole"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Temos uma personificação, pois atribui-se ao vento (elemento da natureza) a capacidade humana de sussurrar."
+              },
+              {
+                "pergunta": "Identifique a figura de linguagem em: 'Aquele menino é um foguete, corre muito rápido!'",
+                "opcoes": [
+                  "Metáfora",
+                  "Personificação",
+                  "Comparação",
+                  "Aliteração"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Temos uma metáfora, pois há uma comparação implícita entre o menino e um foguete, sem usar palavras comparativas como 'como' ou 'tal qual'."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Ingles": [
+      {
+        "disciplina": "Inglês",
+        "trimestre": "2º Trimestre A",
+        "bncc": [
+          {
+            "codigo": "EF05LI01",
+            "descricao": "Identificar diferentes linguagens (verbal, não verbal, midiática, digital etc.) em textos de língua inglesa."
+          },
+          {
+            "codigo": "EF05LI04",
+            "descricao": "Reconhecer, com o apoio de palavras cognatas e pistas do contexto discursivo, o assunto e as informações principais em textos orais e escritos."
+          },
+          {
+            "codigo": "EF05LI07",
+            "descricao": "Nomear em língua inglesa objetos, pessoas, lugares, animais, do cotidiano."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Daily Routines",
+            "tipo": "quiz",
+            "descricao": "Test your knowledge about daily routine vocabulary and expressions.",
+            "questoes": [
+              {
+                "pergunta": "What time do you usually wake up?",
+                "opcoes": [
+                  "I usually wake up at 7 o'clock.",
+                  "I usually wake up yesterday.",
+                  "I usually wake up breakfast.",
+                  "I usually wake up school."
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Para responder a pergunta sobre horário (What time), usamos expressões de tempo com 'at' seguido da hora (at 7 o'clock)."
+              },
+              {
+                "pergunta": "Put these daily activities in the correct order:",
+                "opcoes": [
+                  "Wake up, have breakfast, go to school, have lunch, do homework, have dinner, go to bed",
+                  "Have dinner, have lunch, wake up, go to school, have breakfast, do homework, go to bed",
+                  "Go to bed, wake up, have breakfast, go to school, have lunch, do homework, have dinner",
+                  "Have breakfast, wake up, go to school, have lunch, have dinner, do homework, go to bed"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "A ordem lógica das atividades diárias é: acordar, tomar café da manhã, ir para a escola, almoçar, fazer a lição de casa, jantar e ir para a cama."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Food and Meals",
+            "tipo": "quiz",
+            "descricao": "Answer the questions about food vocabulary and healthy eating habits.",
+            "questoes": [
+              {
+                "pergunta": "Which of these is NOT a fruit?",
+                "opcoes": [
+                  "Apple",
+                  "Banana",
+                  "Carrot",
+                  "Orange"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Carrot (cenoura) não é uma fruta, é um vegetal. Apple (maçã), banana (banana) e orange (laranja) são frutas."
+              },
+              {
+                "pergunta": "Complete the sentence: 'For breakfast, I usually eat _____ and drink _____.'",
+                "opcoes": [
+                  "bread / coffee",
+                  "dinner / lunch",
+                  "rice / meat",
+                  "plate / fork"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "A frase correta é 'For breakfast, I usually eat bread and drink coffee' (No café da manhã, eu geralmente como pão e bebo café). As outras opções não fazem sentido no contexto."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Memory Game: Animals",
+            "tipo": "interativo",
+            "descricao": "Match the animal names with their pictures.",
+            "instrucoes": "Click on the cards to find matching pairs of animal names and pictures.",
+            "pares": [
+              {
+                "nome": "dog",
+                "imagem": "cachorro"
+              },
+              {
+                "nome": "cat",
+                "imagem": "gato"
+              },
+              {
+                "nome": "bird",
+                "imagem": "pássaro"
+              },
+              {
+                "nome": "fish",
+                "imagem": "peixe"
+              },
+              {
+                "nome": "elephant",
+                "imagem": "elefante"
+              },
+              {
+                "nome": "lion",
+                "imagem": "leão"
+              },
+              {
+                "nome": "monkey",
+                "imagem": "macaco"
+              },
+              {
+                "nome": "turtle",
+                "imagem": "tartaruga"
+              }
+            ],
+            "dica": "Try to remember the position of each card after you flip it."
+          },
+          {
+            "id": 4,
+            "titulo": "School Objects",
+            "tipo": "desafio",
+            "descricao": "Identify and write the names of school objects in English.",
+            "questoes": [
+              {
+                "pergunta": "What are these objects? (Image shows: pencil, eraser, notebook, ruler)",
+                "resposta": "pencil, eraser, notebook, ruler",
+                "dica": "These are objects you use to write and draw in class."
+              },
+              {
+                "pergunta": "Complete the dialogue:\nTeacher: What do you need for the art class?\nStudent: I need _____, _____ and _____.",
+                "opcoes": [
+                  "a pencil, colored pencils, paper",
+                  "a computer, a printer, a keyboard",
+                  "a fork, a knife, a spoon",
+                  "a ball, a racket, shoes"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Para a aula de arte, os materiais mais adequados são: lápis, lápis de cor e papel (a pencil, colored pencils, paper)."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "B": {
+    "Ciencias": [
+      {
+        "disciplina": "Ciências",
+        "trimestre": "2º Trimestre B",
+        "bncc": [
+          {
+            "codigo": "EF05CI07",
+            "descricao": "Descrever e representar o Sistema Solar e os movimentos de translação e rotação da Terra e da Lua, e reconhecer suas consequências."
+          },
+          {
+            "codigo": "EF05CI08",
+            "descricao": "Organizar um cardápio equilibrado com base nas características dos grupos alimentares (nutrientes e calorias) e nas necessidades individuais (atividades realizadas, idade, sexo etc.) para a manutenção da saúde do organismo."
+          },
+          {
+            "codigo": "EF05CI09",
+            "descricao": "Discutir a ocorrência de distúrbios nutricionais (como obesidade, subnutrição etc.) entre crianças e jovens a partir da análise de seus hábitos (tipos e quantidade de alimento ingerido, prática de atividade física etc.)."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Sistema Solar e Movimentos da Terra",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre o Sistema Solar e os movimentos da Terra e da Lua.",
+            "questoes": [
+              {
+                "pergunta": "Qual é o movimento da Terra responsável pela sucessão dos dias e das noites?",
+                "opcoes": [
+                  "Translação",
+                  "Rotação",
+                  "Precessão",
+                  "Nutação"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O movimento de rotação da Terra é o responsável pela sucessão dos dias e das noites. Nesse movimento, a Terra gira em torno do seu próprio eixo, completando uma volta a cada 24 horas aproximadamente."
+              },
+              {
+                "pergunta": "Qual é o movimento da Terra responsável pela ocorrência das estações do ano?",
+                "opcoes": [
+                  "Translação",
+                  "Rotação",
+                  "Precessão",
+                  "Nutação"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "O movimento de translação da Terra é o responsável pela ocorrência das estações do ano. Nesse movimento, a Terra gira em torno do Sol, completando uma volta a cada 365 dias e 6 horas aproximadamente. A inclinação do eixo da Terra em relação ao plano da órbita, combinada com esse movimento, causa as estações do ano."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Alimentação Saudável",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre alimentação equilibrada e nutrição.",
+            "questoes": [
+              {
+                "pergunta": "Quais são os principais grupos de alimentos que devem estar presentes em uma alimentação equilibrada?",
+                "opcoes": [
+                  "Apenas frutas e verduras",
+                  "Apenas carnes e laticínios",
+                  "Carboidratos, proteínas, gorduras, vitaminas e minerais",
+                  "Apenas alimentos industrializados"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Uma alimentação equilibrada deve conter todos os grupos de nutrientes: carboidratos (pães, arroz, massas), proteínas (carnes, ovos, leguminosas), gorduras (óleos, castanhas), além de vitaminas e minerais (frutas, verduras e legumes)."
+              },
+              {
+                "pergunta": "Por que as necessidades nutricionais variam de acordo com a idade, sexo e nível de atividade física?",
+                "opcoes": [
+                  "Não variam, todas as pessoas precisam da mesma quantidade de nutrientes",
+                  "Porque cada pessoa tem gostos alimentares diferentes",
+                  "Porque o organismo tem diferentes necessidades energéticas e de nutrientes dependendo dessas características",
+                  "Apenas por questões culturais"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "As necessidades nutricionais variam porque o organismo tem diferentes demandas energéticas e de nutrientes dependendo da idade (crianças em crescimento precisam de mais nutrientes proporcionalmente), sexo (homens e mulheres têm composições corporais diferentes) e nível de atividade física (quem pratica mais exercícios gasta mais energia)."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Simulação do Sistema Solar",
+            "tipo": "interativo",
+            "descricao": "Explore o Sistema Solar e os movimentos dos planetas.",
+            "instrucoes": "Use os controles para simular os movimentos de rotação e translação dos planetas do Sistema Solar.",
+            "elementos": [
+              {
+                "nome": "Sol",
+                "tipo": "estrela",
+                "posição": "centro"
+              },
+              {
+                "nome": "Mercúrio",
+                "tipo": "planeta",
+                "posição": 1
+              },
+              {
+                "nome": "Vênus",
+                "tipo": "planeta",
+                "posição": 2
+              },
+              {
+                "nome": "Terra",
+                "tipo": "planeta",
+                "posição": 3
+              },
+              {
+                "nome": "Marte",
+                "tipo": "planeta",
+                "posição": 4
+              },
+              {
+                "nome": "Júpiter",
+                "tipo": "planeta",
+                "posição": 5
+              },
+              {
+                "nome": "Saturno",
+                "tipo": "planeta",
+                "posição": 6
+              },
+              {
+                "nome": "Urano",
+                "tipo": "planeta",
+                "posição": 7
+              },
+              {
+                "nome": "Netuno",
+                "tipo": "planeta",
+                "posição": 8
+              }
+            ],
+            "dica": "Observe como a velocidade de translação diminui à medida que os planetas se afastam do Sol."
+          },
+          {
+            "id": 4,
+            "titulo": "Cardápio Saudável",
+            "tipo": "desafio",
+            "descricao": "Crie um cardápio equilibrado para um dia.",
+            "questoes": [
+              {
+                "pergunta": "Elabore um cardápio equilibrado para um dia inteiro (café da manhã, almoço, lanche e jantar) para uma criança de 10 anos. Inclua alimentos de todos os grupos nutricionais.",
+                "resposta": "Café da manhã: Pão integral com queijo, uma fruta e um copo de leite.\nLanche da manhã: Iogurte com granola.\nAlmoço: Arroz, feijão, filé de frango grelhado, salada de alface e tomate, e legumes cozidos.\nLanche da tarde: Frutas picadas e um punhado de castanhas.\nJantar: Sopa de legumes com macarrão integral e carne, e uma salada verde.",
+                "dica": "Lembre-se de incluir carboidratos (pães, arroz, massas), proteínas (carnes, ovos, leguminosas), gorduras saudáveis (azeite, castanhas), vitaminas e minerais (frutas, verduras e legumes)."
+              },
+              {
+                "pergunta": "Identifique dois distúrbios nutricionais comuns entre crianças e adolescentes e explique suas possíveis causas e consequências.",
+                "opcoes": [
+                  "Obesidade e subnutrição",
+                  "Gripe e resfriado",
+                  "Asma e bronquite",
+                  "Miopia e astigmatismo"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Obesidade: Causada pelo consumo excessivo de alimentos calóricos (especialmente ultraprocessados), sedentarismo e fatores genéticos. Consequências: problemas cardiovasculares, diabetes tipo 2, problemas articulares e baixa autoestima. Subnutrição: Causada pela ingestão insuficiente de nutrientes, seja por falta de acesso a alimentos ou por dietas restritivas. Consequências: comprometimento do crescimento e desenvolvimento, baixa imunidade e problemas cognitivos."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Matematica": [
+      {
+        "disciplina": "Matemática",
+        "trimestre": "2º Trimestre B",
+        "bncc": [
+          {
+            "codigo": "EF05MA08",
+            "descricao": "Resolver e elaborar problemas de multiplicação e divisão com números naturais e com números racionais cuja representação decimal é finita, utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos."
+          },
+          {
+            "codigo": "EF05MA10",
+            "descricao": "Concluir, por meio de investigações, que a relação de igualdade existente entre dois membros permanece ao adicionar, subtrair, multiplicar ou dividir cada um desses membros por um mesmo número, para construir a noção de equivalência."
+          },
+          {
+            "codigo": "EF05MA17",
+            "descricao": "Reconhecer, nomear e comparar polígonos, considerando lados, vértices e ângulos, e desenhá-los, utilizando material de desenho ou tecnologias digitais."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Multiplicação e Divisão",
+            "tipo": "quiz",
+            "descricao": "Resolva os problemas envolvendo multiplicação e divisão.",
+            "questoes": [
+              {
+                "pergunta": "Uma escola tem 6 turmas com 28 alunos em cada uma. Quantos alunos há no total?",
+                "opcoes": [
+                  "148 alunos",
+                  "158 alunos",
+                  "168 alunos",
+                  "178 alunos"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Para resolver este problema, multiplicamos o número de turmas pelo número de alunos em cada turma: 6 × 28 = 168 alunos."
+              },
+              {
+                "pergunta": "Um pacote com 144 lápis de cor será distribuído igualmente entre 12 crianças. Quantos lápis cada criança receberá?",
+                "opcoes": [
+                  "10 lápis",
+                  "12 lápis",
+                  "14 lápis",
+                  "16 lápis"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Para resolver este problema, dividimos o número total de lápis pelo número de crianças: 144 ÷ 12 = 12 lápis para cada criança."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Equivalência e Igualdade",
+            "tipo": "quiz",
+            "descricao": "Explore a noção de equivalência em expressões matemáticas.",
+            "questoes": [
+              {
+                "pergunta": "Se 3 × 4 = 12, qual das seguintes expressões também é verdadeira?",
+                "opcoes": [
+                  "3 × 5 = 12",
+                  "3 × 4 + 2 = 12 + 2",
+                  "3 × 4 - 1 = 12 + 1",
+                  "3 × 4 ÷ 2 = 12 × 2"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "A expressão 3 × 4 + 2 = 12 + 2 é verdadeira porque adicionamos o mesmo valor (2) aos dois lados da igualdade. Assim, 3 × 4 + 2 = 12 + 2, que resulta em 14 = 14."
+              },
+              {
+                "pergunta": "Se x + 5 = 10, o que acontece se multiplicarmos os dois lados por 2?",
+                "opcoes": [
+                  "x + 5 = 20",
+                  "x + 10 = 20",
+                  "2x + 5 = 20",
+                  "2x + 10 = 20"
+                ],
+                "resposta_correta": 3,
+                "explicacao": "Ao multiplicar os dois lados da equação x + 5 = 10 por 2, obtemos 2(x + 5) = 2 × 10, que resulta em 2x + 10 = 20."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Polígonos e suas Propriedades",
+            "tipo": "interativo",
+            "descricao": "Identifique e desenhe diferentes tipos de polígonos.",
+            "instrucoes": "Use as ferramentas de desenho para criar os polígonos solicitados.",
+            "desafios": [
+              "Desenhe um triângulo equilátero (todos os lados iguais)",
+              "Desenhe um quadrado e identifique seus vértices",
+              "Desenhe um pentágono regular (5 lados iguais)",
+              "Desenhe um hexágono regular (6 lados iguais)"
+            ],
+            "dica": "Lembre-se que um polígono regular tem todos os lados e ângulos iguais."
+          },
+          {
+            "id": 4,
+            "titulo": "Problemas de Raciocínio Lógico",
+            "tipo": "desafio",
+            "descricao": "Resolva problemas que exigem raciocínio lógico e estratégias diversas.",
+            "questoes": [
+              {
+                "pergunta": "Ana, Beatriz e Carlos estão em uma fila. Ana não é a primeira e Beatriz não é a última. Quem está no meio da fila?",
+                "opcoes": [
+                  "Ana",
+                  "Beatriz",
+                  "Carlos",
+                  "Não é possível determinar"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Se Ana não é a primeira e Beatriz não é a última, temos duas possibilidades: (Carlos, Beatriz, Ana) ou (Carlos, Ana, Beatriz). Mas como Ana não é a primeira, a ordem só pode ser (Carlos, Beatriz, Ana), portanto Beatriz está no meio."
+              },
+              {
+                "pergunta": "Um número somado com ele mesmo e depois multiplicado por 3 resulta em 30. Qual é esse número?",
+                "resposta": "5",
+                "dica": "Chame o número de x. A expressão matemática seria: 3(x + x) = 30 ou 3 × 2x = 30."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Historia": [
+      {
+        "disciplina": "História",
+        "trimestre": "2º Trimestre B",
+        "bncc": [
+          {
+            "codigo": "EF05HI05",
+            "descricao": "Associar o conceito de cidadania à conquista de direitos dos povos e das sociedades, compreendendo-o como conquista histórica."
+          },
+          {
+            "codigo": "EF05HI06",
+            "descricao": "Comparar o uso de diferentes linguagens e tecnologias no processo de comunicação e avaliar os significados sociais, políticos e culturais atribuídos a elas."
+          },
+          {
+            "codigo": "EF05HI09",
+            "descricao": "Comparar pontos de vista sobre temas que impactam a vida cotidiana no tempo presente, por meio do acesso a diferentes fontes, incluindo orais."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Cidadania e Direitos",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre cidadania e direitos ao longo da história.",
+            "questoes": [
+              {
+                "pergunta": "O que significa ser cidadão no Brasil atual?",
+                "opcoes": [
+                  "Apenas ter nascido no Brasil",
+                  "Apenas poder votar nas eleições",
+                  "Ter direitos e deveres políticos, civis e sociais garantidos pela Constituição",
+                  "Apenas pagar impostos"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Ser cidadão no Brasil atual significa ter direitos e deveres políticos, civis e sociais garantidos pela Constituição Federal de 1988. Isso inclui o direito ao voto, à educação, à saúde, à moradia, à liberdade de expressão, entre outros, além dos deveres como respeitar as leis e pagar impostos."
+              },
+              {
+                "pergunta": "Qual destes grupos NÃO tinha direito ao voto no Brasil até 1932?",
+                "opcoes": [
+                  "Homens ricos",
+                  "Homens alfabetizados",
+                  "Mulheres",
+                  "Militares"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "As mulheres não tinham direito ao voto no Brasil até 1932, quando foi aprovado o Código Eleitoral que garantiu o direito de voto às mulheres. Este foi um importante marco na conquista da cidadania feminina no país."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Comunicação e Tecnologia na História",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre a evolução dos meios de comunicação e tecnologias ao longo da história.",
+            "questoes": [
+              {
+                "pergunta": "Qual invenção revolucionou a comunicação no século XV, permitindo a reprodução de textos em grande escala?",
+                "opcoes": [
+                  "Telégrafo",
+                  "Imprensa de tipos móveis",
+                  "Telefone",
+                  "Internet"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "A imprensa de tipos móveis, desenvolvida por Johannes Gutenberg por volta de 1450, revolucionou a comunicação ao permitir a reprodução de textos em grande escala. Antes disso, os livros eram copiados manualmente, o que os tornava raros e caros."
+              },
+              {
+                "pergunta": "Como os meios de comunicação modernos (internet, redes sociais) mudaram a forma como as pessoas participam da vida política?",
+                "opcoes": [
+                  "Não mudaram em nada, pois a política continua igual",
+                  "Permitiram maior acesso à informação e participação direta em debates políticos",
+                  "Eliminaram completamente a necessidade de partidos políticos",
+                  "Tornaram a política exclusiva para especialistas em tecnologia"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Os meios de comunicação modernos, como internet e redes sociais, permitiram maior acesso à informação política e possibilitaram que as pessoas participem diretamente de debates, mobilizações e campanhas, sem depender exclusivamente da mídia tradicional. Isso ampliou as possibilidades de participação política, embora também tenha trazido desafios como a desinformação."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Linha do Tempo da Cidadania no Brasil",
+            "tipo": "interativo",
+            "descricao": "Organize os eventos importantes na conquista de direitos no Brasil.",
+            "instrucoes": "Arraste cada evento para sua posição correta na linha do tempo.",
+            "eventos": [
+              {
+                "texto": "Abolição da escravidão",
+                "ano": 1888
+              },
+              {
+                "texto": "Direito de voto para as mulheres",
+                "ano": 1932
+              },
+              {
+                "texto": "Constituição Cidadã",
+                "ano": 1988
+              },
+              {
+                "texto": "Estatuto da Criança e do Adolescente",
+                "ano": 1990
+              },
+              {
+                "texto": "Lei Maria da Penha",
+                "ano": 2006
+              },
+              {
+                "texto": "Estatuto do Idoso",
+                "ano": 2003
+              },
+              {
+                "texto": "Estatuto da Pessoa com Deficiência",
+                "ano": 2015
+              }
+            ],
+            "dica": "Observe que a conquista de direitos é um processo histórico contínuo, com avanços ao longo do tempo para diferentes grupos sociais."
+          },
+          {
+            "id": 4,
+            "titulo": "Diferentes Pontos de Vista na História",
+            "tipo": "desafio",
+            "descricao": "Analise diferentes perspectivas sobre eventos históricos.",
+            "questoes": [
+              {
+                "pergunta": "A chegada dos europeus à América pode ser vista de diferentes formas. Compare a perspectiva dos colonizadores europeus com a dos povos indígenas sobre esse evento.",
+                "resposta": "Para os colonizadores europeus, a chegada à América representava uma grande descoberta, expansão territorial, oportunidades econômicas e missão civilizatória/religiosa. Já para os povos indígenas, significou invasão de seus territórios, imposição de uma cultura estrangeira, doenças desconhecidas, escravização e genocídio de muitos povos nativos.",
+                "dica": "Pense em como o mesmo evento pode ser interpretado de formas completamente diferentes dependendo de quem o vivencia."
+              },
+              {
+                "pergunta": "Escolha um tema atual que impacta a vida cotidiana (como uso de tecnologias, questões ambientais ou direitos sociais) e apresente pelo menos dois pontos de vista diferentes sobre ele.",
+                "resposta": "Exemplo sobre uso de celulares por crianças e adolescentes: Ponto de vista 1: Celulares são ferramentas educativas importantes que preparam os jovens para o mundo digital, permitem acesso à informação e desenvolvimento de habilidades tecnológicas. Ponto de vista 2: O uso excessivo de celulares pode causar problemas de saúde mental, dependência, dificuldades de socialização presencial e exposição a conteúdos inadequados.",
+                "dica": "Escolha um tema atual e tente apresentar argumentos válidos de ambos os lados, mostrando que questões complexas raramente têm uma única perspectiva correta."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Geografia": [
+      {
+        "disciplina": "Geografia",
+        "trimestre": "2º Trimestre B",
+        "bncc": [
+          {
+            "codigo": "EF05GE09",
+            "descricao": "Estabelecer conexões e hierarquias entre diferentes cidades, utilizando mapas temáticos e representações gráficas."
+          },
+          {
+            "codigo": "EF05GE10",
+            "descricao": "Reconhecer e comparar atributos da qualidade ambiental e algumas formas de poluição dos cursos de água e dos oceanos (esgotos, efluentes industriais, marés negras etc.)."
+          },
+          {
+            "codigo": "EF05GE11",
+            "descricao": "Identificar e descrever problemas ambientais que ocorrem no entorno da escola e da residência (lixões, indústrias poluentes, destruição do patrimônio histórico etc.), propondo soluções (inclusive tecnológicas) para esses problemas."
+          },
+          {
+            "codigo": "EF05GE04",
+            "descricao": "Reconhecer as características da cidade e analisar as interações entre a cidade e o campo e entre cidades na rede urbana."
+          },
+          {
+            "codigo": "EF05GE05",
+            "descricao": "Identificar e comparar as mudanças dos tipos de trabalho e desenvolvimento tecnológico na agropecuária, na indústria, no comércio e nos serviços."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Redes Urbanas",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre as conexões entre diferentes cidades.",
+            "questoes": [
+              {
+                "pergunta": "O que é uma metrópole?",
+                "opcoes": [
+                  "Qualquer cidade com mais de 100 mil habitantes",
+                  "Uma cidade grande e importante que exerce influência econômica, política e cultural sobre outras cidades",
+                  "A capital de um estado ou país",
+                  "Uma cidade com muitos edifícios altos"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Uma metrópole é uma cidade grande e importante que exerce influência econômica, política e cultural sobre outras cidades ao seu redor, formando uma região metropolitana. São Paulo, Rio de Janeiro e Belo Horizonte são exemplos de metrópoles brasileiras."
+              },
+              {
+                "pergunta": "O que caracteriza uma rede urbana?",
+                "opcoes": [
+                  "Apenas o conjunto de cidades de um estado",
+                  "O sistema de transporte entre cidades",
+                  "O conjunto de cidades e suas relações de interdependência e hierarquia",
+                  "Apenas as grandes cidades de um país"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Uma rede urbana é caracterizada pelo conjunto de cidades e suas relações de interdependência e hierarquia. Essas relações envolvem fluxos de pessoas, mercadorias, serviços, informações e capital entre as cidades."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Poluição das Águas",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre poluição dos cursos de água e oceanos.",
+            "questoes": [
+              {
+                "pergunta": "O que são efluentes industriais?",
+                "opcoes": [
+                  "Água da chuva que cai sobre as indústrias",
+                  "Resíduos líquidos gerados pelas indústrias que podem conter substâncias poluentes",
+                  "Água tratada utilizada nas indústrias",
+                  "Produtos fabricados pelas indústrias"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Efluentes industriais são os resíduos líquidos gerados durante os processos industriais. Esses resíduos podem conter substâncias químicas, metais pesados e outros poluentes que, se descartados incorretamente, causam sérios danos aos cursos d'água e à vida aquática."
+              },
+              {
+                "pergunta": "O que é uma maré negra?",
+                "opcoes": [
+                  "Um fenômeno natural de escurecimento das águas do mar",
+                  "Um tipo de maré que ocorre durante a noite",
+                  "Um derramamento de petróleo ou derivados no mar",
+                  "Um tipo de alga que escurece a água do mar"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Maré negra é o nome dado a um derramamento de petróleo ou seus derivados no mar. Esse tipo de acidente ambiental causa graves danos aos ecossistemas marinhos, afetando a fauna e a flora, além de prejudicar atividades econômicas como a pesca e o turismo."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Mapa de Problemas Ambientais",
+            "tipo": "interativo",
+            "descricao": "Identifique problemas ambientais em diferentes regiões.",
+            "instrucoes": "Observe o mapa e identifique os problemas ambientais representados pelos ícones.",
+            "problemas": [
+              {
+                "nome": "Desmatamento",
+                "região": "Amazônia",
+                "consequências": "Perda de biodiversidade, alterações climáticas, erosão do solo"
+              },
+              {
+                "nome": "Poluição industrial",
+                "região": "Grandes centros urbanos",
+                "consequências": "Contaminação do ar e da água, problemas respiratórios"
+              },
+              {
+                "nome": "Contaminação por agrotóxicos",
+                "região": "Áreas agrícolas",
+                "consequências": "Contaminação do solo e da água, riscos à saúde humana"
+              },
+              {
+                "nome": "Descarte inadequado de lixo",
+                "região": "Periferias urbanas",
+                "consequências": "Proliferação de doenças, contaminação do solo e da água"
+              }
+            ],
+            "dica": "Observe a relação entre as atividades humanas e os problemas ambientais em cada região."
+          },
+          {
+            "id": 4,
+            "titulo": "Soluções para Problemas Ambientais",
+            "tipo": "desafio",
+            "descricao": "Proponha soluções para problemas ambientais do cotidiano.",
+            "questoes": [
+              {
+                "pergunta": "Identifique um problema ambiental que ocorre no entorno da sua escola ou residência e proponha uma solução viável para ele.",
+                "resposta": "Exemplo: Problema - Descarte inadequado de lixo nas ruas. Solução - Organizar uma campanha de conscientização na comunidade, instalar mais lixeiras em pontos estratégicos, criar um sistema de coleta seletiva comunitária e promover oficinas de reciclagem e reaproveitamento de materiais.",
+                "dica": "Pense em problemas como lixo nas ruas, poluição do ar, contaminação de córregos, desmatamento de áreas verdes, etc. Sua solução deve ser realista e considerar aspectos educacionais, tecnológicos e de mobilização comunitária."
+              },
+              {
+                "pergunta": "Como a tecnologia pode ajudar a resolver problemas de poluição das águas?",
+                "opcoes": [
+                  "A tecnologia não pode ajudar em questões ambientais",
+                  "Apenas através de grandes usinas de tratamento de água",
+                  "Através de aplicativos de monitoramento, sensores de qualidade da água, sistemas de filtragem inovadores e métodos de biorremediação",
+                  "Apenas através da redução do uso de água"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "A tecnologia pode contribuir para resolver problemas de poluição das águas de diversas formas: aplicativos que permitem aos cidadãos denunciar pontos de poluição, sensores que monitoram a qualidade da água em tempo real, sistemas avançados de filtragem e tratamento, métodos de biorremediação que utilizam organismos para degradar poluentes, entre outros."
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "titulo": "Território e Fronteira",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre território e fronteiras.",
+            "questoes": [
+              {
+                "pergunta": "O território de um país é sempre delimitado apenas por elementos naturais, como rios e montanhas?",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Falso. Os territórios podem ser delimitados tanto por elementos naturais (rios, montanhas, florestas) quanto por elementos artificiais (muros, cercas, linhas imaginárias definidas por acordos)."
+              },
+              {
+                "pergunta": "Fronteiras podem ser invisíveis, pois muitas vezes são definidas por acordos entre países, e não por barreiras físicas.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. Muitas fronteiras são definidas por acordos diplomáticos e tratados entre países, sendo representadas apenas em mapas, sem barreiras físicas visíveis no terreno."
+              },
+              {
+                "pergunta": "Qual das opções abaixo é um exemplo de fronteira artificial?",
+                "opcoes": [
+                  "Rio Amazonas",
+                  "Cordilheira dos Andes",
+                  "Muro construído entre dois países",
+                  "Floresta Amazônica"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Um muro construído entre dois países é um exemplo de fronteira artificial, criada pelo ser humano. Já rios, cordilheiras e florestas são exemplos de fronteiras naturais."
+              },
+              {
+                "pergunta": "Sobre território e fronteira, assinale as afirmações corretas:",
+                "opcoes": [
+                  "O território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; todo território tem fronteiras visíveis e tocáveis",
+                  "O território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; o respeito às fronteiras é importante para evitar conflitos",
+                  "O território é uma área controlada por um grupo ou país; todo território tem fronteiras visíveis e tocáveis; o respeito às fronteiras é importante para evitar conflitos",
+                  "Fronteiras podem ser naturais ou artificiais; todo território tem fronteiras visíveis e tocáveis; o respeito às fronteiras é importante para evitar conflitos"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "As afirmações corretas são: o território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; o respeito às fronteiras é importante para evitar conflitos. A afirmação de que todo território tem fronteiras visíveis e tocáveis é falsa, pois muitas fronteiras são invisíveis, definidas apenas por acordos."
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "titulo": "Brasil no Mundo",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre a localização e características do Brasil no contexto mundial.",
+            "questoes": [
+              {
+                "pergunta": "O Brasil é o maior país do mundo em extensão territorial?",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Falso. O Brasil é o quinto maior país do mundo em extensão territorial, atrás da Rússia, Canadá, Estados Unidos e China."
+              },
+              {
+                "pergunta": "O Brasil faz fronteira com quase todos os países da América do Sul, exceto Chile e Equador.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. O Brasil faz fronteira com 10 países da América do Sul: Argentina, Bolívia, Colômbia, Guiana, Guiana Francesa, Paraguai, Peru, Suriname, Uruguai e Venezuela. Não faz fronteira apenas com Chile e Equador."
+              },
+              {
+                "pergunta": "O Brasil está localizado principalmente em qual hemisfério?",
+                "opcoes": [
+                  "Hemisfério Norte",
+                  "Hemisfério Sul",
+                  "Hemisfério Leste",
+                  "Hemisfério Oeste"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O Brasil está localizado principalmente no Hemisfério Sul, embora uma pequena parte do território (extremo norte) esteja no Hemisfério Norte. O país também está totalmente no Hemisfério Oeste."
+              },
+              {
+                "pergunta": "Sobre a localização do Brasil, marque as opções corretas:",
+                "opcoes": [
+                  "O Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil não possui nenhum arquipélago",
+                  "O Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil tem mais de 15 mil km de fronteiras terrestres",
+                  "O Brasil está na América do Sul; o Brasil não possui nenhum arquipélago; o Brasil tem mais de 15 mil km de fronteiras terrestres",
+                  "O Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil não possui nenhum arquipélago; o Brasil tem mais de 15 mil km de fronteiras terrestres"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "As afirmações corretas são: o Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil tem mais de 15 mil km de fronteiras terrestres. A afirmação de que o Brasil não possui nenhum arquipélago é falsa, pois o país possui arquipélagos como Fernando de Noronha e Abrolhos."
+              },
+              {
+                "pergunta": "O Brasil possui uma grande extensão territorial, o que resulta em grande diversidade de climas, vegetação e relevo.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. A grande extensão territorial do Brasil (8,5 milhões de km²) contribui para a diversidade de climas, vegetações e relevos encontrados no país, desde florestas tropicais até regiões semiáridas, de planícies a planaltos e serras."
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "titulo": "Formação do Território Brasileiro",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre a formação histórica do território brasileiro.",
+            "questoes": [
+              {
+                "pergunta": "O Tratado de Tordesilhas dividiu as terras do novo continente entre Portugal e Espanha.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. O Tratado de Tordesilhas, assinado em 1494, estabeleceu uma linha imaginária a 370 léguas a oeste das ilhas de Cabo Verde, dividindo as terras 'descobertas e por descobrir' entre Portugal (leste) e Espanha (oeste)."
+              },
+              {
+                "pergunta": "As capitanias hereditárias foram criadas para facilitar a administração do território português na América.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. As capitanias hereditárias foram criadas em 1534 pela Coroa Portuguesa como forma de administrar e colonizar o território brasileiro, dividindo-o em faixas de terra que foram doadas a pessoas de confiança do rei (donatários)."
+              },
+              {
+                "pergunta": "O que eram as capitanias hereditárias?",
+                "opcoes": [
+                  "Pequenas cidades criadas pelos espanhóis",
+                  "Porções de terras concedidas a pessoas importantes pela Coroa Portuguesa",
+                  "Fortalezas construídas no litoral",
+                  "Rios que serviam como fronteiras"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "As capitanias hereditárias eram porções de terras concedidas a pessoas importantes (donatários) pela Coroa Portuguesa. Esses donatários tinham o direito de explorar e administrar essas terras, que eram transmitidas por herança, daí o nome 'hereditárias'."
+              },
+              {
+                "pergunta": "O sistema de capitanias hereditárias foi implantado em 1534 para facilitar o controle e a administração do território.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. O sistema de capitanias hereditárias foi implantado em 1534 como uma estratégia da Coroa Portuguesa para ocupar, defender e administrar o vasto território brasileiro sem grandes custos para Portugal, transferindo essa responsabilidade para os donatários."
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "titulo": "Mudanças nas Fronteiras e Estados Brasileiros",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre as mudanças nas fronteiras e divisões administrativas do Brasil ao longo da história.",
+            "questoes": [
+              {
+                "pergunta": "As fronteiras do Brasil nunca mudaram desde o início da colonização.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Falso. As fronteiras do Brasil mudaram significativamente desde o início da colonização. O território brasileiro foi expandido muito além dos limites estabelecidos pelo Tratado de Tordesilhas, através de entradas e bandeiras, acordos diplomáticos e anexações."
+              },
+              {
+                "pergunta": "O território brasileiro já foi dividido em Estado do Grão-Pará e Estado do Brasil.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. Durante parte do período colonial, o território que hoje corresponde ao Brasil foi dividido administrativamente em Estado do Grão-Pará e Maranhão (norte) e Estado do Brasil (centro-sul), que eram administrados separadamente por Portugal."
+              },
+              {
+                "pergunta": "O que aconteceu ao território brasileiro no século XVIII?",
+                "opcoes": [
+                  "Foi dividido em municípios",
+                  "Passou a ser ocupado por entradas e bandeiras, mudando as fronteiras",
+                  "Tornou-se uma monarquia",
+                  "Foi dividido em regiões metropolitanas"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "No século XVIII, o território brasileiro foi expandido significativamente através das entradas e bandeiras, expedições que adentraram o interior do continente em busca de riquezas e indígenas para escravização, ultrapassando os limites estabelecidos pelo Tratado de Tordesilhas e ampliando as fronteiras da colônia portuguesa."
+              },
+              {
+                "pergunta": "Sobre as mudanças do território brasileiro, assinale as afirmações corretas:",
+                "opcoes": [
+                  "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; o Acre foi anexado ao Brasil por acordos",
+                  "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso",
+                  "O território foi ampliado por entradas e bandeiras; o Acre foi anexado ao Brasil por acordos; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso",
+                  "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; o Acre foi anexado ao Brasil por acordos; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso"
+                ],
+                "resposta_correta": 3,
+                "explicacao": "Todas as afirmações são corretas: o território brasileiro foi ampliado pelas entradas e bandeiras; durante o Império (1822-1889), o Brasil foi dividido em províncias; o Acre foi anexado ao Brasil em 1903 através do Tratado de Petrópolis com a Bolívia; e Mato Grosso do Sul foi criado em 1977 a partir do desmembramento do estado de Mato Grosso."
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "titulo": "Organização Política do Brasil",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre a organização política e administrativa do Brasil.",
+            "questoes": [
+              {
+                "pergunta": "O Brasil se tornou uma República Federativa em 1889.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. Em 15 de novembro de 1889, ocorreu a Proclamação da República, quando o Brasil deixou de ser uma monarquia e se tornou uma República Federativa, com um sistema de governo presidencialista."
+              },
+              {
+                "pergunta": "O Distrito Federal sempre foi Brasília.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Falso. Antes de Brasília, inaugurada em 1960, o Distrito Federal estava localizado na cidade do Rio de Janeiro, que foi a capital do Brasil de 1763 até 1960."
+              },
+              {
+                "pergunta": "Após a Proclamação da República, como o território brasileiro passou a ser organizado?",
+                "opcoes": [
+                  "Em províncias",
+                  "Em estados e Distrito Federal",
+                  "Em capitanias hereditárias",
+                  "Em regiões metropolitanas"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Após a Proclamação da República em 1889, o território brasileiro passou a ser organizado em estados (antigas províncias do Império) e Distrito Federal, formando uma federação. Essa organização político-administrativa permanece até hoje, com algumas modificações."
+              },
+              {
+                "pergunta": "Existem projetos de criação de novos estados no Brasil, o que significa que o mapa do Brasil pode mudar no futuro.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. Existem diversos projetos de criação de novos estados e territórios no Brasil, como o estado do Tapajós (a partir do desmembramento do Pará) e o estado do Maranhão do Sul. Se aprovados, esses projetos podem alterar o mapa político do Brasil no futuro."
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "titulo": "Extensão e Pontos Extremos do Brasil",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre a extensão territorial e os pontos extremos do Brasil.",
+            "questoes": [
+              {
+                "pergunta": "O ponto mais ao norte do Brasil é a nascente do Rio Ailã, em Roraima.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. O ponto extremo norte do Brasil é a nascente do rio Ailã, no monte Caburaí, estado de Roraima, na fronteira com a Guiana. Contrariando o dito popular, o Brasil não começa no 'Oiapoque', mas sim no monte Caburaí."
+              },
+              {
+                "pergunta": "O ponto mais ao sul do Brasil é a Ponta do Seixas.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Falso. O ponto extremo sul do Brasil é o Arroio Chuí, na fronteira com o Uruguai, no estado do Rio Grande do Sul. A Ponta do Seixas, localizada em João Pessoa (PB), é o ponto extremo oriental (leste) do Brasil continental."
+              },
+              {
+                "pergunta": "Qual é o ponto mais ocidental do Brasil?",
+                "opcoes": [
+                  "Ponta do Seixas",
+                  "Arroio Chuí",
+                  "Nascente do Rio Moa, no Acre",
+                  "Nascente do Rio Ailã, em Roraima"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "O ponto extremo ocidental (oeste) do Brasil é a nascente do rio Moa, na serra da Contamana, estado do Acre, na fronteira com o Peru."
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "titulo": "Divisão Política Atual do Brasil",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre a atual divisão política e administrativa do Brasil.",
+            "questoes": [
+              {
+                "pergunta": "O Brasil possui 26 estados e 1 Distrito Federal.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. Atualmente, o Brasil é dividido em 26 estados e 1 Distrito Federal (Brasília), totalizando 27 unidades federativas."
+              },
+              {
+                "pergunta": "Atualmente, o Brasil é dividido em:",
+                "opcoes": [
+                  "27 estados e 1 Distrito Federal",
+                  "26 estados e 1 Distrito Federal",
+                  "25 estados e 2 territórios",
+                  "26 estados e 2 territórios"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O Brasil é dividido em 26 estados e 1 Distrito Federal. Os antigos territórios federais foram transformados em estados (Roraima e Amapá) ou reincorporados a estados existentes (Fernando de Noronha foi reincorporado a Pernambuco)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "disciplina": "Geografia",
+        "trimestre": "2º Trimestre B",
+        "bncc": [
+          {
+            "codigo": "EF05GE09",
+            "descricao": "Estabelecer conexões e hierarquias entre diferentes cidades, utilizando mapas temáticos e representações gráficas."
+          },
+          {
+            "codigo": "EF05GE10",
+            "descricao": "Reconhecer e comparar atributos da qualidade ambiental e algumas formas de poluição dos cursos de água e dos oceanos (esgotos, efluentes industriais, marés negras etc.)."
+          },
+          {
+            "codigo": "EF05GE11",
+            "descricao": "Identificar e descrever problemas ambientais que ocorrem no entorno da escola e da residência (lixões, indústrias poluentes, destruição do patrimônio histórico etc.), propondo soluções (inclusive tecnológicas) para esses problemas."
+          },
+          {
+            "codigo": "EF05GE04",
+            "descricao": "Reconhecer as características da cidade e analisar as interações entre a cidade e o campo e entre cidades na rede urbana."
+          },
+          {
+            "codigo": "EF05GE05",
+            "descricao": "Identificar e comparar as mudanças dos tipos de trabalho e desenvolvimento tecnológico na agropecuária, na indústria, no comércio e nos serviços."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Redes Urbanas",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre as conexões entre diferentes cidades.",
+            "questoes": [
+              {
+                "pergunta": "O que é uma metrópole?",
+                "opcoes": [
+                  "Qualquer cidade com mais de 100 mil habitantes",
+                  "Uma cidade grande e importante que exerce influência econômica, política e cultural sobre outras cidades",
+                  "A capital de um estado ou país",
+                  "Uma cidade com muitos edifícios altos"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Uma metrópole é uma cidade grande e importante que exerce influência econômica, política e cultural sobre outras cidades ao seu redor, formando uma região metropolitana. São Paulo, Rio de Janeiro e Belo Horizonte são exemplos de metrópoles brasileiras."
+              },
+              {
+                "pergunta": "O que caracteriza uma rede urbana?",
+                "opcoes": [
+                  "Apenas o conjunto de cidades de um estado",
+                  "O sistema de transporte entre cidades",
+                  "O conjunto de cidades e suas relações de interdependência e hierarquia",
+                  "Apenas as grandes cidades de um país"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Uma rede urbana é caracterizada pelo conjunto de cidades e suas relações de interdependência e hierarquia. Essas relações envolvem fluxos de pessoas, mercadorias, serviços, informações e capital entre as cidades."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Poluição das Águas",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre poluição dos cursos de água e oceanos.",
+            "questoes": [
+              {
+                "pergunta": "O que são efluentes industriais?",
+                "opcoes": [
+                  "Água da chuva que cai sobre as indústrias",
+                  "Resíduos líquidos gerados pelas indústrias que podem conter substâncias poluentes",
+                  "Água tratada utilizada nas indústrias",
+                  "Produtos fabricados pelas indústrias"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Efluentes industriais são os resíduos líquidos gerados durante os processos industriais. Esses resíduos podem conter substâncias químicas, metais pesados e outros poluentes que, se descartados incorretamente, causam sérios danos aos cursos d'água e à vida aquática."
+              },
+              {
+                "pergunta": "O que é uma maré negra?",
+                "opcoes": [
+                  "Um fenômeno natural de escurecimento das águas do mar",
+                  "Um tipo de maré que ocorre durante a noite",
+                  "Um derramamento de petróleo ou derivados no mar",
+                  "Um tipo de alga que escurece a água do mar"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Maré negra é o nome dado a um derramamento de petróleo ou seus derivados no mar. Esse tipo de acidente ambiental causa graves danos aos ecossistemas marinhos, afetando a fauna e a flora, além de prejudicar atividades econômicas como a pesca e o turismo."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Mapa de Problemas Ambientais",
+            "tipo": "interativo",
+            "descricao": "Identifique problemas ambientais em diferentes regiões.",
+            "instrucoes": "Observe o mapa e identifique os problemas ambientais representados pelos ícones.",
+            "problemas": [
+              {
+                "nome": "Desmatamento",
+                "região": "Amazônia",
+                "consequências": "Perda de biodiversidade, alterações climáticas, erosão do solo"
+              },
+              {
+                "nome": "Poluição industrial",
+                "região": "Grandes centros urbanos",
+                "consequências": "Contaminação do ar e da água, problemas respiratórios"
+              },
+              {
+                "nome": "Contaminação por agrotóxicos",
+                "região": "Áreas agrícolas",
+                "consequências": "Contaminação do solo e da água, riscos à saúde humana"
+              },
+              {
+                "nome": "Descarte inadequado de lixo",
+                "região": "Periferias urbanas",
+                "consequências": "Proliferação de doenças, contaminação do solo e da água"
+              }
+            ],
+            "dica": "Observe a relação entre as atividades humanas e os problemas ambientais em cada região."
+          },
+          {
+            "id": 4,
+            "titulo": "Soluções para Problemas Ambientais",
+            "tipo": "desafio",
+            "descricao": "Proponha soluções para problemas ambientais do cotidiano.",
+            "questoes": [
+              {
+                "pergunta": "Identifique um problema ambiental que ocorre no entorno da sua escola ou residência e proponha uma solução viável para ele.",
+                "resposta": "Exemplo: Problema - Descarte inadequado de lixo nas ruas. Solução - Organizar uma campanha de conscientização na comunidade, instalar mais lixeiras em pontos estratégicos, criar um sistema de coleta seletiva comunitária e promover oficinas de reciclagem e reaproveitamento de materiais.",
+                "dica": "Pense em problemas como lixo nas ruas, poluição do ar, contaminação de córregos, desmatamento de áreas verdes, etc. Sua solução deve ser realista e considerar aspectos educacionais, tecnológicos e de mobilização comunitária."
+              },
+              {
+                "pergunta": "Como a tecnologia pode ajudar a resolver problemas de poluição das águas?",
+                "opcoes": [
+                  "A tecnologia não pode ajudar em questões ambientais",
+                  "Apenas através de grandes usinas de tratamento de água",
+                  "Através de aplicativos de monitoramento, sensores de qualidade da água, sistemas de filtragem inovadores e métodos de biorremediação",
+                  "Apenas através da redução do uso de água"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "A tecnologia pode contribuir para resolver problemas de poluição das águas de diversas formas: aplicativos que permitem aos cidadãos denunciar pontos de poluição, sensores que monitoram a qualidade da água em tempo real, sistemas avançados de filtragem e tratamento, métodos de biorremediação que utilizam organismos para degradar poluentes, entre outros."
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "titulo": "Território e Fronteira",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre território e fronteiras.",
+            "questoes": [
+              {
+                "pergunta": "O território de um país é sempre delimitado apenas por elementos naturais, como rios e montanhas?",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Falso. Os territórios podem ser delimitados tanto por elementos naturais (rios, montanhas, florestas) quanto por elementos artificiais (muros, cercas, linhas imaginárias definidas por acordos)."
+              },
+              {
+                "pergunta": "Fronteiras podem ser invisíveis, pois muitas vezes são definidas por acordos entre países, e não por barreiras físicas.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. Muitas fronteiras são definidas por acordos diplomáticos e tratados entre países, sendo representadas apenas em mapas, sem barreiras físicas visíveis no terreno."
+              },
+              {
+                "pergunta": "Qual das opções abaixo é um exemplo de fronteira artificial?",
+                "opcoes": [
+                  "Rio Amazonas",
+                  "Cordilheira dos Andes",
+                  "Muro construído entre dois países",
+                  "Floresta Amazônica"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Um muro construído entre dois países é um exemplo de fronteira artificial, criada pelo ser humano. Já rios, cordilheiras e florestas são exemplos de fronteiras naturais."
+              },
+              {
+                "pergunta": "Sobre território e fronteira, assinale as afirmações corretas:",
+                "opcoes": [
+                  "O território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; todo território tem fronteiras visíveis e tocáveis",
+                  "O território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; o respeito às fronteiras é importante para evitar conflitos",
+                  "O território é uma área controlada por um grupo ou país; todo território tem fronteiras visíveis e tocáveis; o respeito às fronteiras é importante para evitar conflitos",
+                  "Fronteiras podem ser naturais ou artificiais; todo território tem fronteiras visíveis e tocáveis; o respeito às fronteiras é importante para evitar conflitos"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "As afirmações corretas são: o território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; o respeito às fronteiras é importante para evitar conflitos. A afirmação de que todo território tem fronteiras visíveis e tocáveis é falsa, pois muitas fronteiras são invisíveis, definidas apenas por acordos."
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "titulo": "Brasil no Mundo",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre a localização e características do Brasil no contexto mundial.",
+            "questoes": [
+              {
+                "pergunta": "O Brasil é o maior país do mundo em extensão territorial?",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Falso. O Brasil é o quinto maior país do mundo em extensão territorial, atrás da Rússia, Canadá, Estados Unidos e China."
+              },
+              {
+                "pergunta": "O Brasil faz fronteira com quase todos os países da América do Sul, exceto Chile e Equador.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. O Brasil faz fronteira com 10 países da América do Sul: Argentina, Bolívia, Colômbia, Guiana, Guiana Francesa, Paraguai, Peru, Suriname, Uruguai e Venezuela. Não faz fronteira apenas com Chile e Equador."
+              },
+              {
+                "pergunta": "O Brasil está localizado principalmente em qual hemisfério?",
+                "opcoes": [
+                  "Hemisfério Norte",
+                  "Hemisfério Sul",
+                  "Hemisfério Leste",
+                  "Hemisfério Oeste"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O Brasil está localizado principalmente no Hemisfério Sul, embora uma pequena parte do território (extremo norte) esteja no Hemisfério Norte. O país também está totalmente no Hemisfério Oeste."
+              },
+              {
+                "pergunta": "Sobre a localização do Brasil, marque as opções corretas:",
+                "opcoes": [
+                  "O Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil não possui nenhum arquipélago",
+                  "O Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil tem mais de 15 mil km de fronteiras terrestres",
+                  "O Brasil está na América do Sul; o Brasil não possui nenhum arquipélago; o Brasil tem mais de 15 mil km de fronteiras terrestres",
+                  "O Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil não possui nenhum arquipélago; o Brasil tem mais de 15 mil km de fronteiras terrestres"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "As afirmações corretas são: o Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil tem mais de 15 mil km de fronteiras terrestres. A afirmação de que o Brasil não possui nenhum arquipélago é falsa, pois o país possui arquipélagos como Fernando de Noronha e Abrolhos."
+              },
+              {
+                "pergunta": "O Brasil possui uma grande extensão territorial, o que resulta em grande diversidade de climas, vegetação e relevo.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. A grande extensão territorial do Brasil (8,5 milhões de km²) contribui para a diversidade de climas, vegetações e relevos encontrados no país, desde florestas tropicais até regiões semiáridas, de planícies a planaltos e serras."
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "titulo": "Formação do Território Brasileiro",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre a formação histórica do território brasileiro.",
+            "questoes": [
+              {
+                "pergunta": "O Tratado de Tordesilhas dividiu as terras do novo continente entre Portugal e Espanha.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. O Tratado de Tordesilhas, assinado em 1494, estabeleceu uma linha imaginária a 370 léguas a oeste das ilhas de Cabo Verde, dividindo as terras 'descobertas e por descobrir' entre Portugal (leste) e Espanha (oeste)."
+              },
+              {
+                "pergunta": "As capitanias hereditárias foram criadas para facilitar a administração do território português na América.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. As capitanias hereditárias foram criadas em 1534 pela Coroa Portuguesa como forma de administrar e colonizar o território brasileiro, dividindo-o em faixas de terra que foram doadas a pessoas de confiança do rei (donatários)."
+              },
+              {
+                "pergunta": "O que eram as capitanias hereditárias?",
+                "opcoes": [
+                  "Pequenas cidades criadas pelos espanhóis",
+                  "Porções de terras concedidas a pessoas importantes pela Coroa Portuguesa",
+                  "Fortalezas construídas no litoral",
+                  "Rios que serviam como fronteiras"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "As capitanias hereditárias eram porções de terras concedidas a pessoas importantes (donatários) pela Coroa Portuguesa. Esses donatários tinham o direito de explorar e administrar essas terras, que eram transmitidas por herança, daí o nome 'hereditárias'."
+              },
+              {
+                "pergunta": "O sistema de capitanias hereditárias foi implantado em 1534 para facilitar o controle e a administração do território.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. O sistema de capitanias hereditárias foi implantado em 1534 como uma estratégia da Coroa Portuguesa para ocupar, defender e administrar o vasto território brasileiro sem grandes custos para Portugal, transferindo essa responsabilidade para os donatários."
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "titulo": "Mudanças nas Fronteiras e Estados Brasileiros",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre as mudanças nas fronteiras e divisões administrativas do Brasil ao longo da história.",
+            "questoes": [
+              {
+                "pergunta": "As fronteiras do Brasil nunca mudaram desde o início da colonização.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Falso. As fronteiras do Brasil mudaram significativamente desde o início da colonização. O território brasileiro foi expandido muito além dos limites estabelecidos pelo Tratado de Tordesilhas, através de entradas e bandeiras, acordos diplomáticos e anexações."
+              },
+              {
+                "pergunta": "O território brasileiro já foi dividido em Estado do Grão-Pará e Estado do Brasil.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. Durante parte do período colonial, o território que hoje corresponde ao Brasil foi dividido administrativamente em Estado do Grão-Pará e Maranhão (norte) e Estado do Brasil (centro-sul), que eram administrados separadamente por Portugal."
+              },
+              {
+                "pergunta": "O que aconteceu ao território brasileiro no século XVIII?",
+                "opcoes": [
+                  "Foi dividido em municípios",
+                  "Passou a ser ocupado por entradas e bandeiras, mudando as fronteiras",
+                  "Tornou-se uma monarquia",
+                  "Foi dividido em regiões metropolitanas"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "No século XVIII, o território brasileiro foi expandido significativamente através das entradas e bandeiras, expedições que adentraram o interior do continente em busca de riquezas e indígenas para escravização, ultrapassando os limites estabelecidos pelo Tratado de Tordesilhas e ampliando as fronteiras da colônia portuguesa."
+              },
+              {
+                "pergunta": "Sobre as mudanças do território brasileiro, assinale as afirmações corretas:",
+                "opcoes": [
+                  "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; o Acre foi anexado ao Brasil por acordos",
+                  "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso",
+                  "O território foi ampliado por entradas e bandeiras; o Acre foi anexado ao Brasil por acordos; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso",
+                  "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; o Acre foi anexado ao Brasil por acordos; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso"
+                ],
+                "resposta_correta": 3,
+                "explicacao": "Todas as afirmações são corretas: o território brasileiro foi ampliado pelas entradas e bandeiras; durante o Império (1822-1889), o Brasil foi dividido em províncias; o Acre foi anexado ao Brasil em 1903 através do Tratado de Petrópolis com a Bolívia; e Mato Grosso do Sul foi criado em 1977 a partir do desmembramento do estado de Mato Grosso."
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "titulo": "Organização Política do Brasil",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre a organização política e administrativa do Brasil.",
+            "questoes": [
+              {
+                "pergunta": "O Brasil se tornou uma República Federativa em 1889.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. Em 15 de novembro de 1889, ocorreu a Proclamação da República, quando o Brasil deixou de ser uma monarquia e se tornou uma República Federativa, com um sistema de governo presidencialista."
+              },
+              {
+                "pergunta": "O Distrito Federal sempre foi Brasília.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Falso. Antes de Brasília, inaugurada em 1960, o Distrito Federal estava localizado na cidade do Rio de Janeiro, que foi a capital do Brasil de 1763 até 1960."
+              },
+              {
+                "pergunta": "Após a Proclamação da República, como o território brasileiro passou a ser organizado?",
+                "opcoes": [
+                  "Em províncias",
+                  "Em estados e Distrito Federal",
+                  "Em capitanias hereditárias",
+                  "Em regiões metropolitanas"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Após a Proclamação da República em 1889, o território brasileiro passou a ser organizado em estados (antigas províncias do Império) e Distrito Federal, formando uma federação. Essa organização político-administrativa permanece até hoje, com algumas modificações."
+              },
+              {
+                "pergunta": "Existem projetos de criação de novos estados no Brasil, o que significa que o mapa do Brasil pode mudar no futuro.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. Existem diversos projetos de criação de novos estados e territórios no Brasil, como o estado do Tapajós (a partir do desmembramento do Pará) e o estado do Maranhão do Sul. Se aprovados, esses projetos podem alterar o mapa político do Brasil no futuro."
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "titulo": "Extensão e Pontos Extremos do Brasil",
+            "tipo": "quiz",
+            "descricao": "Responda às questões sobre a extensão territorial e os pontos extremos do Brasil.",
+            "questoes": [
+              {
+                "pergunta": "O ponto mais ao norte do Brasil é a nascente do Rio Ailã, em Roraima.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. O ponto extremo norte do Brasil é a nascente do rio Ailã, no monte Caburaí, estado de Roraima, na fronteira com a Guiana. Contrariando o dito popular, o Brasil não começa no 'Oiapoque', mas sim no monte Caburaí."
+              },
+              {
+                "pergunta": "O ponto mais ao sul do Brasil é a Ponta do Seixas.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Falso. O ponto extremo sul do Brasil é o Arroio Chuí, na fronteira com o Uruguai, no estado do Rio Grande do Sul. A Ponta do Seixas, localizada em João Pessoa (PB), é o ponto extremo oriental (leste) do Brasil continental."
+              },
+              {
+                "pergunta": "Qual é o ponto mais ocidental do Brasil?",
+                "opcoes": [
+                  "Ponta do Seixas",
+                  "Arroio Chuí",
+                  "Nascente do Rio Moa, no Acre",
+                  "Nascente do Rio Ailã, em Roraima"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "O ponto extremo ocidental (oeste) do Brasil é a nascente do rio Moa, na serra da Contamana, estado do Acre, na fronteira com o Peru."
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "titulo": "Divisão Política Atual do Brasil",
+            "tipo": "quiz",
+            "descricao": "Teste seus conhecimentos sobre a atual divisão política e administrativa do Brasil.",
+            "questoes": [
+              {
+                "pergunta": "O Brasil possui 26 estados e 1 Distrito Federal.",
+                "opcoes": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Verdadeiro. Atualmente, o Brasil é dividido em 26 estados e 1 Distrito Federal (Brasília), totalizando 27 unidades federativas."
+              },
+              {
+                "pergunta": "Atualmente, o Brasil é dividido em:",
+                "opcoes": [
+                  "27 estados e 1 Distrito Federal",
+                  "26 estados e 1 Distrito Federal",
+                  "25 estados e 2 territórios",
+                  "26 estados e 2 territórios"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O Brasil é dividido em 26 estados e 1 Distrito Federal. Os antigos territórios federais foram transformados em estados (Roraima e Amapá) ou reincorporados a estados existentes (Fernando de Noronha foi reincorporado a Pernambuco)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Portugues": [
+      {
+        "disciplina": "Português",
+        "trimestre": "2º Trimestre B",
+        "bncc": [
+          {
+            "codigo": "EF05LP25",
+            "descricao": "Planejar e produzir, com certa autonomia, verbetes de dicionário, digitais ou impressos, considerando a situação comunicativa e o tema/assunto/finalidade do texto."
+          },
+          {
+            "codigo": "EF05LP27",
+            "descricao": "Utilizar, ao produzir o texto, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível adequado de informatividade."
+          },
+          {
+            "codigo": "EF05LP22",
+            "descricao": "Ler e compreender verbetes de dicionário, identificando a estrutura, as informações gramaticais (significado de abreviaturas) e as informações semânticas."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "Gêneros Textuais: Verbetes de Dicionário",
+            "tipo": "quiz",
+            "descricao": "Aprenda sobre a estrutura e características dos verbetes de dicionário.",
+            "questoes": [
+              {
+                "pergunta": "O que é um verbete de dicionário?",
+                "opcoes": [
+                  "Um pequeno texto narrativo",
+                  "Um texto que apresenta a definição de uma palavra, com suas informações gramaticais e semânticas",
+                  "Um poema curto com rimas",
+                  "Um texto argumentativo sobre um tema específico"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "Um verbete de dicionário é um texto que apresenta a definição de uma palavra, incluindo suas informações gramaticais (classe gramatical, gênero, número) e semânticas (significados)."
+              },
+              {
+                "pergunta": "Qual das seguintes informações NÃO costuma aparecer em um verbete de dicionário?",
+                "opcoes": [
+                  "A classe gramatical da palavra",
+                  "Os diferentes significados da palavra",
+                  "A opinião pessoal do autor do dicionário sobre a palavra",
+                  "A pronúncia da palavra"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Os verbetes de dicionário são textos objetivos que apresentam informações factuais sobre as palavras, não incluindo opiniões pessoais do autor do dicionário."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Coesão Textual",
+            "tipo": "quiz",
+            "descricao": "Estude os recursos de coesão pronominal e articuladores de relações de sentido.",
+            "questoes": [
+              {
+                "pergunta": "Na frase 'Maria comprou um livro e ela o leu rapidamente', quais são os pronomes anafóricos?",
+                "opcoes": [
+                  "Maria e livro",
+                  "comprou e leu",
+                  "ela e o",
+                  "um e rapidamente"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "Os pronomes anafóricos são aqueles que retomam termos já mencionados no texto. Na frase, 'ela' retoma 'Maria' e 'o' retoma 'livro'."
+              },
+              {
+                "pergunta": "Qual articulador de relação de sentido expressa causa na frase: 'Não fui à escola porque estava doente'?",
+                "opcoes": [
+                  "Não",
+                  "à",
+                  "porque",
+                  "estava"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "O articulador 'porque' estabelece uma relação de causa entre as orações, indicando o motivo pelo qual a pessoa não foi à escola."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "Criação de Verbetes",
+            "tipo": "interativo",
+            "descricao": "Crie verbetes de dicionário para palavras do seu cotidiano.",
+            "instrucoes": "Escolha uma palavra e crie um verbete de dicionário completo para ela, incluindo classe gramatical, significados e exemplos de uso.",
+            "exemplos": [
+              {
+                "palavra": "Escola",
+                "verbete": "es.co.la sf. 1. Instituição destinada ao ensino coletivo. 2. Prédio onde funciona essa instituição. 3. Conjunto de alunos, professores e funcionários de um estabelecimento de ensino. 4. Doutrina ou sistema de um mestre. 5. Conjunto de artistas que seguem a mesma tendência."
+              },
+              {
+                "palavra": "Amizade",
+                "verbete": "a.mi.za.de sf. 1. Sentimento de afeição por outra pessoa. 2. Relação entre amigos. Ex.: Uma amizade verdadeira dura para sempre."
+              }
+            ],
+            "dica": "Lembre-se de incluir a separação silábica, a classe gramatical (sf = substantivo feminino, sm = substantivo masculino, etc.), os diferentes significados numerados e exemplos de uso quando possível."
+          },
+          {
+            "id": 4,
+            "titulo": "Produção de Texto com Coesão",
+            "tipo": "desafio",
+            "descricao": "Escreva um texto utilizando recursos de coesão pronominal e articuladores de relações de sentido.",
+            "questoes": [
+              {
+                "pergunta": "Escreva um pequeno texto narrativo sobre um passeio escolar, utilizando pelo menos três pronomes anafóricos e três articuladores de relações de sentido diferentes (tempo, causa, oposição, conclusão ou comparação).",
+                "resposta": "Exemplo: No último sábado, os alunos do 5º ano foram ao zoológico. Eles estavam muito animados, pois nunca tinham visitado aquele lugar antes. Quando chegaram, a professora dividiu a turma em grupos. Maria, Pedro e João formaram um grupo, e eles decidiram visitar primeiro os felinos. Embora quisessem ver os leões, os tigres chamaram mais atenção do grupo. Depois de observarem vários animais, os estudantes estavam cansados. Portanto, decidiram fazer um piquenique à sombra de uma árvore.",
+                "dica": "Use pronomes como 'ele', 'ela', 'eles', 'elas', 'este', 'esse', 'aquele' para retomar termos já mencionados. Use articuladores como 'quando', 'porque', 'mas', 'portanto', 'como' para estabelecer relações entre as partes do texto."
+              },
+              {
+                "pergunta": "Reescreva o seguinte texto, substituindo as palavras repetidas por pronomes adequados: 'João comprou um livro. João gostou muito do livro. João leu o livro em apenas dois dias. O livro era sobre aventuras.'",
+                "resposta": "João comprou um livro. Ele gostou muito dele. João o leu em apenas dois dias. Este era sobre aventuras.",
+                "dica": "Substitua os nomes repetidos por pronomes pessoais (ele, ela) ou demonstrativos (este, esse, aquele)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Ingles": [
+      {
+        "disciplina": "Inglês",
+        "trimestre": "2º Trimestre B",
+        "bncc": [
+          {
+            "codigo": "EF05LI09",
+            "descricao": "Conhecer a(s) história(s) da língua inglesa no mundo."
+          },
+          {
+            "codigo": "EF05LI12",
+            "descricao": "Produzir textos orais e escritos sobre si mesmo, sua família, seus amigos, gostos, preferências e rotinas, sua comunidade e seu contexto escolar."
+          },
+          {
+            "codigo": "EF05LI15",
+            "descricao": "Investigar o alcance da língua inglesa no mundo: como língua materna e/ou oficial."
+          }
+        ],
+        "atividades": [
+          {
+            "id": 1,
+            "titulo": "English Around the World",
+            "tipo": "quiz",
+            "descricao": "Learn about the English language and its presence around the world.",
+            "questoes": [
+              {
+                "pergunta": "In how many countries is English the official or one of the official languages?",
+                "opcoes": [
+                  "Only in England",
+                  "In about 10 countries",
+                  "In more than 50 countries",
+                  "In all countries of the world"
+                ],
+                "resposta_correta": 2,
+                "explicacao": "O inglês é língua oficial ou uma das línguas oficiais em mais de 50 países ao redor do mundo, incluindo Reino Unido, Estados Unidos, Canadá, Austrália, Nova Zelândia, África do Sul, Índia, entre outros."
+              },
+              {
+                "pergunta": "Why is English considered a global language?",
+                "opcoes": [
+                  "Because it's the easiest language to learn",
+                  "Because it's used for international communication in areas like business, science, technology, and entertainment",
+                  "Because everyone in the world speaks English",
+                  "Because it's the oldest language in the world"
+                ],
+                "resposta_correta": 1,
+                "explicacao": "O inglês é considerado uma língua global porque é amplamente utilizado para comunicação internacional em áreas como negócios, ciência, tecnologia, aviação, diplomacia e entretenimento, mesmo entre pessoas que não têm o inglês como língua materna."
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "titulo": "Talking About Yourself",
+            "tipo": "quiz",
+            "descricao": "Practice writing and speaking about yourself, your family, and your preferences.",
+            "questoes": [
+              {
+                "pergunta": "Complete the text with appropriate information: 'My name is _____. I am _____ years old. I live in _____.'",
+                "opcoes": [
+                  "name / age / city",
+                  "boy / student / Brazil",
+                  "student / school / teacher",
+                  "friend / happy / sad"
+                ],
+                "resposta_correta": 0,
+                "explicacao": "Para completar a apresentação pessoal, precisamos usar: nome (name), idade (age) e cidade onde mora (city). Exemplo: 'My name is Maria. I am 10 years old. I live in São Paulo.'"
+              },
+              {
+                "pergunta": "Which sentence correctly describes a preference?",
+                "opcoes": [
+                  "I have a sister.",
+                  "I go to school by bus.",
+                  "I like to play soccer.",
+                  "I am a student."
+                ],
+                "resposta_correta": 2,
+                "explicacao": "A frase 'I like to play soccer' (Eu gosto de jogar futebol) expressa uma preferência pessoal usando o verbo 'like' (gostar). As outras frases descrevem fatos ou situações, mas não preferências."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "titulo": "English-Speaking Countries",
+            "tipo": "interativo",
+            "descricao": "Explore countries where English is spoken around the world.",
+            "instrucoes": "Match each country with its flag and one interesting fact about English in that country.",
+            "paises": [
+              {
+                "nome": "United Kingdom",
+                "fato": "Birthplace of the English language"
+              },
+              {
+                "nome": "United States",
+                "fato": "Has many different regional accents and dialects"
+              },
+              {
+                "nome": "Australia",
+                "fato": "Has unique English words like 'g'day' and 'barbie'"
+              },
+              {
+                "nome": "Canada",
+                "fato": "English and French are both official languages"
+              },
+              {
+                "nome": "India",
+                "fato": "Has the second-largest English-speaking population in the world"
+              },
+              {
+                "nome": "South Africa",
+                "fato": "Has 11 official languages, including English"
+              }
+            ],
+            "dica": "Look at the map to see where each country is located and think about what makes English unique in each place."
+          },
+          {
+            "id": 4,
+            "titulo": "My Daily Routine",
+            "tipo": "desafio",
+            "descricao": "Write about your daily routine in English.",
+            "questoes": [
+              {
+                "pergunta": "Write 5 sentences describing your daily routine using the present simple tense. Include activities you do in the morning, afternoon, and evening.",
+                "resposta": "Example: I wake up at 6:30 in the morning. I have breakfast with my family. I go to school by bus. I do my homework in the afternoon. I watch TV before going to bed.",
+                "dica": "Use verbs in the present simple tense (wake up, have, go, do, watch) and time expressions (in the morning, in the afternoon, at night)."
+              },
+              {
+                "pergunta": "Create a short dialogue between two friends talking about their favorite activities. Use at least 6 lines of dialogue.",
+                "resposta": "Example:\nAna: Hi João! What do you like to do on weekends?\nJoão: Hi Ana! I like to play video games and watch movies. What about you?\nAna: I prefer to read books and ride my bike in the park.\nJoão: That sounds fun! Do you want to go to the park this Saturday?\nAna: Yes, I'd love to! What time?\nJoão: How about 3 o'clock in the afternoon?",
+                "dica": "Include greetings, questions about preferences, and responses. Use expressions like 'I like to...', 'I prefer to...', 'What about you?'"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

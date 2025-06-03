@@ -1,0 +1,123 @@
+{
+  "disciplina": "Ciências",
+  "trimestre": "2º Trimestre B",
+  "bncc": [
+    {
+      "codigo": "EF05CI07",
+      "descricao": "Descrever e representar o Sistema Solar e os movimentos de translação e rotação da Terra e da Lua, e reconhecer suas consequências."
+    },
+    {
+      "codigo": "EF05CI08",
+      "descricao": "Organizar um cardápio equilibrado com base nas características dos grupos alimentares (nutrientes e calorias) e nas necessidades individuais (atividades realizadas, idade, sexo etc.) para a manutenção da saúde do organismo."
+    },
+    {
+      "codigo": "EF05CI09",
+      "descricao": "Discutir a ocorrência de distúrbios nutricionais (como obesidade, subnutrição etc.) entre crianças e jovens a partir da análise de seus hábitos (tipos e quantidade de alimento ingerido, prática de atividade física etc.)."
+    }
+  ],
+  "atividades": [
+    {
+      "id": 1,
+      "titulo": "Sistema Solar e Movimentos da Terra",
+      "tipo": "quiz",
+      "descricao": "Teste seus conhecimentos sobre o Sistema Solar e os movimentos da Terra e da Lua.",
+      "questoes": [
+        {
+          "pergunta": "Qual é o movimento da Terra responsável pela sucessão dos dias e das noites?",
+          "opcoes": [
+            "Translação",
+            "Rotação",
+            "Precessão",
+            "Nutação"
+          ],
+          "resposta_correta": 1,
+          "explicacao": "O movimento de rotação da Terra é o responsável pela sucessão dos dias e das noites. Nesse movimento, a Terra gira em torno do seu próprio eixo, completando uma volta a cada 24 horas aproximadamente."
+        },
+        {
+          "pergunta": "Qual é o movimento da Terra responsável pela ocorrência das estações do ano?",
+          "opcoes": [
+            "Translação",
+            "Rotação",
+            "Precessão",
+            "Nutação"
+          ],
+          "resposta_correta": 0,
+          "explicacao": "O movimento de translação da Terra é o responsável pela ocorrência das estações do ano. Nesse movimento, a Terra gira em torno do Sol, completando uma volta a cada 365 dias e 6 horas aproximadamente. A inclinação do eixo da Terra em relação ao plano da órbita, combinada com esse movimento, causa as estações do ano."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Alimentação Saudável",
+      "tipo": "quiz",
+      "descricao": "Responda às questões sobre alimentação equilibrada e nutrição.",
+      "questoes": [
+        {
+          "pergunta": "Quais são os principais grupos de alimentos que devem estar presentes em uma alimentação equilibrada?",
+          "opcoes": [
+            "Apenas frutas e verduras",
+            "Apenas carnes e laticínios",
+            "Carboidratos, proteínas, gorduras, vitaminas e minerais",
+            "Apenas alimentos industrializados"
+          ],
+          "resposta_correta": 2,
+          "explicacao": "Uma alimentação equilibrada deve conter todos os grupos de nutrientes: carboidratos (pães, arroz, massas), proteínas (carnes, ovos, leguminosas), gorduras (óleos, castanhas), além de vitaminas e minerais (frutas, verduras e legumes)."
+        },
+        {
+          "pergunta": "Por que as necessidades nutricionais variam de acordo com a idade, sexo e nível de atividade física?",
+          "opcoes": [
+            "Não variam, todas as pessoas precisam da mesma quantidade de nutrientes",
+            "Porque cada pessoa tem gostos alimentares diferentes",
+            "Porque o organismo tem diferentes necessidades energéticas e de nutrientes dependendo dessas características",
+            "Apenas por questões culturais"
+          ],
+          "resposta_correta": 2,
+          "explicacao": "As necessidades nutricionais variam porque o organismo tem diferentes demandas energéticas e de nutrientes dependendo da idade (crianças em crescimento precisam de mais nutrientes proporcionalmente), sexo (homens e mulheres têm composições corporais diferentes) e nível de atividade física (quem pratica mais exercícios gasta mais energia)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Simulação do Sistema Solar",
+      "tipo": "interativo",
+      "descricao": "Explore o Sistema Solar e os movimentos dos planetas.",
+      "instrucoes": "Use os controles para simular os movimentos de rotação e translação dos planetas do Sistema Solar.",
+      "elementos": [
+        {"nome": "Sol", "tipo": "estrela", "posição": "centro"},
+        {"nome": "Mercúrio", "tipo": "planeta", "posição": 1},
+        {"nome": "Vênus", "tipo": "planeta", "posição": 2},
+        {"nome": "Terra", "tipo": "planeta", "posição": 3},
+        {"nome": "Marte", "tipo": "planeta", "posição": 4},
+        {"nome": "Júpiter", "tipo": "planeta", "posição": 5},
+        {"nome": "Saturno", "tipo": "planeta", "posição": 6},
+        {"nome": "Urano", "tipo": "planeta", "posição": 7},
+        {"nome": "Netuno", "tipo": "planeta", "posição": 8}
+      ],
+      "dica": "Observe como a velocidade de translação diminui à medida que os planetas se afastam do Sol."
+    },
+    {
+      "id": 4,
+      "titulo": "Cardápio Saudável",
+      "tipo": "desafio",
+      "descricao": "Crie um cardápio equilibrado para um dia.",
+      "questoes": [
+        {
+          "pergunta": "Elabore um cardápio equilibrado para um dia inteiro (café da manhã, almoço, lanche e jantar) para uma criança de 10 anos. Inclua alimentos de todos os grupos nutricionais.",
+          "resposta": "Café da manhã: Pão integral com queijo, uma fruta e um copo de leite.\nLanche da manhã: Iogurte com granola.\nAlmoço: Arroz, feijão, filé de frango grelhado, salada de alface e tomate, e legumes cozidos.\nLanche da tarde: Frutas picadas e um punhado de castanhas.\nJantar: Sopa de legumes com macarrão integral e carne, e uma salada verde.",
+          "dica": "Lembre-se de incluir carboidratos (pães, arroz, massas), proteínas (carnes, ovos, leguminosas), gorduras saudáveis (azeite, castanhas), vitaminas e minerais (frutas, verduras e legumes)."
+        },
+        {
+          "pergunta": "Identifique dois distúrbios nutricionais comuns entre crianças e adolescentes e explique suas possíveis causas e consequências.",
+          "opcoes": [
+            "Obesidade e subnutrição",
+            "Gripe e resfriado",
+            "Asma e bronquite",
+            "Miopia e astigmatismo"
+          ],
+          "resposta_correta": 0,
+          "explicacao": "Obesidade: Causada pelo consumo excessivo de alimentos calóricos (especialmente ultraprocessados), sedentarismo e fatores genéticos. Consequências: problemas cardiovasculares, diabetes tipo 2, problemas articulares e baixa autoestima. Subnutrição: Causada pela ingestão insuficiente de nutrientes, seja por falta de acesso a alimentos ou por dietas restritivas. Consequências: comprometimento do crescimento e desenvolvimento, baixa imunidade e problemas cognitivos."
+        }
+      ]
+    }
+  ]
+}

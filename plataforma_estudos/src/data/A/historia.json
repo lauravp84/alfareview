@@ -1,0 +1,148 @@
+[
+  {
+    "disciplina": "História",
+    "trimestre": "2º Trimestre A",
+    "bncc": [
+      {
+        "codigo": "EF05HI01",
+        "descricao": "Identificar os processos de formação das culturas e dos povos, relacionando-os com o espaço geográfico ocupado."
+      },
+      {
+        "codigo": "EF05HI03",
+        "descricao": "Analisar o papel das culturas e das religiões na composição identitária dos povos antigos."
+      },
+      {
+        "codigo": "EF05HI04",
+        "descricao": "Associar a noção de cidadania com os princípios de respeito à diversidade, à pluralidade e aos direitos humanos."
+      }
+    ],
+    "atividades": [
+      {
+        "id": 1,
+        "titulo": "Povos Indígenas do Brasil",
+        "tipo": "quiz",
+        "descricao": "Teste seus conhecimentos sobre os povos indígenas brasileiros.",
+        "questoes": [
+          {
+            "pergunta": "Qual das seguintes características NÃO está relacionada aos povos indígenas brasileiros antes da chegada dos portugueses?",
+            "opcoes": [
+              "Viviam da caça, pesca e agricultura",
+              "Possuíam diferentes línguas e costumes",
+              "Utilizavam a escrita para registrar sua história",
+              "Tinham forte relação com a natureza"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "Os povos indígenas brasileiros, antes da chegada dos portugueses, não utilizavam a escrita como a conhecemos hoje. Eles transmitiam seus conhecimentos, histórias e tradições oralmente, de geração para geração, além de utilizarem pinturas rupestres e corporais como formas de expressão."
+          },
+          {
+            "pergunta": "Qual o nome do sistema agrícola tradicional indígena que consiste em derrubar e queimar pequenas áreas da floresta para o plantio?",
+            "opcoes": [
+              "Monocultura",
+              "Coivara",
+              "Plantation",
+              "Jardinagem"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "O sistema de coivara é uma técnica agrícola tradicional indígena que consiste em derrubar e queimar pequenas áreas da floresta para o plantio. Após alguns anos de cultivo, a área é abandonada para recuperação do solo e uma nova área é preparada."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "Brasil Colonial",
+        "tipo": "quiz",
+        "descricao": "Responda às questões sobre o período colonial brasileiro.",
+        "questoes": [
+          {
+            "pergunta": "Qual foi o primeiro produto de grande exploração econômica no Brasil colonial?",
+            "opcoes": [
+              "Café",
+              "Cana-de-açúcar",
+              "Ouro",
+              "Pau-brasil"
+            ],
+            "resposta_correta": 3,
+            "explicacao": "O pau-brasil foi o primeiro produto de grande exploração econômica no Brasil colonial. A madeira era muito valorizada na Europa por fornecer um corante vermelho usado na indústria têxtil. Sua extração intensa levou à quase extinção da espécie."
+          },
+          {
+            "pergunta": "Qual sistema de trabalho foi predominante nas grandes fazendas de cana-de-açúcar durante o período colonial?",
+            "opcoes": [
+              "Trabalho assalariado",
+              "Servidão",
+              "Escravidão",
+              "Parceria agrícola"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "A escravidão foi o sistema de trabalho predominante nas grandes fazendas de cana-de-açúcar durante o período colonial brasileiro. Inicialmente, tentou-se escravizar os indígenas, mas posteriormente os portugueses passaram a trazer africanos escravizados para trabalhar nas plantações."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Linha do Tempo Histórica",
+        "tipo": "interativo",
+        "descricao": "Organize os eventos históricos na linha do tempo correta.",
+        "instrucoes": "Arraste cada evento para sua posição correta na linha do tempo.",
+        "eventos": [
+          {
+            "texto": "Chegada dos portugueses ao Brasil",
+            "ano": 1500
+          },
+          {
+            "texto": "Início da exploração do pau-brasil",
+            "ano": 1501
+          },
+          {
+            "texto": "Início da colonização efetiva com as capitanias hereditárias",
+            "ano": 1534
+          },
+          {
+            "texto": "Estabelecimento do Governo-Geral",
+            "ano": 1549
+          },
+          {
+            "texto": "Início do ciclo da cana-de-açúcar",
+            "ano": 1550
+          },
+          {
+            "texto": "Invasões holandesas no Nordeste",
+            "ano": 1630
+          },
+          {
+            "texto": "Descoberta de ouro em Minas Gerais",
+            "ano": 1693
+          },
+          {
+            "texto": "Chegada da Família Real portuguesa ao Brasil",
+            "ano": 1808
+          }
+        ],
+        "dica": "Observe a sequência cronológica dos ciclos econômicos: pau-brasil, cana-de-açúcar, ouro."
+      },
+      {
+        "id": 4,
+        "titulo": "Resistência à Escravidão",
+        "tipo": "desafio",
+        "descricao": "Aprenda sobre as formas de resistência dos escravizados no Brasil colonial.",
+        "questoes": [
+          {
+            "pergunta": "O que eram os quilombos no contexto da escravidão no Brasil?",
+            "opcoes": [
+              "Locais onde os escravizados trabalhavam nas minas de ouro",
+              "Comunidades formadas por escravizados fugitivos",
+              "Mercados onde se comercializavam escravizados",
+              "Navios que transportavam escravizados da África para o Brasil"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Os quilombos eram comunidades formadas por escravizados fugitivos que buscavam viver em liberdade. O mais famoso foi o Quilombo dos Palmares, liderado por Zumbi, que resistiu por quase um século no atual estado de Alagoas."
+          },
+          {
+            "pergunta": "Além da formação de quilombos, quais outras formas de resistência eram praticadas pelos escravizados?",
+            "resposta": "Os escravizados resistiam de diversas formas: trabalho lento ou mal feito de propósito, quebra de ferramentas, fugas individuais, suicídio, preservação de suas culturas e religiões africanas, revoltas e rebeliões organizadas.",
+            "dica": "Pense em formas cotidianas de resistência e também em ações mais diretas contra o sistema escravista."
+          }
+        ]
+      }
+    ]
+  }
+]

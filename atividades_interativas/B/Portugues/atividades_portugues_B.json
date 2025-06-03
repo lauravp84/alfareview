@@ -1,0 +1,116 @@
+{
+  "disciplina": "Português",
+  "trimestre": "2º Trimestre B",
+  "bncc": [
+    {
+      "codigo": "EF05LP25",
+      "descricao": "Planejar e produzir, com certa autonomia, verbetes de dicionário, digitais ou impressos, considerando a situação comunicativa e o tema/assunto/finalidade do texto."
+    },
+    {
+      "codigo": "EF05LP27",
+      "descricao": "Utilizar, ao produzir o texto, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível adequado de informatividade."
+    },
+    {
+      "codigo": "EF05LP22",
+      "descricao": "Ler e compreender verbetes de dicionário, identificando a estrutura, as informações gramaticais (significado de abreviaturas) e as informações semânticas."
+    }
+  ],
+  "atividades": [
+    {
+      "id": 1,
+      "titulo": "Gêneros Textuais: Verbetes de Dicionário",
+      "tipo": "quiz",
+      "descricao": "Aprenda sobre a estrutura e características dos verbetes de dicionário.",
+      "questoes": [
+        {
+          "pergunta": "O que é um verbete de dicionário?",
+          "opcoes": [
+            "Um pequeno texto narrativo",
+            "Um texto que apresenta a definição de uma palavra, com suas informações gramaticais e semânticas",
+            "Um poema curto com rimas",
+            "Um texto argumentativo sobre um tema específico"
+          ],
+          "resposta_correta": 1,
+          "explicacao": "Um verbete de dicionário é um texto que apresenta a definição de uma palavra, incluindo suas informações gramaticais (classe gramatical, gênero, número) e semânticas (significados)."
+        },
+        {
+          "pergunta": "Qual das seguintes informações NÃO costuma aparecer em um verbete de dicionário?",
+          "opcoes": [
+            "A classe gramatical da palavra",
+            "Os diferentes significados da palavra",
+            "A opinião pessoal do autor do dicionário sobre a palavra",
+            "A pronúncia da palavra"
+          ],
+          "resposta_correta": 2,
+          "explicacao": "Os verbetes de dicionário são textos objetivos que apresentam informações factuais sobre as palavras, não incluindo opiniões pessoais do autor do dicionário."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Coesão Textual",
+      "tipo": "quiz",
+      "descricao": "Estude os recursos de coesão pronominal e articuladores de relações de sentido.",
+      "questoes": [
+        {
+          "pergunta": "Na frase 'Maria comprou um livro e ela o leu rapidamente', quais são os pronomes anafóricos?",
+          "opcoes": [
+            "Maria e livro",
+            "comprou e leu",
+            "ela e o",
+            "um e rapidamente"
+          ],
+          "resposta_correta": 2,
+          "explicacao": "Os pronomes anafóricos são aqueles que retomam termos já mencionados no texto. Na frase, 'ela' retoma 'Maria' e 'o' retoma 'livro'."
+        },
+        {
+          "pergunta": "Qual articulador de relação de sentido expressa causa na frase: 'Não fui à escola porque estava doente'?",
+          "opcoes": [
+            "Não",
+            "à",
+            "porque",
+            "estava"
+          ],
+          "resposta_correta": 2,
+          "explicacao": "O articulador 'porque' estabelece uma relação de causa entre as orações, indicando o motivo pelo qual a pessoa não foi à escola."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Criação de Verbetes",
+      "tipo": "interativo",
+      "descricao": "Crie verbetes de dicionário para palavras do seu cotidiano.",
+      "instrucoes": "Escolha uma palavra e crie um verbete de dicionário completo para ela, incluindo classe gramatical, significados e exemplos de uso.",
+      "exemplos": [
+        {
+          "palavra": "Escola",
+          "verbete": "es.co.la sf. 1. Instituição destinada ao ensino coletivo. 2. Prédio onde funciona essa instituição. 3. Conjunto de alunos, professores e funcionários de um estabelecimento de ensino. 4. Doutrina ou sistema de um mestre. 5. Conjunto de artistas que seguem a mesma tendência."
+        },
+        {
+          "palavra": "Amizade",
+          "verbete": "a.mi.za.de sf. 1. Sentimento de afeição por outra pessoa. 2. Relação entre amigos. Ex.: Uma amizade verdadeira dura para sempre."
+        }
+      ],
+      "dica": "Lembre-se de incluir a separação silábica, a classe gramatical (sf = substantivo feminino, sm = substantivo masculino, etc.), os diferentes significados numerados e exemplos de uso quando possível."
+    },
+    {
+      "id": 4,
+      "titulo": "Produção de Texto com Coesão",
+      "tipo": "desafio",
+      "descricao": "Escreva um texto utilizando recursos de coesão pronominal e articuladores de relações de sentido.",
+      "questoes": [
+        {
+          "pergunta": "Escreva um pequeno texto narrativo sobre um passeio escolar, utilizando pelo menos três pronomes anafóricos e três articuladores de relações de sentido diferentes (tempo, causa, oposição, conclusão ou comparação).",
+          "resposta": "Exemplo: No último sábado, os alunos do 5º ano foram ao zoológico. Eles estavam muito animados, pois nunca tinham visitado aquele lugar antes. Quando chegaram, a professora dividiu a turma em grupos. Maria, Pedro e João formaram um grupo, e eles decidiram visitar primeiro os felinos. Embora quisessem ver os leões, os tigres chamaram mais atenção do grupo. Depois de observarem vários animais, os estudantes estavam cansados. Portanto, decidiram fazer um piquenique à sombra de uma árvore.",
+          "dica": "Use pronomes como 'ele', 'ela', 'eles', 'elas', 'este', 'esse', 'aquele' para retomar termos já mencionados. Use articuladores como 'quando', 'porque', 'mas', 'portanto', 'como' para estabelecer relações entre as partes do texto."
+        },
+        {
+          "pergunta": "Reescreva o seguinte texto, substituindo as palavras repetidas por pronomes adequados: 'João comprou um livro. João gostou muito do livro. João leu o livro em apenas dois dias. O livro era sobre aventuras.'",
+          "resposta": "João comprou um livro. Ele gostou muito dele. João o leu em apenas dois dias. Este era sobre aventuras.",
+          "dica": "Substitua os nomes repetidos por pronomes pessoais (ele, ela) ou demonstrativos (este, esse, aquele)."
+        }
+      ]
+    }
+  ]
+}

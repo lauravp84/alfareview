@@ -1,0 +1,906 @@
+[
+  {
+    "disciplina": "Geografia",
+    "trimestre": "2º Trimestre B",
+    "bncc": [
+      {
+        "codigo": "EF05GE09",
+        "descricao": "Estabelecer conexões e hierarquias entre diferentes cidades, utilizando mapas temáticos e representações gráficas."
+      },
+      {
+        "codigo": "EF05GE10",
+        "descricao": "Reconhecer e comparar atributos da qualidade ambiental e algumas formas de poluição dos cursos de água e dos oceanos (esgotos, efluentes industriais, marés negras etc.)."
+      },
+      {
+        "codigo": "EF05GE11",
+        "descricao": "Identificar e descrever problemas ambientais que ocorrem no entorno da escola e da residência (lixões, indústrias poluentes, destruição do patrimônio histórico etc.), propondo soluções (inclusive tecnológicas) para esses problemas."
+      },
+      {
+        "codigo": "EF05GE04",
+        "descricao": "Reconhecer as características da cidade e analisar as interações entre a cidade e o campo e entre cidades na rede urbana."
+      },
+      {
+        "codigo": "EF05GE05",
+        "descricao": "Identificar e comparar as mudanças dos tipos de trabalho e desenvolvimento tecnológico na agropecuária, na indústria, no comércio e nos serviços."
+      }
+    ],
+    "atividades": [
+      {
+        "id": 1,
+        "titulo": "Redes Urbanas",
+        "tipo": "quiz",
+        "descricao": "Teste seus conhecimentos sobre as conexões entre diferentes cidades.",
+        "questoes": [
+          {
+            "pergunta": "O que é uma metrópole?",
+            "opcoes": [
+              "Qualquer cidade com mais de 100 mil habitantes",
+              "Uma cidade grande e importante que exerce influência econômica, política e cultural sobre outras cidades",
+              "A capital de um estado ou país",
+              "Uma cidade com muitos edifícios altos"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Uma metrópole é uma cidade grande e importante que exerce influência econômica, política e cultural sobre outras cidades ao seu redor, formando uma região metropolitana. São Paulo, Rio de Janeiro e Belo Horizonte são exemplos de metrópoles brasileiras."
+          },
+          {
+            "pergunta": "O que caracteriza uma rede urbana?",
+            "opcoes": [
+              "Apenas o conjunto de cidades de um estado",
+              "O sistema de transporte entre cidades",
+              "O conjunto de cidades e suas relações de interdependência e hierarquia",
+              "Apenas as grandes cidades de um país"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "Uma rede urbana é caracterizada pelo conjunto de cidades e suas relações de interdependência e hierarquia. Essas relações envolvem fluxos de pessoas, mercadorias, serviços, informações e capital entre as cidades."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "Poluição das Águas",
+        "tipo": "quiz",
+        "descricao": "Responda às questões sobre poluição dos cursos de água e oceanos.",
+        "questoes": [
+          {
+            "pergunta": "O que são efluentes industriais?",
+            "opcoes": [
+              "Água da chuva que cai sobre as indústrias",
+              "Resíduos líquidos gerados pelas indústrias que podem conter substâncias poluentes",
+              "Água tratada utilizada nas indústrias",
+              "Produtos fabricados pelas indústrias"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Efluentes industriais são os resíduos líquidos gerados durante os processos industriais. Esses resíduos podem conter substâncias químicas, metais pesados e outros poluentes que, se descartados incorretamente, causam sérios danos aos cursos d'água e à vida aquática."
+          },
+          {
+            "pergunta": "O que é uma maré negra?",
+            "opcoes": [
+              "Um fenômeno natural de escurecimento das águas do mar",
+              "Um tipo de maré que ocorre durante a noite",
+              "Um derramamento de petróleo ou derivados no mar",
+              "Um tipo de alga que escurece a água do mar"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "Maré negra é o nome dado a um derramamento de petróleo ou seus derivados no mar. Esse tipo de acidente ambiental causa graves danos aos ecossistemas marinhos, afetando a fauna e a flora, além de prejudicar atividades econômicas como a pesca e o turismo."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Mapa de Problemas Ambientais",
+        "tipo": "interativo",
+        "descricao": "Identifique problemas ambientais em diferentes regiões.",
+        "instrucoes": "Observe o mapa e identifique os problemas ambientais representados pelos ícones.",
+        "problemas": [
+          {
+            "nome": "Desmatamento",
+            "região": "Amazônia",
+            "consequências": "Perda de biodiversidade, alterações climáticas, erosão do solo"
+          },
+          {
+            "nome": "Poluição industrial",
+            "região": "Grandes centros urbanos",
+            "consequências": "Contaminação do ar e da água, problemas respiratórios"
+          },
+          {
+            "nome": "Contaminação por agrotóxicos",
+            "região": "Áreas agrícolas",
+            "consequências": "Contaminação do solo e da água, riscos à saúde humana"
+          },
+          {
+            "nome": "Descarte inadequado de lixo",
+            "região": "Periferias urbanas",
+            "consequências": "Proliferação de doenças, contaminação do solo e da água"
+          }
+        ],
+        "dica": "Observe a relação entre as atividades humanas e os problemas ambientais em cada região."
+      },
+      {
+        "id": 4,
+        "titulo": "Soluções para Problemas Ambientais",
+        "tipo": "desafio",
+        "descricao": "Proponha soluções para problemas ambientais do cotidiano.",
+        "questoes": [
+          {
+            "pergunta": "Identifique um problema ambiental que ocorre no entorno da sua escola ou residência e proponha uma solução viável para ele.",
+            "resposta": "Exemplo: Problema - Descarte inadequado de lixo nas ruas. Solução - Organizar uma campanha de conscientização na comunidade, instalar mais lixeiras em pontos estratégicos, criar um sistema de coleta seletiva comunitária e promover oficinas de reciclagem e reaproveitamento de materiais.",
+            "dica": "Pense em problemas como lixo nas ruas, poluição do ar, contaminação de córregos, desmatamento de áreas verdes, etc. Sua solução deve ser realista e considerar aspectos educacionais, tecnológicos e de mobilização comunitária."
+          },
+          {
+            "pergunta": "Como a tecnologia pode ajudar a resolver problemas de poluição das águas?",
+            "opcoes": [
+              "A tecnologia não pode ajudar em questões ambientais",
+              "Apenas através de grandes usinas de tratamento de água",
+              "Através de aplicativos de monitoramento, sensores de qualidade da água, sistemas de filtragem inovadores e métodos de biorremediação",
+              "Apenas através da redução do uso de água"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "A tecnologia pode contribuir para resolver problemas de poluição das águas de diversas formas: aplicativos que permitem aos cidadãos denunciar pontos de poluição, sensores que monitoram a qualidade da água em tempo real, sistemas avançados de filtragem e tratamento, métodos de biorremediação que utilizam organismos para degradar poluentes, entre outros."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "titulo": "Território e Fronteira",
+        "tipo": "quiz",
+        "descricao": "Teste seus conhecimentos sobre território e fronteiras.",
+        "questoes": [
+          {
+            "pergunta": "O território de um país é sempre delimitado apenas por elementos naturais, como rios e montanhas?",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Falso. Os territórios podem ser delimitados tanto por elementos naturais (rios, montanhas, florestas) quanto por elementos artificiais (muros, cercas, linhas imaginárias definidas por acordos)."
+          },
+          {
+            "pergunta": "Fronteiras podem ser invisíveis, pois muitas vezes são definidas por acordos entre países, e não por barreiras físicas.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. Muitas fronteiras são definidas por acordos diplomáticos e tratados entre países, sendo representadas apenas em mapas, sem barreiras físicas visíveis no terreno."
+          },
+          {
+            "pergunta": "Qual das opções abaixo é um exemplo de fronteira artificial?",
+            "opcoes": [
+              "Rio Amazonas",
+              "Cordilheira dos Andes",
+              "Muro construído entre dois países",
+              "Floresta Amazônica"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "Um muro construído entre dois países é um exemplo de fronteira artificial, criada pelo ser humano. Já rios, cordilheiras e florestas são exemplos de fronteiras naturais."
+          },
+          {
+            "pergunta": "Sobre território e fronteira, assinale as afirmações corretas:",
+            "opcoes": [
+              "O território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; todo território tem fronteiras visíveis e tocáveis",
+              "O território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; o respeito às fronteiras é importante para evitar conflitos",
+              "O território é uma área controlada por um grupo ou país; todo território tem fronteiras visíveis e tocáveis; o respeito às fronteiras é importante para evitar conflitos",
+              "Fronteiras podem ser naturais ou artificiais; todo território tem fronteiras visíveis e tocáveis; o respeito às fronteiras é importante para evitar conflitos"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "As afirmações corretas são: o território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; o respeito às fronteiras é importante para evitar conflitos. A afirmação de que todo território tem fronteiras visíveis e tocáveis é falsa, pois muitas fronteiras são invisíveis, definidas apenas por acordos."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "titulo": "Brasil no Mundo",
+        "tipo": "quiz",
+        "descricao": "Responda às questões sobre a localização e características do Brasil no contexto mundial.",
+        "questoes": [
+          {
+            "pergunta": "O Brasil é o maior país do mundo em extensão territorial?",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Falso. O Brasil é o quinto maior país do mundo em extensão territorial, atrás da Rússia, Canadá, Estados Unidos e China."
+          },
+          {
+            "pergunta": "O Brasil faz fronteira com quase todos os países da América do Sul, exceto Chile e Equador.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. O Brasil faz fronteira com 10 países da América do Sul: Argentina, Bolívia, Colômbia, Guiana, Guiana Francesa, Paraguai, Peru, Suriname, Uruguai e Venezuela. Não faz fronteira apenas com Chile e Equador."
+          },
+          {
+            "pergunta": "O Brasil está localizado principalmente em qual hemisfério?",
+            "opcoes": [
+              "Hemisfério Norte",
+              "Hemisfério Sul",
+              "Hemisfério Leste",
+              "Hemisfério Oeste"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "O Brasil está localizado principalmente no Hemisfério Sul, embora uma pequena parte do território (extremo norte) esteja no Hemisfério Norte. O país também está totalmente no Hemisfério Oeste."
+          },
+          {
+            "pergunta": "Sobre a localização do Brasil, marque as opções corretas:",
+            "opcoes": [
+              "O Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil não possui nenhum arquipélago",
+              "O Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil tem mais de 15 mil km de fronteiras terrestres",
+              "O Brasil está na América do Sul; o Brasil não possui nenhum arquipélago; o Brasil tem mais de 15 mil km de fronteiras terrestres",
+              "O Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil não possui nenhum arquipélago; o Brasil tem mais de 15 mil km de fronteiras terrestres"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "As afirmações corretas são: o Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil tem mais de 15 mil km de fronteiras terrestres. A afirmação de que o Brasil não possui nenhum arquipélago é falsa, pois o país possui arquipélagos como Fernando de Noronha e Abrolhos."
+          },
+          {
+            "pergunta": "O Brasil possui uma grande extensão territorial, o que resulta em grande diversidade de climas, vegetação e relevo.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. A grande extensão territorial do Brasil (8,5 milhões de km²) contribui para a diversidade de climas, vegetações e relevos encontrados no país, desde florestas tropicais até regiões semiáridas, de planícies a planaltos e serras."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "titulo": "Formação do Território Brasileiro",
+        "tipo": "quiz",
+        "descricao": "Teste seus conhecimentos sobre a formação histórica do território brasileiro.",
+        "questoes": [
+          {
+            "pergunta": "O Tratado de Tordesilhas dividiu as terras do novo continente entre Portugal e Espanha.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. O Tratado de Tordesilhas, assinado em 1494, estabeleceu uma linha imaginária a 370 léguas a oeste das ilhas de Cabo Verde, dividindo as terras 'descobertas e por descobrir' entre Portugal (leste) e Espanha (oeste)."
+          },
+          {
+            "pergunta": "As capitanias hereditárias foram criadas para facilitar a administração do território português na América.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. As capitanias hereditárias foram criadas em 1534 pela Coroa Portuguesa como forma de administrar e colonizar o território brasileiro, dividindo-o em faixas de terra que foram doadas a pessoas de confiança do rei (donatários)."
+          },
+          {
+            "pergunta": "O que eram as capitanias hereditárias?",
+            "opcoes": [
+              "Pequenas cidades criadas pelos espanhóis",
+              "Porções de terras concedidas a pessoas importantes pela Coroa Portuguesa",
+              "Fortalezas construídas no litoral",
+              "Rios que serviam como fronteiras"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "As capitanias hereditárias eram porções de terras concedidas a pessoas importantes (donatários) pela Coroa Portuguesa. Esses donatários tinham o direito de explorar e administrar essas terras, que eram transmitidas por herança, daí o nome 'hereditárias'."
+          },
+          {
+            "pergunta": "O sistema de capitanias hereditárias foi implantado em 1534 para facilitar o controle e a administração do território.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. O sistema de capitanias hereditárias foi implantado em 1534 como uma estratégia da Coroa Portuguesa para ocupar, defender e administrar o vasto território brasileiro sem grandes custos para Portugal, transferindo essa responsabilidade para os donatários."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "titulo": "Mudanças nas Fronteiras e Estados Brasileiros",
+        "tipo": "quiz",
+        "descricao": "Responda às questões sobre as mudanças nas fronteiras e divisões administrativas do Brasil ao longo da história.",
+        "questoes": [
+          {
+            "pergunta": "As fronteiras do Brasil nunca mudaram desde o início da colonização.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Falso. As fronteiras do Brasil mudaram significativamente desde o início da colonização. O território brasileiro foi expandido muito além dos limites estabelecidos pelo Tratado de Tordesilhas, através de entradas e bandeiras, acordos diplomáticos e anexações."
+          },
+          {
+            "pergunta": "O território brasileiro já foi dividido em Estado do Grão-Pará e Estado do Brasil.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. Durante parte do período colonial, o território que hoje corresponde ao Brasil foi dividido administrativamente em Estado do Grão-Pará e Maranhão (norte) e Estado do Brasil (centro-sul), que eram administrados separadamente por Portugal."
+          },
+          {
+            "pergunta": "O que aconteceu ao território brasileiro no século XVIII?",
+            "opcoes": [
+              "Foi dividido em municípios",
+              "Passou a ser ocupado por entradas e bandeiras, mudando as fronteiras",
+              "Tornou-se uma monarquia",
+              "Foi dividido em regiões metropolitanas"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "No século XVIII, o território brasileiro foi expandido significativamente através das entradas e bandeiras, expedições que adentraram o interior do continente em busca de riquezas e indígenas para escravização, ultrapassando os limites estabelecidos pelo Tratado de Tordesilhas e ampliando as fronteiras da colônia portuguesa."
+          },
+          {
+            "pergunta": "Sobre as mudanças do território brasileiro, assinale as afirmações corretas:",
+            "opcoes": [
+              "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; o Acre foi anexado ao Brasil por acordos",
+              "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso",
+              "O território foi ampliado por entradas e bandeiras; o Acre foi anexado ao Brasil por acordos; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso",
+              "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; o Acre foi anexado ao Brasil por acordos; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso"
+            ],
+            "resposta_correta": 3,
+            "explicacao": "Todas as afirmações são corretas: o território brasileiro foi ampliado pelas entradas e bandeiras; durante o Império (1822-1889), o Brasil foi dividido em províncias; o Acre foi anexado ao Brasil em 1903 através do Tratado de Petrópolis com a Bolívia; e Mato Grosso do Sul foi criado em 1977 a partir do desmembramento do estado de Mato Grosso."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "titulo": "Organização Política do Brasil",
+        "tipo": "quiz",
+        "descricao": "Teste seus conhecimentos sobre a organização política e administrativa do Brasil.",
+        "questoes": [
+          {
+            "pergunta": "O Brasil se tornou uma República Federativa em 1889.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. Em 15 de novembro de 1889, ocorreu a Proclamação da República, quando o Brasil deixou de ser uma monarquia e se tornou uma República Federativa, com um sistema de governo presidencialista."
+          },
+          {
+            "pergunta": "O Distrito Federal sempre foi Brasília.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Falso. Antes de Brasília, inaugurada em 1960, o Distrito Federal estava localizado na cidade do Rio de Janeiro, que foi a capital do Brasil de 1763 até 1960."
+          },
+          {
+            "pergunta": "Após a Proclamação da República, como o território brasileiro passou a ser organizado?",
+            "opcoes": [
+              "Em províncias",
+              "Em estados e Distrito Federal",
+              "Em capitanias hereditárias",
+              "Em regiões metropolitanas"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Após a Proclamação da República em 1889, o território brasileiro passou a ser organizado em estados (antigas províncias do Império) e Distrito Federal, formando uma federação. Essa organização político-administrativa permanece até hoje, com algumas modificações."
+          },
+          {
+            "pergunta": "Existem projetos de criação de novos estados no Brasil, o que significa que o mapa do Brasil pode mudar no futuro.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. Existem diversos projetos de criação de novos estados e territórios no Brasil, como o estado do Tapajós (a partir do desmembramento do Pará) e o estado do Maranhão do Sul. Se aprovados, esses projetos podem alterar o mapa político do Brasil no futuro."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "titulo": "Extensão e Pontos Extremos do Brasil",
+        "tipo": "quiz",
+        "descricao": "Responda às questões sobre a extensão territorial e os pontos extremos do Brasil.",
+        "questoes": [
+          {
+            "pergunta": "O ponto mais ao norte do Brasil é a nascente do Rio Ailã, em Roraima.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. O ponto extremo norte do Brasil é a nascente do rio Ailã, no monte Caburaí, estado de Roraima, na fronteira com a Guiana. Contrariando o dito popular, o Brasil não começa no 'Oiapoque', mas sim no monte Caburaí."
+          },
+          {
+            "pergunta": "O ponto mais ao sul do Brasil é a Ponta do Seixas.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Falso. O ponto extremo sul do Brasil é o Arroio Chuí, na fronteira com o Uruguai, no estado do Rio Grande do Sul. A Ponta do Seixas, localizada em João Pessoa (PB), é o ponto extremo oriental (leste) do Brasil continental."
+          },
+          {
+            "pergunta": "Qual é o ponto mais ocidental do Brasil?",
+            "opcoes": [
+              "Ponta do Seixas",
+              "Arroio Chuí",
+              "Nascente do Rio Moa, no Acre",
+              "Nascente do Rio Ailã, em Roraima"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "O ponto extremo ocidental (oeste) do Brasil é a nascente do rio Moa, na serra da Contamana, estado do Acre, na fronteira com o Peru."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "titulo": "Divisão Política Atual do Brasil",
+        "tipo": "quiz",
+        "descricao": "Teste seus conhecimentos sobre a atual divisão política e administrativa do Brasil.",
+        "questoes": [
+          {
+            "pergunta": "O Brasil possui 26 estados e 1 Distrito Federal.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. Atualmente, o Brasil é dividido em 26 estados e 1 Distrito Federal (Brasília), totalizando 27 unidades federativas."
+          },
+          {
+            "pergunta": "Atualmente, o Brasil é dividido em:",
+            "opcoes": [
+              "27 estados e 1 Distrito Federal",
+              "26 estados e 1 Distrito Federal",
+              "25 estados e 2 territórios",
+              "26 estados e 2 territórios"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "O Brasil é dividido em 26 estados e 1 Distrito Federal. Os antigos territórios federais foram transformados em estados (Roraima e Amapá) ou reincorporados a estados existentes (Fernando de Noronha foi reincorporado a Pernambuco)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "disciplina": "Geografia",
+    "trimestre": "2º Trimestre B",
+    "bncc": [
+      {
+        "codigo": "EF05GE09",
+        "descricao": "Estabelecer conexões e hierarquias entre diferentes cidades, utilizando mapas temáticos e representações gráficas."
+      },
+      {
+        "codigo": "EF05GE10",
+        "descricao": "Reconhecer e comparar atributos da qualidade ambiental e algumas formas de poluição dos cursos de água e dos oceanos (esgotos, efluentes industriais, marés negras etc.)."
+      },
+      {
+        "codigo": "EF05GE11",
+        "descricao": "Identificar e descrever problemas ambientais que ocorrem no entorno da escola e da residência (lixões, indústrias poluentes, destruição do patrimônio histórico etc.), propondo soluções (inclusive tecnológicas) para esses problemas."
+      },
+      {
+        "codigo": "EF05GE04",
+        "descricao": "Reconhecer as características da cidade e analisar as interações entre a cidade e o campo e entre cidades na rede urbana."
+      },
+      {
+        "codigo": "EF05GE05",
+        "descricao": "Identificar e comparar as mudanças dos tipos de trabalho e desenvolvimento tecnológico na agropecuária, na indústria, no comércio e nos serviços."
+      }
+    ],
+    "atividades": [
+      {
+        "id": 1,
+        "titulo": "Redes Urbanas",
+        "tipo": "quiz",
+        "descricao": "Teste seus conhecimentos sobre as conexões entre diferentes cidades.",
+        "questoes": [
+          {
+            "pergunta": "O que é uma metrópole?",
+            "opcoes": [
+              "Qualquer cidade com mais de 100 mil habitantes",
+              "Uma cidade grande e importante que exerce influência econômica, política e cultural sobre outras cidades",
+              "A capital de um estado ou país",
+              "Uma cidade com muitos edifícios altos"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Uma metrópole é uma cidade grande e importante que exerce influência econômica, política e cultural sobre outras cidades ao seu redor, formando uma região metropolitana. São Paulo, Rio de Janeiro e Belo Horizonte são exemplos de metrópoles brasileiras."
+          },
+          {
+            "pergunta": "O que caracteriza uma rede urbana?",
+            "opcoes": [
+              "Apenas o conjunto de cidades de um estado",
+              "O sistema de transporte entre cidades",
+              "O conjunto de cidades e suas relações de interdependência e hierarquia",
+              "Apenas as grandes cidades de um país"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "Uma rede urbana é caracterizada pelo conjunto de cidades e suas relações de interdependência e hierarquia. Essas relações envolvem fluxos de pessoas, mercadorias, serviços, informações e capital entre as cidades."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "Poluição das Águas",
+        "tipo": "quiz",
+        "descricao": "Responda às questões sobre poluição dos cursos de água e oceanos.",
+        "questoes": [
+          {
+            "pergunta": "O que são efluentes industriais?",
+            "opcoes": [
+              "Água da chuva que cai sobre as indústrias",
+              "Resíduos líquidos gerados pelas indústrias que podem conter substâncias poluentes",
+              "Água tratada utilizada nas indústrias",
+              "Produtos fabricados pelas indústrias"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Efluentes industriais são os resíduos líquidos gerados durante os processos industriais. Esses resíduos podem conter substâncias químicas, metais pesados e outros poluentes que, se descartados incorretamente, causam sérios danos aos cursos d'água e à vida aquática."
+          },
+          {
+            "pergunta": "O que é uma maré negra?",
+            "opcoes": [
+              "Um fenômeno natural de escurecimento das águas do mar",
+              "Um tipo de maré que ocorre durante a noite",
+              "Um derramamento de petróleo ou derivados no mar",
+              "Um tipo de alga que escurece a água do mar"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "Maré negra é o nome dado a um derramamento de petróleo ou seus derivados no mar. Esse tipo de acidente ambiental causa graves danos aos ecossistemas marinhos, afetando a fauna e a flora, além de prejudicar atividades econômicas como a pesca e o turismo."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Mapa de Problemas Ambientais",
+        "tipo": "interativo",
+        "descricao": "Identifique problemas ambientais em diferentes regiões.",
+        "instrucoes": "Observe o mapa e identifique os problemas ambientais representados pelos ícones.",
+        "problemas": [
+          {
+            "nome": "Desmatamento",
+            "região": "Amazônia",
+            "consequências": "Perda de biodiversidade, alterações climáticas, erosão do solo"
+          },
+          {
+            "nome": "Poluição industrial",
+            "região": "Grandes centros urbanos",
+            "consequências": "Contaminação do ar e da água, problemas respiratórios"
+          },
+          {
+            "nome": "Contaminação por agrotóxicos",
+            "região": "Áreas agrícolas",
+            "consequências": "Contaminação do solo e da água, riscos à saúde humana"
+          },
+          {
+            "nome": "Descarte inadequado de lixo",
+            "região": "Periferias urbanas",
+            "consequências": "Proliferação de doenças, contaminação do solo e da água"
+          }
+        ],
+        "dica": "Observe a relação entre as atividades humanas e os problemas ambientais em cada região."
+      },
+      {
+        "id": 4,
+        "titulo": "Soluções para Problemas Ambientais",
+        "tipo": "desafio",
+        "descricao": "Proponha soluções para problemas ambientais do cotidiano.",
+        "questoes": [
+          {
+            "pergunta": "Identifique um problema ambiental que ocorre no entorno da sua escola ou residência e proponha uma solução viável para ele.",
+            "resposta": "Exemplo: Problema - Descarte inadequado de lixo nas ruas. Solução - Organizar uma campanha de conscientização na comunidade, instalar mais lixeiras em pontos estratégicos, criar um sistema de coleta seletiva comunitária e promover oficinas de reciclagem e reaproveitamento de materiais.",
+            "dica": "Pense em problemas como lixo nas ruas, poluição do ar, contaminação de córregos, desmatamento de áreas verdes, etc. Sua solução deve ser realista e considerar aspectos educacionais, tecnológicos e de mobilização comunitária."
+          },
+          {
+            "pergunta": "Como a tecnologia pode ajudar a resolver problemas de poluição das águas?",
+            "opcoes": [
+              "A tecnologia não pode ajudar em questões ambientais",
+              "Apenas através de grandes usinas de tratamento de água",
+              "Através de aplicativos de monitoramento, sensores de qualidade da água, sistemas de filtragem inovadores e métodos de biorremediação",
+              "Apenas através da redução do uso de água"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "A tecnologia pode contribuir para resolver problemas de poluição das águas de diversas formas: aplicativos que permitem aos cidadãos denunciar pontos de poluição, sensores que monitoram a qualidade da água em tempo real, sistemas avançados de filtragem e tratamento, métodos de biorremediação que utilizam organismos para degradar poluentes, entre outros."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "titulo": "Território e Fronteira",
+        "tipo": "quiz",
+        "descricao": "Teste seus conhecimentos sobre território e fronteiras.",
+        "questoes": [
+          {
+            "pergunta": "O território de um país é sempre delimitado apenas por elementos naturais, como rios e montanhas?",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Falso. Os territórios podem ser delimitados tanto por elementos naturais (rios, montanhas, florestas) quanto por elementos artificiais (muros, cercas, linhas imaginárias definidas por acordos)."
+          },
+          {
+            "pergunta": "Fronteiras podem ser invisíveis, pois muitas vezes são definidas por acordos entre países, e não por barreiras físicas.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. Muitas fronteiras são definidas por acordos diplomáticos e tratados entre países, sendo representadas apenas em mapas, sem barreiras físicas visíveis no terreno."
+          },
+          {
+            "pergunta": "Qual das opções abaixo é um exemplo de fronteira artificial?",
+            "opcoes": [
+              "Rio Amazonas",
+              "Cordilheira dos Andes",
+              "Muro construído entre dois países",
+              "Floresta Amazônica"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "Um muro construído entre dois países é um exemplo de fronteira artificial, criada pelo ser humano. Já rios, cordilheiras e florestas são exemplos de fronteiras naturais."
+          },
+          {
+            "pergunta": "Sobre território e fronteira, assinale as afirmações corretas:",
+            "opcoes": [
+              "O território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; todo território tem fronteiras visíveis e tocáveis",
+              "O território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; o respeito às fronteiras é importante para evitar conflitos",
+              "O território é uma área controlada por um grupo ou país; todo território tem fronteiras visíveis e tocáveis; o respeito às fronteiras é importante para evitar conflitos",
+              "Fronteiras podem ser naturais ou artificiais; todo território tem fronteiras visíveis e tocáveis; o respeito às fronteiras é importante para evitar conflitos"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "As afirmações corretas são: o território é uma área controlada por um grupo ou país; fronteiras podem ser naturais ou artificiais; o respeito às fronteiras é importante para evitar conflitos. A afirmação de que todo território tem fronteiras visíveis e tocáveis é falsa, pois muitas fronteiras são invisíveis, definidas apenas por acordos."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "titulo": "Brasil no Mundo",
+        "tipo": "quiz",
+        "descricao": "Responda às questões sobre a localização e características do Brasil no contexto mundial.",
+        "questoes": [
+          {
+            "pergunta": "O Brasil é o maior país do mundo em extensão territorial?",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Falso. O Brasil é o quinto maior país do mundo em extensão territorial, atrás da Rússia, Canadá, Estados Unidos e China."
+          },
+          {
+            "pergunta": "O Brasil faz fronteira com quase todos os países da América do Sul, exceto Chile e Equador.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. O Brasil faz fronteira com 10 países da América do Sul: Argentina, Bolívia, Colômbia, Guiana, Guiana Francesa, Paraguai, Peru, Suriname, Uruguai e Venezuela. Não faz fronteira apenas com Chile e Equador."
+          },
+          {
+            "pergunta": "O Brasil está localizado principalmente em qual hemisfério?",
+            "opcoes": [
+              "Hemisfério Norte",
+              "Hemisfério Sul",
+              "Hemisfério Leste",
+              "Hemisfério Oeste"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "O Brasil está localizado principalmente no Hemisfério Sul, embora uma pequena parte do território (extremo norte) esteja no Hemisfério Norte. O país também está totalmente no Hemisfério Oeste."
+          },
+          {
+            "pergunta": "Sobre a localização do Brasil, marque as opções corretas:",
+            "opcoes": [
+              "O Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil não possui nenhum arquipélago",
+              "O Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil tem mais de 15 mil km de fronteiras terrestres",
+              "O Brasil está na América do Sul; o Brasil não possui nenhum arquipélago; o Brasil tem mais de 15 mil km de fronteiras terrestres",
+              "O Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil não possui nenhum arquipélago; o Brasil tem mais de 15 mil km de fronteiras terrestres"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "As afirmações corretas são: o Brasil está na América do Sul; o Brasil possui fronteira marítima com o Oceano Atlântico; o Brasil tem mais de 15 mil km de fronteiras terrestres. A afirmação de que o Brasil não possui nenhum arquipélago é falsa, pois o país possui arquipélagos como Fernando de Noronha e Abrolhos."
+          },
+          {
+            "pergunta": "O Brasil possui uma grande extensão territorial, o que resulta em grande diversidade de climas, vegetação e relevo.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. A grande extensão territorial do Brasil (8,5 milhões de km²) contribui para a diversidade de climas, vegetações e relevos encontrados no país, desde florestas tropicais até regiões semiáridas, de planícies a planaltos e serras."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "titulo": "Formação do Território Brasileiro",
+        "tipo": "quiz",
+        "descricao": "Teste seus conhecimentos sobre a formação histórica do território brasileiro.",
+        "questoes": [
+          {
+            "pergunta": "O Tratado de Tordesilhas dividiu as terras do novo continente entre Portugal e Espanha.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. O Tratado de Tordesilhas, assinado em 1494, estabeleceu uma linha imaginária a 370 léguas a oeste das ilhas de Cabo Verde, dividindo as terras 'descobertas e por descobrir' entre Portugal (leste) e Espanha (oeste)."
+          },
+          {
+            "pergunta": "As capitanias hereditárias foram criadas para facilitar a administração do território português na América.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. As capitanias hereditárias foram criadas em 1534 pela Coroa Portuguesa como forma de administrar e colonizar o território brasileiro, dividindo-o em faixas de terra que foram doadas a pessoas de confiança do rei (donatários)."
+          },
+          {
+            "pergunta": "O que eram as capitanias hereditárias?",
+            "opcoes": [
+              "Pequenas cidades criadas pelos espanhóis",
+              "Porções de terras concedidas a pessoas importantes pela Coroa Portuguesa",
+              "Fortalezas construídas no litoral",
+              "Rios que serviam como fronteiras"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "As capitanias hereditárias eram porções de terras concedidas a pessoas importantes (donatários) pela Coroa Portuguesa. Esses donatários tinham o direito de explorar e administrar essas terras, que eram transmitidas por herança, daí o nome 'hereditárias'."
+          },
+          {
+            "pergunta": "O sistema de capitanias hereditárias foi implantado em 1534 para facilitar o controle e a administração do território.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. O sistema de capitanias hereditárias foi implantado em 1534 como uma estratégia da Coroa Portuguesa para ocupar, defender e administrar o vasto território brasileiro sem grandes custos para Portugal, transferindo essa responsabilidade para os donatários."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "titulo": "Mudanças nas Fronteiras e Estados Brasileiros",
+        "tipo": "quiz",
+        "descricao": "Responda às questões sobre as mudanças nas fronteiras e divisões administrativas do Brasil ao longo da história.",
+        "questoes": [
+          {
+            "pergunta": "As fronteiras do Brasil nunca mudaram desde o início da colonização.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Falso. As fronteiras do Brasil mudaram significativamente desde o início da colonização. O território brasileiro foi expandido muito além dos limites estabelecidos pelo Tratado de Tordesilhas, através de entradas e bandeiras, acordos diplomáticos e anexações."
+          },
+          {
+            "pergunta": "O território brasileiro já foi dividido em Estado do Grão-Pará e Estado do Brasil.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. Durante parte do período colonial, o território que hoje corresponde ao Brasil foi dividido administrativamente em Estado do Grão-Pará e Maranhão (norte) e Estado do Brasil (centro-sul), que eram administrados separadamente por Portugal."
+          },
+          {
+            "pergunta": "O que aconteceu ao território brasileiro no século XVIII?",
+            "opcoes": [
+              "Foi dividido em municípios",
+              "Passou a ser ocupado por entradas e bandeiras, mudando as fronteiras",
+              "Tornou-se uma monarquia",
+              "Foi dividido em regiões metropolitanas"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "No século XVIII, o território brasileiro foi expandido significativamente através das entradas e bandeiras, expedições que adentraram o interior do continente em busca de riquezas e indígenas para escravização, ultrapassando os limites estabelecidos pelo Tratado de Tordesilhas e ampliando as fronteiras da colônia portuguesa."
+          },
+          {
+            "pergunta": "Sobre as mudanças do território brasileiro, assinale as afirmações corretas:",
+            "opcoes": [
+              "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; o Acre foi anexado ao Brasil por acordos",
+              "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso",
+              "O território foi ampliado por entradas e bandeiras; o Acre foi anexado ao Brasil por acordos; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso",
+              "O território foi ampliado por entradas e bandeiras; o Brasil já foi dividido em províncias; o Acre foi anexado ao Brasil por acordos; Mato Grosso do Sul foi criado a partir do desmembramento de Mato Grosso"
+            ],
+            "resposta_correta": 3,
+            "explicacao": "Todas as afirmações são corretas: o território brasileiro foi ampliado pelas entradas e bandeiras; durante o Império (1822-1889), o Brasil foi dividido em províncias; o Acre foi anexado ao Brasil em 1903 através do Tratado de Petrópolis com a Bolívia; e Mato Grosso do Sul foi criado em 1977 a partir do desmembramento do estado de Mato Grosso."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "titulo": "Organização Política do Brasil",
+        "tipo": "quiz",
+        "descricao": "Teste seus conhecimentos sobre a organização política e administrativa do Brasil.",
+        "questoes": [
+          {
+            "pergunta": "O Brasil se tornou uma República Federativa em 1889.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. Em 15 de novembro de 1889, ocorreu a Proclamação da República, quando o Brasil deixou de ser uma monarquia e se tornou uma República Federativa, com um sistema de governo presidencialista."
+          },
+          {
+            "pergunta": "O Distrito Federal sempre foi Brasília.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Falso. Antes de Brasília, inaugurada em 1960, o Distrito Federal estava localizado na cidade do Rio de Janeiro, que foi a capital do Brasil de 1763 até 1960."
+          },
+          {
+            "pergunta": "Após a Proclamação da República, como o território brasileiro passou a ser organizado?",
+            "opcoes": [
+              "Em províncias",
+              "Em estados e Distrito Federal",
+              "Em capitanias hereditárias",
+              "Em regiões metropolitanas"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Após a Proclamação da República em 1889, o território brasileiro passou a ser organizado em estados (antigas províncias do Império) e Distrito Federal, formando uma federação. Essa organização político-administrativa permanece até hoje, com algumas modificações."
+          },
+          {
+            "pergunta": "Existem projetos de criação de novos estados no Brasil, o que significa que o mapa do Brasil pode mudar no futuro.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. Existem diversos projetos de criação de novos estados e territórios no Brasil, como o estado do Tapajós (a partir do desmembramento do Pará) e o estado do Maranhão do Sul. Se aprovados, esses projetos podem alterar o mapa político do Brasil no futuro."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "titulo": "Extensão e Pontos Extremos do Brasil",
+        "tipo": "quiz",
+        "descricao": "Responda às questões sobre a extensão territorial e os pontos extremos do Brasil.",
+        "questoes": [
+          {
+            "pergunta": "O ponto mais ao norte do Brasil é a nascente do Rio Ailã, em Roraima.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. O ponto extremo norte do Brasil é a nascente do rio Ailã, no monte Caburaí, estado de Roraima, na fronteira com a Guiana. Contrariando o dito popular, o Brasil não começa no 'Oiapoque', mas sim no monte Caburaí."
+          },
+          {
+            "pergunta": "O ponto mais ao sul do Brasil é a Ponta do Seixas.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "Falso. O ponto extremo sul do Brasil é o Arroio Chuí, na fronteira com o Uruguai, no estado do Rio Grande do Sul. A Ponta do Seixas, localizada em João Pessoa (PB), é o ponto extremo oriental (leste) do Brasil continental."
+          },
+          {
+            "pergunta": "Qual é o ponto mais ocidental do Brasil?",
+            "opcoes": [
+              "Ponta do Seixas",
+              "Arroio Chuí",
+              "Nascente do Rio Moa, no Acre",
+              "Nascente do Rio Ailã, em Roraima"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "O ponto extremo ocidental (oeste) do Brasil é a nascente do rio Moa, na serra da Contamana, estado do Acre, na fronteira com o Peru."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "titulo": "Divisão Política Atual do Brasil",
+        "tipo": "quiz",
+        "descricao": "Teste seus conhecimentos sobre a atual divisão política e administrativa do Brasil.",
+        "questoes": [
+          {
+            "pergunta": "O Brasil possui 26 estados e 1 Distrito Federal.",
+            "opcoes": [
+              "Verdadeiro",
+              "Falso"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Verdadeiro. Atualmente, o Brasil é dividido em 26 estados e 1 Distrito Federal (Brasília), totalizando 27 unidades federativas."
+          },
+          {
+            "pergunta": "Atualmente, o Brasil é dividido em:",
+            "opcoes": [
+              "27 estados e 1 Distrito Federal",
+              "26 estados e 1 Distrito Federal",
+              "25 estados e 2 territórios",
+              "26 estados e 2 territórios"
+            ],
+            "resposta_correta": 1,
+            "explicacao": "O Brasil é dividido em 26 estados e 1 Distrito Federal. Os antigos territórios federais foram transformados em estados (Roraima e Amapá) ou reincorporados a estados existentes (Fernando de Noronha foi reincorporado a Pernambuco)."
+          }
+        ]
+      }
+    ]
+  }
+]

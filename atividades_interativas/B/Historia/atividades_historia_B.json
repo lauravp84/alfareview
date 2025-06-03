@@ -1,0 +1,115 @@
+{
+  "disciplina": "História",
+  "trimestre": "2º Trimestre B",
+  "bncc": [
+    {
+      "codigo": "EF05HI05",
+      "descricao": "Associar o conceito de cidadania à conquista de direitos dos povos e das sociedades, compreendendo-o como conquista histórica."
+    },
+    {
+      "codigo": "EF05HI06",
+      "descricao": "Comparar o uso de diferentes linguagens e tecnologias no processo de comunicação e avaliar os significados sociais, políticos e culturais atribuídos a elas."
+    },
+    {
+      "codigo": "EF05HI09",
+      "descricao": "Comparar pontos de vista sobre temas que impactam a vida cotidiana no tempo presente, por meio do acesso a diferentes fontes, incluindo orais."
+    }
+  ],
+  "atividades": [
+    {
+      "id": 1,
+      "titulo": "Cidadania e Direitos",
+      "tipo": "quiz",
+      "descricao": "Teste seus conhecimentos sobre cidadania e direitos ao longo da história.",
+      "questoes": [
+        {
+          "pergunta": "O que significa ser cidadão no Brasil atual?",
+          "opcoes": [
+            "Apenas ter nascido no Brasil",
+            "Apenas poder votar nas eleições",
+            "Ter direitos e deveres políticos, civis e sociais garantidos pela Constituição",
+            "Apenas pagar impostos"
+          ],
+          "resposta_correta": 2,
+          "explicacao": "Ser cidadão no Brasil atual significa ter direitos e deveres políticos, civis e sociais garantidos pela Constituição Federal de 1988. Isso inclui o direito ao voto, à educação, à saúde, à moradia, à liberdade de expressão, entre outros, além dos deveres como respeitar as leis e pagar impostos."
+        },
+        {
+          "pergunta": "Qual destes grupos NÃO tinha direito ao voto no Brasil até 1932?",
+          "opcoes": [
+            "Homens ricos",
+            "Homens alfabetizados",
+            "Mulheres",
+            "Militares"
+          ],
+          "resposta_correta": 2,
+          "explicacao": "As mulheres não tinham direito ao voto no Brasil até 1932, quando foi aprovado o Código Eleitoral que garantiu o direito de voto às mulheres. Este foi um importante marco na conquista da cidadania feminina no país."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Comunicação e Tecnologia na História",
+      "tipo": "quiz",
+      "descricao": "Responda às questões sobre a evolução dos meios de comunicação e tecnologias ao longo da história.",
+      "questoes": [
+        {
+          "pergunta": "Qual invenção revolucionou a comunicação no século XV, permitindo a reprodução de textos em grande escala?",
+          "opcoes": [
+            "Telégrafo",
+            "Imprensa de tipos móveis",
+            "Telefone",
+            "Internet"
+          ],
+          "resposta_correta": 1,
+          "explicacao": "A imprensa de tipos móveis, desenvolvida por Johannes Gutenberg por volta de 1450, revolucionou a comunicação ao permitir a reprodução de textos em grande escala. Antes disso, os livros eram copiados manualmente, o que os tornava raros e caros."
+        },
+        {
+          "pergunta": "Como os meios de comunicação modernos (internet, redes sociais) mudaram a forma como as pessoas participam da vida política?",
+          "opcoes": [
+            "Não mudaram em nada, pois a política continua igual",
+            "Permitiram maior acesso à informação e participação direta em debates políticos",
+            "Eliminaram completamente a necessidade de partidos políticos",
+            "Tornaram a política exclusiva para especialistas em tecnologia"
+          ],
+          "resposta_correta": 1,
+          "explicacao": "Os meios de comunicação modernos, como internet e redes sociais, permitiram maior acesso à informação política e possibilitaram que as pessoas participem diretamente de debates, mobilizações e campanhas, sem depender exclusivamente da mídia tradicional. Isso ampliou as possibilidades de participação política, embora também tenha trazido desafios como a desinformação."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Linha do Tempo da Cidadania no Brasil",
+      "tipo": "interativo",
+      "descricao": "Organize os eventos importantes na conquista de direitos no Brasil.",
+      "instrucoes": "Arraste cada evento para sua posição correta na linha do tempo.",
+      "eventos": [
+        {"texto": "Abolição da escravidão", "ano": 1888},
+        {"texto": "Direito de voto para as mulheres", "ano": 1932},
+        {"texto": "Constituição Cidadã", "ano": 1988},
+        {"texto": "Estatuto da Criança e do Adolescente", "ano": 1990},
+        {"texto": "Lei Maria da Penha", "ano": 2006},
+        {"texto": "Estatuto do Idoso", "ano": 2003},
+        {"texto": "Estatuto da Pessoa com Deficiência", "ano": 2015}
+      ],
+      "dica": "Observe que a conquista de direitos é um processo histórico contínuo, com avanços ao longo do tempo para diferentes grupos sociais."
+    },
+    {
+      "id": 4,
+      "titulo": "Diferentes Pontos de Vista na História",
+      "tipo": "desafio",
+      "descricao": "Analise diferentes perspectivas sobre eventos históricos.",
+      "questoes": [
+        {
+          "pergunta": "A chegada dos europeus à América pode ser vista de diferentes formas. Compare a perspectiva dos colonizadores europeus com a dos povos indígenas sobre esse evento.",
+          "resposta": "Para os colonizadores europeus, a chegada à América representava uma grande descoberta, expansão territorial, oportunidades econômicas e missão civilizatória/religiosa. Já para os povos indígenas, significou invasão de seus territórios, imposição de uma cultura estrangeira, doenças desconhecidas, escravização e genocídio de muitos povos nativos.",
+          "dica": "Pense em como o mesmo evento pode ser interpretado de formas completamente diferentes dependendo de quem o vivencia."
+        },
+        {
+          "pergunta": "Escolha um tema atual que impacta a vida cotidiana (como uso de tecnologias, questões ambientais ou direitos sociais) e apresente pelo menos dois pontos de vista diferentes sobre ele.",
+          "resposta": "Exemplo sobre uso de celulares por crianças e adolescentes: Ponto de vista 1: Celulares são ferramentas educativas importantes que preparam os jovens para o mundo digital, permitem acesso à informação e desenvolvimento de habilidades tecnológicas. Ponto de vista 2: O uso excessivo de celulares pode causar problemas de saúde mental, dependência, dificuldades de socialização presencial e exposição a conteúdos inadequados.",
+          "dica": "Escolha um tema atual e tente apresentar argumentos válidos de ambos os lados, mostrando que questões complexas raramente têm uma única perspectiva correta."
+        }
+      ]
+    }
+  ]
+}

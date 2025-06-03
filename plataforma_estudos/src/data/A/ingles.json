@@ -1,0 +1,148 @@
+[
+  {
+    "disciplina": "Inglês",
+    "trimestre": "2º Trimestre A",
+    "bncc": [
+      {
+        "codigo": "EF05LI01",
+        "descricao": "Identificar diferentes linguagens (verbal, não verbal, midiática, digital etc.) em textos de língua inglesa."
+      },
+      {
+        "codigo": "EF05LI04",
+        "descricao": "Reconhecer, com o apoio de palavras cognatas e pistas do contexto discursivo, o assunto e as informações principais em textos orais e escritos."
+      },
+      {
+        "codigo": "EF05LI07",
+        "descricao": "Nomear em língua inglesa objetos, pessoas, lugares, animais, do cotidiano."
+      }
+    ],
+    "atividades": [
+      {
+        "id": 1,
+        "titulo": "Daily Routines",
+        "tipo": "quiz",
+        "descricao": "Test your knowledge about daily routine vocabulary and expressions.",
+        "questoes": [
+          {
+            "pergunta": "What time do you usually wake up?",
+            "opcoes": [
+              "I usually wake up at 7 o'clock.",
+              "I usually wake up yesterday.",
+              "I usually wake up breakfast.",
+              "I usually wake up school."
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Para responder a pergunta sobre horário (What time), usamos expressões de tempo com 'at' seguido da hora (at 7 o'clock)."
+          },
+          {
+            "pergunta": "Put these daily activities in the correct order:",
+            "opcoes": [
+              "Wake up, have breakfast, go to school, have lunch, do homework, have dinner, go to bed",
+              "Have dinner, have lunch, wake up, go to school, have breakfast, do homework, go to bed",
+              "Go to bed, wake up, have breakfast, go to school, have lunch, do homework, have dinner",
+              "Have breakfast, wake up, go to school, have lunch, have dinner, do homework, go to bed"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "A ordem lógica das atividades diárias é: acordar, tomar café da manhã, ir para a escola, almoçar, fazer a lição de casa, jantar e ir para a cama."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "Food and Meals",
+        "tipo": "quiz",
+        "descricao": "Answer the questions about food vocabulary and healthy eating habits.",
+        "questoes": [
+          {
+            "pergunta": "Which of these is NOT a fruit?",
+            "opcoes": [
+              "Apple",
+              "Banana",
+              "Carrot",
+              "Orange"
+            ],
+            "resposta_correta": 2,
+            "explicacao": "Carrot (cenoura) não é uma fruta, é um vegetal. Apple (maçã), banana (banana) e orange (laranja) são frutas."
+          },
+          {
+            "pergunta": "Complete the sentence: 'For breakfast, I usually eat _____ and drink _____.'",
+            "opcoes": [
+              "bread / coffee",
+              "dinner / lunch",
+              "rice / meat",
+              "plate / fork"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "A frase correta é 'For breakfast, I usually eat bread and drink coffee' (No café da manhã, eu geralmente como pão e bebo café). As outras opções não fazem sentido no contexto."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Memory Game: Animals",
+        "tipo": "interativo",
+        "descricao": "Match the animal names with their pictures.",
+        "instrucoes": "Click on the cards to find matching pairs of animal names and pictures.",
+        "pares": [
+          {
+            "nome": "dog",
+            "imagem": "cachorro"
+          },
+          {
+            "nome": "cat",
+            "imagem": "gato"
+          },
+          {
+            "nome": "bird",
+            "imagem": "pássaro"
+          },
+          {
+            "nome": "fish",
+            "imagem": "peixe"
+          },
+          {
+            "nome": "elephant",
+            "imagem": "elefante"
+          },
+          {
+            "nome": "lion",
+            "imagem": "leão"
+          },
+          {
+            "nome": "monkey",
+            "imagem": "macaco"
+          },
+          {
+            "nome": "turtle",
+            "imagem": "tartaruga"
+          }
+        ],
+        "dica": "Try to remember the position of each card after you flip it."
+      },
+      {
+        "id": 4,
+        "titulo": "School Objects",
+        "tipo": "desafio",
+        "descricao": "Identify and write the names of school objects in English.",
+        "questoes": [
+          {
+            "pergunta": "What are these objects? (Image shows: pencil, eraser, notebook, ruler)",
+            "resposta": "pencil, eraser, notebook, ruler",
+            "dica": "These are objects you use to write and draw in class."
+          },
+          {
+            "pergunta": "Complete the dialogue:\nTeacher: What do you need for the art class?\nStudent: I need _____, _____ and _____.",
+            "opcoes": [
+              "a pencil, colored pencils, paper",
+              "a computer, a printer, a keyboard",
+              "a fork, a knife, a spoon",
+              "a ball, a racket, shoes"
+            ],
+            "resposta_correta": 0,
+            "explicacao": "Para a aula de arte, os materiais mais adequados são: lápis, lápis de cor e papel (a pencil, colored pencils, paper)."
+          }
+        ]
+      }
+    ]
+  }
+]
