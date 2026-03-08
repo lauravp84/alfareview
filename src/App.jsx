@@ -143,22 +143,15 @@ const CAP1_MAPA = {
   nos: [
     {id:"A", label:"Substância Pura", sub:"Composição definida", cor:C.red},
     {id:"B", label:"Mistura", sub:"2+ substâncias sem reação", cor:C.blue},
-    {id:"C", label:"Simples", sub:"1 elemento químico
-Ex: O₂, Au, Fe", cor:C.redLight, pai:"A", corPai:C.red},
-    {id:"D", label:"Composta", sub:"2+ elementos
-Ex: H₂O, NaCl", cor:C.redLight, pai:"A", corPai:C.red},
-    {id:"E", label:"Homogênea", sub:"1 fase visível
-Ex: água+sal", cor:C.blueLight, pai:"B", corPai:C.blue},
-    {id:"F", label:"Heterogênea", sub:"2+ fases visíveis
-Ex: água+óleo", cor:C.blueLight, pai:"B", corPai:C.blue},
-    {id:"G", label:"Solução", sub:"Soluto + Solvente
-diluída/concentrada/saturada", cor:C.tealLight, pai:"E", corPai:C.teal},
-    {id:"H", label:"Liga Metálica", sub:"Sólida homogênea
-Ex: Bronze, Aço, Ouro 18K", cor:C.tealLight, pai:"E", corPai:C.teal},
+    {id:"C", label:"Simples", sub:"1 elemento químico / Ex: O₂, Au, Fe", cor:C.redLight, pai:"A", corPai:C.red},
+    {id:"D", label:"Composta", sub:"2+ elementos / Ex: H₂O, NaCl", cor:C.redLight, pai:"A", corPai:C.red},
+    {id:"E", label:"Homogênea", sub:"1 fase visível / Ex: água+sal", cor:C.blueLight, pai:"B", corPai:C.blue},
+    {id:"F", label:"Heterogênea", sub:"2+ fases visíveis / Ex: água+óleo", cor:C.blueLight, pai:"B", corPai:C.blue},
+    {id:"G", label:"Solução", sub:"Soluto + Solvente / diluída/concentrada/saturada", cor:C.tealLight, pai:"E", corPai:C.teal},
+    {id:"H", label:"Liga Metálica", sub:"Sólida homogênea / Ex: Bronze, Aço, Ouro 18K", cor:C.tealLight, pai:"E", corPai:C.teal},
     {id:"I", label:"Bifásica/Trifásica/
 Polifásica", sub:"Classificação por fases", cor:C.blueLight, pai:"F", corPai:C.blue},
-    {id:"J", label:"Combinação", sub:"Reação química
-Irreversível", cor:C.orangeLight, pai:"B", corPai:C.orange},
+    {id:"J", label:"Combinação", sub:"Reação química / Irreversível", cor:C.orangeLight, pai:"B", corPai:C.orange},
   ]
 };
 
@@ -939,12 +932,9 @@ function DiscursivaCap3(){ return(
 const CAP2_MAPA={
   central:"TRANSFORMAÇÕES DA MATÉRIA",
   nos:[
-    {id:"A",label:"Física",sub:"Não altera composição
-Reversível",cor:C.blue},
-    {id:"B",label:"Química",sub:"Altera composição
-Geralmente irreversível",cor:C.red},
-    {id:"C",label:"Biológica",sub:"Em seres vivos
-Processo vital",cor:C.green},
+    {id:"A",label:"Física",sub:"Não altera composição / Reversível",cor:C.blue},
+    {id:"B",label:"Química",sub:"Altera composição / Geralmente irreversível",cor:C.red},
+    {id:"C",label:"Biológica",sub:"Em seres vivos / Processo vital",cor:C.green},
     {id:"D",label:"Exemplos Físicas",sub:"Derreter, amassar,\ncortar, dissolver, prancha",cor:C.blueLight,pai:"A",corPai:C.blue},
     {id:"E",label:"Exemplos Químicas",sub:"Ferrugem, queima,\nbolo, alisamento químico",cor:C.redLight,pai:"B",corPai:C.red},
     {id:"F",label:"Exemplos Biológicas",sub:"Metamorfose, crescimento,\ngerminação",cor:C.greenLight,pai:"C",corPai:C.green},
