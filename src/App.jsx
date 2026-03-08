@@ -149,8 +149,7 @@ const CAP1_MAPA = {
     {id:"F", label:"Heterogênea", sub:"2+ fases visíveis / Ex: água+óleo", cor:C.blueLight, pai:"B", corPai:C.blue},
     {id:"G", label:"Solução", sub:"Soluto + Solvente / diluída/concentrada/saturada", cor:C.tealLight, pai:"E", corPai:C.teal},
     {id:"H", label:"Liga Metálica", sub:"Sólida homogênea / Ex: Bronze, Aço, Ouro 18K", cor:C.tealLight, pai:"E", corPai:C.teal},
-    {id:"I", label:"Bifásica/Trifásica/
-Polifásica", sub:"Classificação por fases", cor:C.blueLight, pai:"F", corPai:C.blue},
+    {id:"I", label:"Bifásica/Trifásica/ Polifásica", sub:"Classificação por fases", cor:C.blueLight, pai:"F", corPai:C.blue},
     {id:"J", label:"Combinação", sub:"Reação química / Irreversível", cor:C.orangeLight, pai:"B", corPai:C.orange},
   ]
 };
